@@ -1,0 +1,14 @@
+{
+  "SUB_ACTIONS": {
+    "COPY_URL": {
+      "label": "Copy URL",
+      "icon": "mdi-content-copy",
+      "color": "primary"
+    },
+    "DELETE": {
+      "label": "Delete",
+      "icon": "mdi-delete",
+      "color": "red"
+    }
+  }
+}

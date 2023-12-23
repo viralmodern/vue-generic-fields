@@ -1,0 +1,2639 @@
+{
+  "DOCUMENT_VIEWS": {
+    "TEXT": {
+      "text": "Text",
+      "label": "Text",
+      "icon": "mdi-format-header-1",
+      "path": "text",
+      "name": "TEXT",
+      "hide": false
+    },
+    "PDF": {
+      "text": "PDF",
+      "label": "PDF",
+      "icon": "mdi-format-header-1",
+      "path": "pdf",
+      "name": "PDF",
+      "hide": true
+    },
+    "ATTENTION": {
+      "text": "Attention",
+      "label": "Attention",
+      "icon": "mdi-key",
+      "path": "rake",
+      "name": "ATTENTION",
+      "hide": true
+    },
+    "ANNOTATION": {
+      "text": "Annotation",
+      "label": "Annotation",
+      "icon": "mdi-comment-processing",
+      "path": "annotation",
+      "name": "ANNOTATION",
+      "hide": true
+    },
+    "NER": {
+      "text": "Ner",
+      "label": "Ner",
+      "icon": "mdi-toggle-switch",
+      "path": "ner",
+      "name": "NER",
+      "hide": true,
+      "children": {
+        "NAME_ENTITY_RECOGNITION": {
+          "text": "Name Entity Recognition",
+          "label": "Name Entity Recognition",
+          "path": "ner/name-entity-recognition",
+          "name": "NER-NAME_ENTITY_RECOGNITION"
+        },
+        "LEGAL_RECOGNITION": {
+          "text": "Legal Recognition",
+          "label": "Legal Recognition",
+          "path": "ner/legal-recognition",
+          "name": "NER-LEGAL_RECOGNITION"
+        },
+        "CONFERENCE_RESOLUTION": {
+          "text": "Conference Resolution",
+          "label": "Conference Resolution",
+          "path": "ner/conference-resolution",
+          "name": "NER-CONFERENCE_RESOLUTION"
+        }
+      }
+    },
+    "NAME_ENTITY_RECOGNITION": {
+      "text": "Name Entity Recognition",
+      "label": "Name Entity Recognition",
+      "path": "ner/name-entity-recognition",
+      "name": "NAME_ENTITY_RECOGNITION",
+      "hide": true
+    },
+    "LEGAL_RECOGNITION": {
+      "text": "Legal Recognition",
+      "label": "Legal Recognition",
+      "path": "ner/legal-recognition",
+      "name": "LEGAL_RECOGNITION",
+      "hide": true
+    },
+    "CONFERENCE_RESOLUTION": {
+      "text": "Conference Resolution",
+      "label": "Conference Resolution",
+      "path": "ner/conference-resolution",
+      "name": "CONFERENCE_RESOLUTION",
+      "hide": true
+    }
+  },
+  "DOCUMENT_PANELS": {
+    "DOCUMENT_VIEW": {
+      "name": "DOCUMENT_VIEW",
+      "label": "Document View ",
+      "icon": "",
+      "color": "#FF5252",
+      "hide": false
+    },
+    "TABLE_OF_AUTHORITY": {
+      "name": "TABLE_OF_AUTHORITY",
+      "label": "Table of Authority",
+      "icon": "",
+      "color": "#2196F3",
+      "hide": true
+    },
+    "ENTITIES": {
+      "name": "ENTITIES",
+      "label": "Entities",
+      "icon": "",
+      "color": "#009688"
+    },
+    "EXTRACTIONS": {
+      "name": "EXTRACTIONS",
+      "label": "Extractions",
+      "icon": "",
+      "color": "#FF9800",
+      "hide": true
+    },
+    "SUMMARY": {
+      "name": "SUMMARY",
+      "label": "Summary",
+      "icon": "",
+      "color": "#689F38",
+      "hide": true
+    },
+    "FACT_TABLE": {
+      "name": "FACT_TABLE",
+      "label": "Fact Table",
+      "icon": "",
+      "color": "indigo",
+      "hide": true
+    },
+    "HIGHLIGHT_SEARCH_VIEW": {
+      "name": "HIGHLIGHT_SEARCH_VIEW",
+      "label": "Highlight Search View",
+      "icon": "",
+      "color": "purple",
+      "hide": true
+    }
+  },
+  "ACTIONS_HIGHLIGHTER": {
+    "ANNOTATE": {
+      "NAME": "ANNOTATE",
+      "LABEL": "Annotate",
+      "ICON": "mdi-comment-processing-outline"
+    },
+    "SEARCH_NOW": {
+      "NAME": "SEARCH_NOW",
+      "LABEL": "Search Now",
+      "ICON": "mdi-magnify"
+    },
+    "COPY_CLIPBOARD": {
+      "NAME": "COPY_CLIPBOARD",
+      "LABEL": "Copy Clipboard",
+      "ICON": "mdi-clipboard-arrow-left"
+    },
+    "CHANGE_COLOR": {
+      "NAME": "CHANGE_COLOR",
+      "LABEL": "Mark Color",
+      "ICON": "mdi-format-color-fill"
+    },
+    "HIGHLIGHT": {
+      "NAME": "HIGHLIGHT",
+      "LABEL": "Highlight",
+      "ICON": " mdi-border-color"
+    }
+  },
+  "ANNOTATION_ACTIONS": {
+    "REMOVE": {
+      "NAME": "REMOVE",
+      "LABEL": "Remove",
+      "ICON": "mdi-delete"
+    },
+    "CHANGE_COLOR": {
+      "NAME": "CHANGE_COLOR",
+      "LABEL": "Change Color",
+      "ICON": "mdi-format-color-fill"
+    },
+    "COMMENT": {
+      "NAME": "COMMENT",
+      "LABEL": "Comment",
+      "ICON": "mdi-comment"
+    },
+    "CHANGE_TAGS": {
+      "NAME": "CHANGE_TAGS",
+      "LABEL": "Change Tags",
+      "ICON": "mdi-tag"
+    }
+  },
+  "TEXT_DECORATION": {
+    "PATTERN1": {
+      "PATTERN": ">>>NOTICE REGARDING",
+      "COLOR": "blue",
+      "ICON": "mdi-information",
+      "TYPE": "info"
+    },
+    "PATTERN2": {
+      "PATTERN": "***NOTICE TO",
+      "COLOR": "blue",
+      "ICON": "mdi-information",
+      "TYPE": "info"
+    },
+    "PATTERN3": {
+      "PATTERN": "Minute Entry",
+      "COLOR": "indigo",
+      "ICON": "mdi-information",
+      "TYPE": "info"
+    },
+    "PATTERN4": {
+      "PATTERN": "Set/Reset",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-calendar",
+      "TYPE": "info"
+    },
+    "PATTERN5": {
+      "PATTERN": "Reset",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-calendar",
+      "TYPE": "info"
+    },
+    "PATTERN6": {
+      "PATTERN": "Transmission of Notice of Appeal",
+      "COLOR": "indigo",
+      "ICON": "mdi-information",
+      "TYPE": "info"
+    },
+    "PATTERN7": {
+      "PATTERN": "***",
+      "COLOR": "blue",
+      "ICON": "mdi-information",
+      "TYPE": "info"
+    },
+    "PATTERN8": {
+      "PATTERN": "Scheduling Order",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-calendar",
+      "TYPE": "info"
+    },
+    "PATTERN9": {
+      "PATTERN": "Set Hearings",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-calendar",
+      "TYPE": "info"
+    },
+    "PATTERN10": {
+      "PATTERN": "Certificate of Service",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-certificate-outline",
+      "TYPE": "info"
+    },
+    "PATTERN11": {
+      "PATTERN": "Letter",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-email-outline",
+      "TYPE": "info"
+    },
+    "PATTERN12": {
+      "PATTERN": "Transcript",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-text-box-multiple-outline",
+      "TYPE": "info"
+    },
+    "PATTERN13": {
+      "PATTERN": "Appear Pro Hac Vice",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-account-plus",
+      "TYPE": "info"
+    },
+    "PATTERN14": {
+      "PATTERN": "Withdraw as Attorney",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-account-remove",
+      "TYPE": "info"
+    },
+    "PATTERN15": {
+      "PATTERN": "Withdrawal of Counsel",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-account-remove",
+      "TYPE": "info"
+    },
+    "PATTERN16": {
+      "PATTERN": "Seal Document",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-shield-lock-outline",
+      "TYPE": "info"
+    },
+
+    "PATTERN17": {
+      "PATTERN": "unseal",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-shield-key-outline",
+      "TYPE": "info"
+    },
+    "PATTERN18": {
+      "PATTERN": "Attorney Fees",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-account-cash-outline",
+      "TYPE": "info"
+    },
+    "PATTERN19": {
+      "PATTERN": "Minute Order",
+      "COLOR": "indigo",
+      "ICON": "mdi-information",
+      "TYPE": "info"
+    },
+    "PATTERN20": {
+      "PATTERN": "Extension of Time",
+      "COLOR": "indigo",
+      "ICON": "mdi-timetable",
+      "TYPE": "info"
+    },
+    "PATTERN21": {
+      "PATTERN": "amicus curiae brief",
+      "COLOR": "indigo",
+      "ICON": "mdi-account-group-outline",
+      "TYPE": "info"
+    },
+    "PATTERN22": {
+      "PATTERN": "compel",
+      "COLOR": "indigo",
+      "ICON": "mdi-layers-search-outline",
+      "TYPE": "info"
+    },
+    "PATTERN23": {
+      "PATTERN": "expert witness",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-e-circle-outline",
+      "TYPE": "info"
+    },
+    "PATTERN24": {
+      "PATTERN": "non party witness",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-w-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN25": {
+      "PATTERN": "third party witness",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-w-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN26": {
+      "PATTERN": "witness list",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-w-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN27": {
+      "PATTERN": "affidavit",
+      "COLOR": "indigo",
+      "ICON": "mdi-certificate",
+      "TYPE": "info"
+    },
+    "PATTERN28": {
+      "PATTERN": "declaration",
+      "COLOR": "indigo",
+      "ICON": "mdi-certificate",
+      "TYPE": "info"
+    },
+    "PATTERN29": {
+      "PATTERN": "testimony",
+      "COLOR": "indigo",
+      "ICON": "mdi-certificate",
+      "TYPE": "info"
+    },
+    "PATTERN30": {
+      "PATTERN": "change of address",
+      "COLOR": "indigo",
+      "ICON": "mdi-map-marker-distance",
+      "TYPE": "info"
+    },
+    "PATTERN31": {
+      "PATTERN": "Change of Firm Address",
+      "COLOR": "indigo",
+      "ICON": "mdi-map-marker-distance",
+      "TYPE": "info"
+    },
+    "PATTERN32": {
+      "PATTERN": "Change of Firm and address",
+      "COLOR": "indigo",
+      "ICON": "mdi-map-marker-distance",
+      "TYPE": "info"
+    },
+    "PATTERN33": {
+      "PATTERN": "Change of Office Address",
+      "COLOR": "indigo",
+      "ICON": "mdi-map-marker-distance",
+      "TYPE": "info"
+    },
+    "PATTERN34": {
+      "PATTERN": "fully briefed",
+      "COLOR": "indigo",
+      "ICON": "mdi-briefcase-variant-outline",
+      "TYPE": "info"
+    },
+    "PATTERN35": {
+      "PATTERN": "notice to appeal",
+      "COLOR": "indigo",
+      "ICON": "mdi-chevron-triple-up",
+      "TYPE": "info"
+    },
+    "PATTERN36": {
+      "PATTERN": "MANDATE of USCA",
+      "COLOR": "indigo",
+      "ICON": "mdi-map-marker-distance",
+      "TYPE": "info"
+    },
+    "PATTERN37": {
+      "PATTERN": "Court of Appeals",
+      "COLOR": "indigo",
+      "ICON": "mdi-chevron-triple-up",
+      "TYPE": "info"
+    },
+    "PATTERN38": {
+      "PATTERN": "joint stipulation",
+      "COLOR": "indigo",
+      "ICON": "mdi-fencing",
+      "TYPE": "info"
+    },
+    "PATTERN39": {
+      "PATTERN": "joint motion",
+      "COLOR": "indigo",
+      "ICON": "mdi-fencing",
+      "TYPE": "info"
+    },
+    "PATTERN40": {
+      "PATTERN": "Notice of Hearing",
+      "COLOR": "indigo",
+      "ICON": "mdi-ear-hearing",
+      "TYPE": "info"
+    },
+    "PATTERN41": {
+      "PATTERN": "case reassigned",
+      "COLOR": "indigo",
+      "ICON": "mdi-account-convert-outline",
+      "TYPE": "info"
+    },
+    "PATTERN42": {
+      "PATTERN": "status conference",
+      "COLOR": "indigo",
+      "ICON": "mdi-view-agenda-outline",
+      "TYPE": "info"
+    },
+    "PATTERN43": {
+      "PATTERN": "status report",
+      "COLOR": "indigo",
+      "ICON": "mdi-chart-timeline",
+      "TYPE": "info"
+    },
+    "PATTERN44": {
+      "PATTERN": "protective order",
+      "COLOR": "indigo",
+      "ICON": "mdi-security",
+      "TYPE": "info"
+    },
+    "PATTERN45": {
+      "PATTERN": "REPORT AND RECOMMENDATIONS",
+      "COLOR": "indigo",
+      "ICON": "mdi-lightbulb-on-outline",
+      "TYPE": "info"
+    },
+    "PATTERN46": {
+      "PATTERN": "Fees and Expenses",
+      "COLOR": "indigo",
+      "ICON": "mdi-currency-usd-circle-outline",
+      "TYPE": "info"
+    },
+    "PATTERN47": {
+      "PATTERN": "Disbursement",
+      "COLOR": "indigo",
+      "ICON": "mdi-currency-usd-circle-outline",
+      "TYPE": "info"
+    },
+    "PATTERN48": {
+      "PATTERN": "Settlement",
+      "COLOR": "indigo",
+      "ICON": "mdi-handshake",
+      "TYPE": "info"
+    },
+    "PATTERN49": {
+      "PATTERN": "Jury Instructions",
+      "COLOR": "indigo",
+      "ICON": "mdi-scale",
+      "TYPE": "info"
+    },
+    "PATTERN50": {
+      "PATTERN": "form of verdict",
+      "COLOR": "indigo",
+      "ICON": "mdi-scale",
+      "TYPE": "info"
+    },
+    "PATTERN51": {
+      "PATTERN": "Voir Dire",
+      "COLOR": "indigo",
+      "ICON": "mdi-scale",
+      "TYPE": "info"
+    },
+    "PATTERN52": {
+      "PATTERN": "Pretrial Conference Statement",
+      "COLOR": "indigo",
+      "ICON": "mdi-scale",
+      "TYPE": "info"
+    },
+    "PATTERN53": {
+      "PATTERN": "Pretrial Order",
+      "COLOR": "indigo",
+      "ICON": "mdi-scale",
+      "TYPE": "info"
+    },
+    "PATTERN54": {
+      "PATTERN": "Trial Schedule",
+      "COLOR": "indigo",
+      "ICON": "mdi-scale",
+      "TYPE": "info"
+    },
+    "PATTERN55": {
+      "PATTERN": "Jury Trial",
+      "COLOR": "indigo",
+      "ICON": "mdi-scale",
+      "TYPE": "info"
+    },
+    "PATTERN56": {
+      "PATTERN": "Neutral Statement",
+      "COLOR": "indigo",
+      "ICON": "mdi-scale",
+      "TYPE": "info"
+    },
+    "PATTERN57": {
+      "PATTERN": "NOTICE OF APPEARANCE",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-account-plus",
+      "TYPE": "info"
+    },
+    "PATTERN58": {
+      "PATTERN": "SEALED DOCUMENT",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-shield-lock-outline",
+      "TYPE": "info"
+    },
+    "PATTERN59": {
+      "PATTERN": "seal",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-shield-key-outline",
+      "TYPE": "info"
+    },
+    "PATTERN60": {
+      "PATTERN": "motion",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-sword-cross",
+      "TYPE": "info"
+    },
+    "PATTERN61": {
+      "PATTERN": "motion",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-sword-cross",
+      "TYPE": "info"
+    },
+    "PATTERN62": {
+      "PATTERN": "order",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-scale-balance",
+      "TYPE": "info"
+    },
+    "PATTERN63": {
+      "PATTERN": "brief",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-briefcase-variant-outline",
+      "TYPE": "info"
+    },
+    "PATTERN64": {
+      "PATTERN": "deposition",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-alpha-d-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN65": {
+      "PATTERN": "non-party witness",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-alpha-w-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN66": {
+      "PATTERN": "non party",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-alpha-w-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN67": {
+      "PATTERN": "non-party",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-alpha-w-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN68": {
+      "PATTERN": "NOTICE OF APPEAL",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-chevron-triple-up",
+      "TYPE": "info"
+    },
+    "PATTERN69": {
+      "PATTERN": "related case",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-link-variant-plus",
+      "TYPE": "info"
+    },
+    "PATTERN70": {
+      "PATTERN": "dna",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-dna",
+      "TYPE": "info"
+    },
+    "PATTERN71": {
+      "PATTERN": "fingerprint",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-fingerprint",
+      "TYPE": "info"
+    },
+    "PATTERN72": {
+      "PATTERN": "fingerprints",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-fingerprint",
+      "TYPE": "info"
+    },
+    "PATTERN73": {
+      "PATTERN": "photograph",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-tooltip-image-outline",
+      "TYPE": "info"
+    },
+    "PATTERN74": {
+      "PATTERN": "photographs",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-tooltip-image-outline",
+      "TYPE": "info"
+    },
+    "PATTERN75": {
+      "PATTERN": "camera",
+      "COLOR": "deep-orange",
+      "ICON": "mdi-camera-enhance-outline",
+      "TYPE": "info"
+    },
+    "PATTERN76": {
+      "PATTERN": "denying",
+      "COLOR": "red darken-4",
+      "ICON": "mdi-close-box-multiple",
+      "TYPE": "info"
+    },
+    "PATTERN77": {
+      "PATTERN": "denied",
+      "COLOR": "red darken-4",
+      "ICON": "mdi-close-box-multiple",
+      "TYPE": "info"
+    },
+    "PATTERN78": {
+      "PATTERN": "granting",
+      "COLOR": "green accent-4",
+      "ICON": "mdi-checkbox-marked",
+      "TYPE": "info"
+    },
+    "PATTERN79": {
+      "PATTERN": "granted",
+      "COLOR": "green accent-4",
+      "ICON": "mdi-checkbox-marked",
+      "TYPE": "info"
+    },
+    "PATTERN80": {
+      "PATTERN": "shall be heard",
+      "COLOR": "indigo",
+      "ICON": "mdi-ear-hearing",
+      "TYPE": "info"
+    },
+    "PATTERN81": {
+      "PATTERN": "will be heard",
+      "COLOR": "indigo",
+      "ICON": "mdi-ear-hearing",
+      "TYPE": "info"
+    },
+    "PATTERN82": {
+      "PATTERN": "hearing",
+      "COLOR": "indigo",
+      "ICON": "mdi-ear-hearing",
+      "TYPE": "info"
+    },
+    "PATTERN83": {
+      "PATTERN": "non-party witness's",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-w-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN84": {
+      "PATTERN": "nonparties",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-w-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN85": {
+      "PATTERN": "issue",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-i-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN86": {
+      "PATTERN": "issues",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-i-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN87": {
+      "PATTERN": "briefs",
+      "COLOR": "indigo",
+      "ICON": "mdi-briefcase-variant-outline",
+      "TYPE": "info"
+    },
+    "PATTERN88": {
+      "PATTERN": "excess page",
+      "COLOR": "indigo",
+      "ICON": "mdi-book-plus-multiple-outline",
+      "TYPE": "info"
+    },
+    "PATTERN89": {
+      "PATTERN": "excess pages",
+      "COLOR": "indigo",
+      "ICON": "mdi-book-plus-multiple-outline",
+      "TYPE": "info"
+    },
+    "PATTERN90": {
+      "PATTERN": "exceed page",
+      "COLOR": "indigo",
+      "ICON": "mdi-book-plus-multiple-outline",
+      "TYPE": "info"
+    },
+    "PATTERN91": {
+      "PATTERN": "exceed pages",
+      "COLOR": "indigo",
+      "ICON": "mdi-book-plus-multiple-outline",
+      "TYPE": "info"
+    },
+    "PATTERN92": {
+      "PATTERN": "Cancellation of Hearing",
+      "COLOR": "deep orange",
+      "ICON": "mdi-ear-hearing-off",
+      "TYPE": "info"
+    },
+    "PATTERN93": {
+      "PATTERN": "hearing cancellation",
+      "COLOR": "deep orange",
+      "ICON": "mdi-ear-hearing-off",
+      "TYPE": "info"
+    },
+    "PATTERN94": {
+      "PATTERN": "hearing is cancelled",
+      "COLOR": "deep orange",
+      "ICON": "mdi-ear-hearing-off",
+      "TYPE": "info"
+    },
+    "PATTERN95": {
+      "PATTERN": "Attorney Appearance",
+      "COLOR": "deep orange",
+      "ICON": "mdi-account-plus-outline",
+      "TYPE": "info"
+    },
+    "PATTERN96": {
+      "PATTERN": "forensic",
+      "COLOR": "red darken",
+      "ICON": "mdi-fingerprint",
+      "TYPE": "info"
+    },
+    "PATTERN97": {
+      "PATTERN": "forensic examination",
+      "COLOR": "red darken",
+      "ICON": "mdi-fingerprint",
+      "TYPE": "info"
+    },
+    "PATTERN98": {
+      "PATTERN": "telephone",
+      "COLOR": "gray",
+      "ICON": "mdi-phone-classic",
+      "TYPE": "info"
+    },
+    "PATTERN100": {
+      "PATTERN": "telephonic",
+      "COLOR": "gray",
+      "ICON": "mdi-phone-classic",
+      "TYPE": "info"
+    },
+    "PATTERN101": {
+      "PATTERN": "telephonically",
+      "COLOR": "gray",
+      "ICON": "mdi-phone-classic",
+      "TYPE": "info"
+    },
+    "PATTERN102": {
+      "PATTERN": "telephonically",
+      "COLOR": "gray",
+      "ICON": "mdi-phone-classic",
+      "TYPE": "info"
+    },
+    "PATTERN103": {
+      "PATTERN": "video",
+      "COLOR": "gray",
+      "ICON": "mdi-message-video",
+      "TYPE": "info"
+    },
+    "PATTERN104": {
+      "PATTERN": "authority",
+      "COLOR": "gray",
+      "ICON": "mdi-format-section",
+      "TYPE": "info"
+    },
+    "PATTERN105": {
+      "PATTERN": "authorities",
+      "COLOR": "gray",
+      "ICON": "mdi-format-section",
+      "TYPE": "info"
+    },
+    "PATTERN106": {
+      "PATTERN": "citation",
+      "COLOR": "gray",
+      "ICON": "mdi-format-section",
+      "TYPE": "info"
+    },
+    "PATTERN107": {
+      "PATTERN": "citations",
+      "COLOR": "gray",
+      "ICON": "mdi-format-section",
+      "TYPE": "info"
+    },
+    "PATTERN108": {
+      "PATTERN": "cited",
+      "COLOR": "gray",
+      "ICON": "mdi-format-section",
+      "TYPE": "info"
+    },
+    "PATTERN109": {
+      "PATTERN": "cctv",
+      "COLOR": "gray",
+      "ICON": "mdi-cctv",
+      "TYPE": "info"
+    },
+    "PATTERN110": {
+      "PATTERN": "privilege log",
+      "COLOR": "gray",
+      "ICON": "mdi-order-bool-ascending",
+      "TYPE": "info"
+    },
+    "PATTERN111": {
+      "PATTERN": "privilege logs",
+      "COLOR": "gray",
+      "ICON": "mdi-order-bool-ascending",
+      "TYPE": "info"
+    },
+    "PATTERN112": {
+      "PATTERN": "signature",
+      "COLOR": "gray",
+      "ICON": "mdi-signature-freehand",
+      "TYPE": "info"
+    },
+    "PATTERN113": {
+      "PATTERN": "signatures",
+      "COLOR": "gray",
+      "ICON": "mdi-signature-freehand",
+      "TYPE": "info"
+    },
+    "PATTERN114": {
+      "PATTERN": "attorneys' fees",
+      "COLOR": "indigo",
+      "ICON": "mdi-account-cash-outline",
+      "TYPE": "info"
+    },
+    "PATTERN115": {
+      "PATTERN": "attorney fees",
+      "COLOR": "indigo",
+      "ICON": "mdi-account-cash-outline",
+      "TYPE": "info"
+    },
+    "PATTERN116": {
+      "PATTERN": "attorneys' fee",
+      "COLOR": "indigo",
+      "ICON": "mdi-account-cash-outline",
+      "TYPE": "info"
+    },
+    "PATTERN117": {
+      "PATTERN": "costs",
+      "COLOR": "indigo",
+      "ICON": "mdi-currency-usd",
+      "TYPE": "info"
+    },
+    "PATTERN118": {
+      "PATTERN": "fact",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-f-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN119": {
+      "PATTERN": "facts",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-f-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN120": {
+      "PATTERN": "factual",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-f-box-outline",
+      "TYPE": "info"
+    },
+    "PATTERN121": {
+      "PATTERN": "question",
+      "COLOR": "indigo",
+      "ICON": "mdi-head-question-outline",
+      "TYPE": "info"
+    },
+    "PATTERN122": {
+      "PATTERN": "questions",
+      "COLOR": "indigo",
+      "ICON": "mdi-head-question-outline",
+      "TYPE": "info"
+    },
+    "PATTERN123": {
+      "PATTERN": "questioned",
+      "COLOR": "indigo",
+      "ICON": "mdi-head-question-outline",
+      "TYPE": "info"
+    },
+    "PATTERN124": {
+      "PATTERN": "judge",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-j-box",
+      "TYPE": "info"
+    },
+    "PATTERN125": {
+      "PATTERN": "chief justice",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-j-box",
+      "TYPE": "info"
+    },
+    "PATTERN126": {
+      "PATTERN": "justice",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-j-box",
+      "TYPE": "info"
+    },
+    "PATTERN127": {
+      "PATTERN": "judges",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-j-box",
+      "TYPE": "info"
+    },
+    "PATTERN128": {
+      "PATTERN": "special master",
+      "COLOR": "indigo",
+      "ICON": "mdi-alpha-s-box",
+      "TYPE": "info"
+    },
+    "PATTERN129": {
+      "PATTERN": "PRO SE APPEARANCE",
+      "COLOR": "deep orange",
+      "ICON": "mdi-account-plus-outline",
+      "TYPE": "info"
+    },
+    "PATTERN130": {
+      "PATTERN": "confidential",
+      "COLOR": "red darken",
+      "ICON": "mdi-incognito",
+      "TYPE": "info"
+    },
+    "PATTERN131": {
+      "PATTERN": "confidentiality",
+      "COLOR": "red darken",
+      "ICON": "mdi-incognito",
+      "TYPE": "info"
+    },
+    "PATTERN132": {
+      "PATTERN": "bank",
+      "COLOR": "gray",
+      "ICON": "mdi-bank-outline",
+      "TYPE": "info"
+    },
+    "PATTERN133": {
+      "PATTERN": "banks",
+      "COLOR": "gray",
+      "ICON": "mdi-bank-outline",
+      "TYPE": "info"
+    },
+    "PATTERN134": {
+      "PATTERN": "privilege",
+      "COLOR": "gray",
+      "ICON": "mdi-order-bool-ascending",
+      "TYPE": "info"
+    },
+    "PATTERN135": {
+      "PATTERN": "privileged",
+      "COLOR": "gray",
+      "ICON": "mdi-order-bool-ascending",
+      "TYPE": "info"
+    }
+  },
+
+  "DocketUserActionsPanel": {
+    "ViewAllEntries": {
+      "path": "entries",
+      "type": "ViewAllEntries",
+      "label": "View All Entries",
+      "icon": "mdi-account-box-multiple-outline"
+    },
+    "viewAllParties": {
+      "path": "parties",
+      "type": "viewAllParties",
+      "label": "View all Parties",
+      "icon": "mdi-account-box-multiple-outline"
+    },
+
+    "viewAllMotions": {
+      "type": "viewAllMotions",
+      "label": "View all Motions",
+      "icon": "mdi-sword-cross",
+      "queryFilter": {
+        "group_by": "entry_type",
+        "group_items": "1"
+      }
+    },
+    "viewAllOrder": {
+      "type": "viewAllOrder",
+      "label": "View all Orders",
+      "icon": "mdi-scale-balance",
+      "queryFilter": {
+        "group_by": "entry_type",
+        "group_items": "2,17"
+      }
+    },
+    "viewAllNotices": {
+      "type": "viewAllNotices",
+      "label": "View all Notices",
+      "icon": "mdi-pi",
+      "queryFilter": {
+        "group_by": "entry_type",
+        "group_items": "3"
+      }
+    },
+    "ViewAllFilingsByPlaintiffs": {
+      "type": "ViewAllFilingsByPlaintiffs",
+      "label": "View all Filings by Plaintiffs",
+      "icon": "mdi-view-quilt",
+      "queryFilter": {
+        "group_by": "filed_by",
+        "group_items": "3"
+      }
+    },
+    "ViewAllFilingsByDefendants": {
+      "type": "ViewAllFilingsByDefendants",
+      "label": "View all Filings by Defendants",
+      "icon": "mdi-alpha-d-box",
+      "queryFilter": {
+        "group_by": "filed_by",
+        "group_items": "4"
+      }
+    },
+    "Last7days": {
+      "type": "Last7days",
+      "label": "Last 7 days",
+      "icon": "mdi-timer",
+      "queryFilter": {
+        "attribute": "date_filed",
+        "value": "7",
+        "predicate": "$and",
+        "operator": "IsBetween",
+        "type": "date"
+      }
+    },
+    "Last30days": {
+      "type": "Last30days",
+      "label": "Last 30 days",
+      "icon": "mdi-timer",
+      "queryFilter": {
+        "attribute": "date_filed",
+        "value": "30",
+        "predicate": "$and",
+        "operator": "IsBetween",
+        "type": "date"
+      }
+    },
+    "about": {
+      "type": "about",
+      "label": "About",
+      "icon": "mdi-account-circle",
+      "children": [
+        {
+          "label": "Jurisdiction",
+          "icon": ""
+        },
+        {
+          "label": "Nature of Suit and Cause",
+          "icon": ""
+        },
+        {
+          "label": "Judge",
+          "icon": ""
+        }
+      ]
+    }
+  },
+  "Admin": {
+    "rootPathAdmin": "/odt/admin"
+  },
+  "Administrator": {
+    "trackers": {
+      "path": "/odt/admin/trackers",
+      "title": "ODT Trackers",
+      "label": "Trackers"
+    },
+    "jurisdiction": {
+      "path": "/odt/admin/jurisdiction",
+      "title": "ODT Jurisdiction",
+      "label": "Jurisdiction"
+    }
+  },
+  "rootPath": {
+    "odt": "/odt",
+    "adminOdt": "/odt/admin"
+  },
+  "ROUTES": {
+    "LitigationResearch": {
+      "SearchHistory": {
+        "path": "/odt/search-history",
+        "title": "Search History",
+        "label": "Search History",
+        "icon": "mdi-magnify"
+      },
+      "RecentlyVisit": {
+        "path": "/odt/recent-visit",
+        "title": "Recent Visit",
+        "label": "Recent Visit",
+        "icon": "mdi-history"
+      },
+      "AllSnippets": {
+        "path": "/odt/snippets",
+        "title": "ODT Snippets",
+        "label": "Snippets",
+        "icon": "mdi-clipboard-text"
+      },
+      "AllOpinions": {
+        "path": "/odt/jurisdiction",
+        "title": "ODT Jurisdiction",
+        "label": "Jurisdiction",
+        "icon": "mdi-scale-balance"
+      },
+      "AllTrackers": {
+        "path": "/",
+        "title": "All Trackers",
+        "label": "Trackers",
+        "icon": "mdi-home"
+      },
+      "FederalDockets": {
+        "path": "/odt/federal-dockets",
+        "title": "Federal Jurisdiction",
+        "label": "Federal Dockets",
+        "icon": "mdi-numeric"
+      },
+      "Judges": {
+        "path": "/odt/judges",
+        "title": "Judges",
+        "label": "Judges",
+        "icon": "mdi-account-multiple"
+      },
+      "LawSchools": {
+        "path": "/odt/law-schools",
+        "title": "Law Schools",
+        "label": "Law Schools",
+        "icon": "mdi-school"
+      },
+      "USPresidents": {
+        "path": "/odt/us-presidents",
+        "title": "US Presidents ",
+        "label": "US Presidents ",
+        "icon": "mdi-home"
+      },
+      "Lawyers": {
+        "path": "/odt/lawyers",
+        "title": "Lawyers",
+        "label": "Lawyers",
+        "icon": "mdi-account-details-outline"
+      },
+      "LawFirms": {
+        "path": "/odt/law-firms",
+        "title": "Law Firms",
+        "label": "Law Firms",
+        "icon": "mdi-domain"
+      },
+      "UnitedStatesOfAmerica": {
+        "path": "/odt/united-states-of-america",
+        "title": "United States of America",
+        "label": "United States of America",
+        "icon": "mdi-home"
+      },
+      "Education": {
+        "path": "/odt/education",
+        "title": "Education",
+        "label": "Education",
+        "icon": "mdi-home"
+      }
+    },
+    "Jurisdiction": {
+      "Jurisdiction": {
+        "path": "jurisdiction",
+        "title": "jurisdiction",
+        "label": "jurisdiction",
+        "icon": "mdi-scale-balance"
+      },
+      "JurisdictionProfile": {
+        "path": "profile",
+        "title": "Jurisdiction Profile",
+        "label": "Jurisdiction Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "JurisdictionAnnualLoads": {
+        "path": "annual-loads",
+        "title": "Annual Opinion Loads",
+        "label": "Annual Opinion Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "JurisdictionAnnualTrends": {
+        "path": "annual-trends",
+        "title": "Annual Opinion Trends",
+        "label": "Annual Opinion Trends",
+        "icon": "mdi-scale-balance"
+      },
+
+      "FederalJurisdictionProfile": {
+        "path": "profile",
+        "title": "Federal Jurisdiction Profile",
+        "label": "Federal Jurisdiction Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketLoads": {
+        "path": "annual-loads",
+        "title": "Annual Docket Loads",
+        "label": "Annual Docket Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketTrends": {
+        "path": "annual-trends",
+        "title": "Annual Docket Trends",
+        "label": "Annual Docket Trends",
+        "icon": "mdi-scale-balance"
+      },
+
+      "JurisdictionDetailYear": {
+        "path": "year",
+        "title": "Year",
+        "label": "Year",
+        "icon": "mdi-scale-balance"
+      },
+      "JurisdictionDetailMonthlyLoads": {
+        "path": "monthly-loads",
+        "title": "Monthly Loads",
+        "label": "Monthly Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "JurisdictionDetailMonthlyTrends": {
+        "path": "monthly-trends",
+        "title": "Monthly Trends",
+        "label": "Monthly Trends",
+        "icon": "mdi-scale-balance"
+      },
+      "JurisdictionDetailYearOpinionInformation": {
+        "path": "opinion-information",
+        "title": "Opinion Information",
+        "label": "Opinion Information",
+        "icon": "mdi-scale-balance"
+      },
+      "JurisdictionDetailYearOpinionCitedBy": {
+        "path": "cited-by",
+        "title": "Cited By",
+        "label": "Cited By",
+        "icon": "mdi-scale-balance"
+      },
+      "JurisdictionDetailYearOpinionCitedByTrend": {
+        "path": "cited-by-trend",
+        "title": "Cited By Trend",
+        "label": "Cited By Trend",
+        "icon": "mdi-scale-balance"
+      },
+
+      "Opinions": {
+        "path": "opinions",
+        "title": "Opinions",
+        "label": "Opinions",
+        "icon": "mdi-home"
+      },
+
+      "OpinionsCited": {
+        "path": "cited",
+        "title": "All Opinions Cited",
+        "label": "All Opinions Cited",
+        "icon": "mdi-home"
+      },
+      "Judges": {
+        "path": "judges",
+        "title": "Judges",
+        "label": "Judges",
+        "icon": "mdi-home"
+      },
+      "TrendLine": {
+        "path": "trendline",
+        "title": "Trendline",
+        "label": "Trendline",
+        "icon": "mdi-home"
+      },
+      "InFederalDockets": {
+        "path": "federal-dockets",
+        "title": "In Federal Docket",
+        "label": "In Federal Docket",
+        "icon": "mdi-home"
+      },
+
+      "JudgesProfile": {
+        "path": "profile",
+        "title": "Judge Profile",
+        "label": "Judge Profile",
+        "icon": "mdi-home"
+      },
+      "JudgesEducation": {
+        "path": "education",
+        "title": "Education History",
+        "label": "Education History",
+        "icon": "mdi-home"
+      },
+      "JudgesPositions": {
+        "path": "positions",
+        "title": "Position History",
+        "label": "Position History",
+        "icon": "mdi-home"
+      },
+      "JudgesOpinions": {
+        "path": "opinions-strength",
+        "title": "Opinion Strength",
+        "label": "Opinion Strength",
+        "icon": "mdi-home"
+      },
+      "JudgesAnnualOpinionLoads": {
+        "path": "JudgesAnnualOpinionLoads",
+        "title": "Annual Opinion Loads",
+        "label": "Annual Opinion Loads",
+        "icon": "mdi-home"
+      },
+      "JudgesAnnualOpinionTrends": {
+        "path": "JudgesAnnualOpinionTrends",
+        "title": "Annual Opinion Trends",
+        "label": "Annual Opinion Trends",
+        "icon": "mdi-home"
+      },
+      "JudgesAnnualDocketLoads": {
+        "path": "JudgesAnnualDocketLoads",
+        "title": "Annual Docket Loads",
+        "label": "Annual Docket Loads",
+        "icon": "mdi-home"
+      },
+      "JudgesAnnualDocketTrends": {
+        "path": "JudgesAnnualDocketTrends",
+        "title": "Annual Docket Trends",
+        "label": "Annual Docket Trends",
+        "icon": "mdi-home"
+      },
+      "AssignedToJudges": {
+        "path": "AssignedToJudges",
+        "title": "Assigned to Judges",
+        "label": "Assigned to Judges",
+        "icon": "mdi-home"
+      },
+      "OrderStatus": {
+        "path": "OrderStatus",
+        "title": "Order Status",
+        "label": "Order Status",
+        "icon": "mdi-home"
+      },
+      "JudgeDetailAbout": {
+        "path": "about",
+        "title": "judge About",
+        "label": "About",
+        "icon": "mdi-home"
+      },
+      "JudgeDetailOpinions": {
+        "path": "opinions",
+        "title": "All Opinions",
+        "label": "All Opinions",
+        "icon": "mdi-home"
+      },
+      "JudgeDetailOpinionsByYear": {
+        "path": "opinions-by-year",
+        "title": "opinions By Year",
+        "label": "opinions By Year",
+        "icon": "mdi-home"
+      },
+      "JudgeDetailDockets": {
+        "path": "dockets",
+        "title": "All Dockets",
+        "label": "Dockets",
+        "icon": "mdi-home"
+      },
+      "JudgeDetailDocketsByYear": {
+        "path": "dockets-by-year",
+        "title": "Dockets By Year",
+        "label": "Dockets By Year",
+        "icon": "mdi-home"
+      },
+
+      "AppointmentByUSPresidents": {
+        "path": "appointment-us-presidents",
+        "title": "Appointment by US Presidents",
+        "label": "Appointment by US Presidents",
+        "icon": "mdi-home"
+      },
+      "LawSchools": {
+        "path": "law-schools",
+        "title": "Law Schools",
+        "label": "Law Schools",
+        "icon": "mdi-home"
+      }
+    },
+    "DocketTracker": {
+      "CaseName": {
+        "path": "case-name",
+        "title": "Case Name",
+        "label": "Case Name",
+        "icon": "mdi-scale-balance"
+      },
+      "DocketInformation": {
+        "path": "docket-information",
+        "title": "Docket Information",
+        "label": "Docket Information",
+        "icon": "mdi-scale-balance"
+      },
+      "TimeMetrics": {
+        "path": "time-metrics",
+        "title": "Time Metrics",
+        "label": "Time Metrics",
+        "icon": "mdi-scale-balance"
+      },
+      "CapacityAs": {
+        "path": "capacity",
+        "title": "Capacity As",
+        "label": "Capacity As",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "LawSchool": {
+      "Profile": {
+        "path": "profile",
+        "title": "Profile",
+        "label": "Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "JudgeTypes": {
+        "path": "judge-types",
+        "title": "Judge Types",
+        "label": "Judge Types",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualOpinionLoads": {
+        "path": "Annual Opinion Loads",
+        "title": "Annual Opinion Loads",
+        "label": "Annual Opinion Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualOpinionTrends": {
+        "path": "Annual Opinion Trends",
+        "title": "Annual Opinion Trends",
+        "label": "Annual Opinion Trends",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketLoads": {
+        "path": "Annual Docket Loads",
+        "title": "Annual Docket Loads",
+        "label": "Annual Docket Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketTrends": {
+        "path": "Annual Docket Trends",
+        "title": "Annual Docket Trends",
+        "label": "Annual Docket Trends",
+        "icon": "mdi-scale-balance"
+      },
+      "InFederalDockets": {
+        "path": "In Federal Dockets",
+        "title": "In Federal Dockets",
+        "label": "In Federal Dockets",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "Tracker": {
+      "TrackerProfile": {
+        "path": "tracker-Profile",
+        "title": "Tracker Profile",
+        "label": "Tracker Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketEntryLoads": {
+        "path": "annual-docket-entry-loads",
+        "title": "Annual Docket Entry Loads ",
+        "label": "Annual Docket Entry Loads ",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketEntryTrends": {
+        "path": "annual-docket-entry-trends",
+        "title": "Annual Docket Entry Trends",
+        "label": "Annual Docket Entry Trends",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "TrackerDetail": {
+      "Dockets": {
+        "path": "dockets",
+        "title": "Dockets",
+        "label": "Dockets",
+        "icon": "mdi-scale-balance"
+      },
+      "Lawyers": {
+        "path": "Lawyers",
+        "title": "Lawyers",
+        "label": "Lawyers",
+        "icon": "mdi-scale-balance"
+      },
+
+      "Judges": {
+        "path": "Judges",
+        "title": "Judges",
+        "label": "Judges",
+        "icon": "mdi-scale-balance"
+      },
+      "Parties": {
+        "path": "Parties",
+        "title": "Parties",
+        "label": "Parties",
+        "icon": "mdi-scale-balance"
+      },
+      "LawFirms": {
+        "path": "law-firms",
+        "title": "Law Firms",
+        "label": "Law Firms",
+        "icon": "mdi-scale-balance"
+      },
+      "Motions": {
+        "path": "motions",
+        "title": "motions",
+        "label": "motions",
+        "icon": "mdi-scale-balance"
+      },
+      "Orders": {
+        "path": "Orders",
+        "title": "orders",
+        "label": "orders",
+        "icon": "mdi-scale-balance"
+      },
+      "Complaints": {
+        "path": "complaints",
+        "title": "Complaints",
+        "label": "Complaints",
+        "icon": "mdi-scale-balance"
+      },
+      "Calendar": {
+        "path": "calendar",
+        "title": "litigation calendar",
+        "label": "litigation calendar",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "DocketEntries": {
+      "EntryInformation": {
+        "path": "Entry Information",
+        "title": "Entry Information",
+        "label": "Entry Information",
+        "icon": "mdi-scale-balance"
+      },
+      "ReadingMetrics": {
+        "path": "Reading Metrics",
+        "title": "Reading Metrics",
+        "label": "Reading Metrics",
+        "icon": "mdi-scale-balance"
+      },
+      "TimeMetrics": {
+        "path": "Time Metrics",
+        "title": "Time Metrics",
+        "label": "Time Metrics",
+        "icon": "mdi-scale-balance"
+      },
+      "Projections": {
+        "path": "Projections",
+        "title": "Projections",
+        "label": "Projections",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "UsPresidents": {
+      "Profile": {
+        "path": "profile",
+        "title": "Profile",
+        "label": "Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualOpinionLoads": {
+        "path": "Annual-Opinion-Loads",
+        "title": "Annual Opinion Loads",
+        "label": "Annual Opinion Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualOpinionTrend": {
+        "path": "Annual-Opinion-trend",
+        "title": "Annual Opinion trend",
+        "label": "Annual Opinion trend",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketLoads": {
+        "path": "annual-docket-loads",
+        "title": "Annual Docket Loads",
+        "label": "Annual Docket Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketTrend": {
+        "path": "annual-docket-trend",
+        "title": "Annual Docket Trend",
+        "label": "Annual Docket Trend",
+        "icon": "mdi-scale-balance"
+      },
+
+      "About": {
+        "path": "about",
+        "title": "About",
+        "label": "About",
+        "icon": "mdi-scale-balance"
+      },
+      "AppointedJudges": {
+        "path": "appointed-judges",
+        "title": "Appointed Judges",
+        "label": "Appointed Judges",
+        "icon": "mdi-scale-balance"
+      },
+      "PresidentialDocuments": {
+        "path": "presidential-documents",
+        "title": "Presidential Documents",
+        "label": "Presidential Documents",
+        "icon": "mdi-scale-balance"
+      },
+
+      "PresidentialDocumentsInformation": {
+        "path": "PresidentialDocumentsInformation",
+        "title": "Document Information",
+        "label": "Document Information",
+        "icon": "mdi-scale-balance"
+      },
+      "PresidentialDocumentsMoreInformation": {
+        "path": "PresidentialDocumentsMoreInformation",
+        "title": "More Information",
+        "label": "More Information",
+        "icon": "mdi-scale-balance"
+      },
+      "PresidentialDocumentsReadingMetrics": {
+        "path": "PresidentialDocumentsReadingMetrics",
+        "title": "Reading Metrics",
+        "label": "Reading Metrics",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "FederalJurisdiction": {
+      "FederalJudge": {
+        "path": "federal-judge",
+        "title": "Federal Judge",
+        "label": "Federal Judge",
+        "icon": "mdi-scale-balance"
+      },
+      "FederalMonthlyDockets": {
+        "path": "federal-dockets",
+        "title": "Federal Dockets",
+        "label": "Federal Dockets",
+        "icon": "mdi-scale-balance"
+      },
+      "FederalDocketsMonthlyLoads": {
+        "path": "FederalDocketsMonthlyLoads",
+        "title": "Dockets Monthly Loads",
+        "label": "Dockets Monthly Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "FederalDocketsMonthlyTrends": {
+        "path": "FederalDocketsMonthlyTrends",
+        "title": "Dockets Monthly Trends",
+        "label": "Dockets Monthly Trends",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "DocketTrackerParties": {
+      "PartyProfile": {
+        "path": "party-profile",
+        "title": "Party Profile",
+        "label": "Party Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "FilingLog": {
+        "path": "filing-log",
+        "title": "Filing Log",
+        "label": "Filing Log",
+        "icon": "mdi-scale-balance"
+      },
+      "PartyInfo": {
+        "path": "party-info",
+        "title": "Party Info",
+        "label": "Party Info",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "Lawyers": {
+      "CompanyProfile": {
+        "path": "company-profile",
+        "title": "Company Profile",
+        "label": "Company Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "PracticeAreas": {
+        "path": "practice-areas",
+        "title": "Practice Areas",
+        "label": "Practice Areas",
+        "icon": "mdi-scale-balance"
+      },
+      "Education": {
+        "path": "education",
+        "title": "Education",
+        "label": "Education",
+        "icon": "mdi-scale-balance"
+      },
+      "LawyerProfile": {
+        "path": "lawyer-profile",
+        "title": "Lawyer Profile",
+        "label": "Lawyer Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "DocketParty": {
+        "path": "docket-party",
+        "title": "Party Counsels",
+        "label": "Party Counsels",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "LawFirms": {
+      "CompanyProfile": {
+        "path": "company-profile",
+        "title": "Company Profile",
+        "label": "Company Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "CompanyRevenue": {
+        "path": "company-revenue",
+        "title": "Company Revenue",
+        "label": "Company Revenue",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "UnitedStatesOfAmerica": {
+      "State": {
+        "path": "state",
+        "title": "State",
+        "label": "State",
+        "icon": "mdi-scale-balance"
+      },
+      "County": {
+        "path": "county",
+        "title": "County",
+        "label": "County",
+        "icon": "mdi-scale-balance"
+      },
+      "PublicCompanies": {
+        "path": "public-companies",
+        "title": "Public Companies",
+        "label": "Public Companies",
+        "icon": "mdi-scale-balance"
+      },
+      "GovernmentWebsites": {
+        "path": "government-websites",
+        "title": "Government Websites",
+        "label": "Government Websites",
+        "icon": "mdi-scale-balance"
+      },
+      "StateLegislators": {
+        "path": "state-legislators",
+        "title": "State Legislators",
+        "label": "State Legislators",
+        "icon": "mdi-scale-balance"
+      },
+      "LawFirms": {
+        "path": "law-firms",
+        "title": "Law Firms",
+        "label": "Law Firms",
+        "icon": "mdi-scale-balance"
+      },
+      "Lawyers": {
+        "path": "lawyers",
+        "title": "Lawyers",
+        "label": "Lawyers",
+        "icon": "mdi-scale-balance"
+      },
+      "Bills": {
+        "path": "bills",
+        "title": "Bills",
+        "label": "Bills",
+        "icon": "mdi-scale-balance"
+      },
+      "StateOrganizations": {
+        "path": "state-organizations",
+        "title": "State Organizations",
+        "label": "State Organizations",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "StateLegislators": {
+      "LegislatorProfile": {
+        "path": "legislator-profile",
+        "title": "Legislator Profile",
+        "label": "Legislator Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "ContactInformation": {
+        "path": "contact-information",
+        "title": "Contact Information",
+        "label": "Contact Information",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "StateBills": {
+      "BillActions": {
+        "path": "bill-actions",
+        "title": "Bill Actions",
+        "label": "Bill Actions",
+        "icon": "mdi-scale-balance"
+      },
+      "Sponsors": {
+        "path": "sponsors",
+        "title": "Sponsors",
+        "label": "Sponsors",
+        "icon": "mdi-scale-balance"
+      },
+      "Votes": {
+        "path": "votes",
+        "title": "Votes",
+        "label": "Votes",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "StateUsCounty": {
+      "CountyProfile": {
+        "path": "CountyProfile",
+        "title": "County Profile",
+        "label": "County Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Education": {
+        "path": "Education",
+        "title": "Education",
+        "label": "Education",
+        "icon": "mdi-scale-balance"
+      },
+      "Population": {
+        "path": "Population",
+        "title": "Population",
+        "label": "Population",
+        "icon": "mdi-scale-balance"
+      },
+      "Demographics": {
+        "path": "Demographics",
+        "title": "Demographics",
+        "label": "Demographics",
+        "icon": "mdi-scale-balance"
+      },
+      "Occupations": {
+        "path": "Occupations",
+        "title": "Occupationss",
+        "label": "Occupations",
+        "icon": "mdi-scale-balance"
+      },
+      "Health": {
+        "path": "Health",
+        "title": "Health",
+        "label": "Health",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      },
+      "ElectionResults": {
+        "path": "ElectionResults",
+        "title": "Election Results",
+        "label": "Election Results",
+        "icon": "mdi-scale-balance"
+      },
+      "CountyIRSAuditRate": {
+        "path": "CountyIRSAuditRate",
+        "title": "County IRS Audit Rate",
+        "label": "County IRS Audit Rate",
+        "icon": "mdi-scale-balance"
+      },
+      "CovidCases": {
+        "path": "CovidCases",
+        "title": "Covid Cases",
+        "label": "Covid Cases",
+        "icon": "mdi-scale-balance"
+      },
+      "CovidPolicies": {
+        "path": "CovidPolicies",
+        "title": "Covid Policies",
+        "label": "Covid Policies",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "StateUsCountyDetail": {
+      "CountyJudge": {
+        "path": "judge",
+        "title": "County Judge",
+        "label": "County Judge",
+        "icon": "mdi-scale-balance"
+      },
+      "Hospital": {
+        "path": "hospital",
+        "title": "Hospital",
+        "label": "Hospital",
+        "icon": "mdi-scale-balance"
+      },
+      "LawEnforcement": {
+        "path": "law-enforcement",
+        "title": "Law Enforcement",
+        "label": "Law Enforcement",
+        "icon": "mdi-scale-balance"
+      },
+      "CollegesAndUniversities": {
+        "path": "colleges-and-universities",
+        "title": "Colleges and Universities",
+        "label": "Colleges and Universities",
+        "icon": "mdi-scale-balance"
+      },
+      "PrivateSchools": {
+        "path": "private-schools",
+        "title": "Private Schools",
+        "label": "Private Schools",
+        "icon": "mdi-scale-balance"
+      },
+      "PublicSchools": {
+        "path": "public-schools",
+        "title": "Public Schools",
+        "label": "Public Schools",
+        "icon": "mdi-scale-balance"
+      },
+      "City": {
+        "path": "city",
+        "title": "City",
+        "label": "City",
+        "icon": "mdi-scale-balance"
+      },
+      "Prison": {
+        "path": "prison",
+        "title": "Prison",
+        "label": "Prison",
+        "icon": "mdi-scale-balance"
+      },
+      "FDICInsuredBanks": {
+        "path": "fdic-insured-banks",
+        "title": "FDIC Insured Banks",
+        "label": "FDIC Insured Banks",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "CountyJudge": {
+      "Jurisdiction": {
+        "path": "jurisdiction",
+        "title": "Jurisdiction",
+        "label": "Jurisdiction",
+        "icon": "mdi-scale-balance"
+      },
+      "CountyJudgeBio": {
+        "path": "CountyJudgeBio",
+        "title": "County Judge Bio",
+        "label": "County Judge Bio",
+        "icon": "mdi-scale-balance"
+      },
+      "CountyJudgeEducation": {
+        "path": "CountyJudgeEducation",
+        "title": "County Judge Education",
+        "label": "County Judge Education",
+        "icon": "mdi-scale-balance"
+      },
+      "CountyJudgeCareer": {
+        "path": "CountyJudgeCareer",
+        "title": "County Judge Career",
+        "label": "County Judge Career",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "CountyHospitals": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "HospitalProfile": {
+        "path": "HospitalProfile",
+        "title": "Hospital Profile",
+        "label": "Hospital Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "CountyLawEnforcement": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "Profile": {
+        "path": "Profile",
+        "title": "Law EnforcementProfile",
+        "label": "Law Enforcement Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "CountyPrisons": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "Profile": {
+        "path": "Profile",
+        "title": "Prison Profile",
+        "label": "Prison Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "CountyFDICInsuredBanks": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "Profile": {
+        "path": "Profile",
+        "title": "Bank Profile",
+        "label": "Bank Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "StatePublicCompanies": {
+      "CompanyProfile": {
+        "path": "CompanyProfile",
+        "title": "Company Profile",
+        "label": "Company Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "FinanceProfile": {
+        "path": "FinanceProfile",
+        "title": "Finance Profile",
+        "label": "Finance Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketEntryLoads": {
+        "path": "AnnualDocketEntryLoads",
+        "title": "Annual Docket Entry Loads",
+        "label": "Annual Docket Entry Loads",
+        "icon": "mdi-scale-balance"
+      },
+      "AnnualDocketEntryTrends": {
+        "path": "AnnualDocketEntryTrends",
+        "title": "Annual Docket Entry Trends",
+        "label": "Annual Docket Entry Trends",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "StatePublicCompanyDetail": {
+      "People": {
+        "path": "people",
+        "title": "People",
+        "label": "People",
+        "icon": "mdi-scale-balance"
+      },
+      "SECFilings": {
+        "path": "sec-filings",
+        "title": "SEC Filings",
+        "label": "SEC Filings",
+        "icon": "mdi-scale-balance"
+      },
+      "Patents": {
+        "path": "patents",
+        "title": "Patents",
+        "label": "Patents",
+        "icon": "mdi-scale-balance"
+      },
+      "FederalLitigation": {
+        "path": "federal-litigation",
+        "title": "Federal Litigation",
+        "label": "Federal Litigation",
+        "icon": "mdi-scale-balance"
+      },
+      "Opinions": {
+        "path": "opinions",
+        "title": "Opinions",
+        "label": "Opinions",
+        "icon": "mdi-scale-balance"
+      },
+      "InsiderOwnership": {
+        "path": "insider-ownership",
+        "title": "Insider Ownership",
+        "label": "Insider Ownership",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "PublicCompanyPeople": {
+      "BasicInfo": {
+        "path": "BasicInfo",
+        "title": "Basic Info",
+        "label": "Basic Info",
+        "icon": "mdi-scale-balance"
+      },
+      "Qualifications": {
+        "path": "Qualifications",
+        "title": "Qualifications",
+        "label": "Qualifications",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "PublicCompanySECFilings": {},
+    "PublicCompanyPatents": {},
+    "PublicCompanyFederalLitigation": {},
+    "PublicCompanyOpinions": {},
+    "PublicCompanyInsiderOwnership": {},
+    "CountyCity": {
+      "CityProfile": {
+        "path": "CityProfile",
+        "title": "City Profile",
+        "label": "City Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "AgeDemographic": {
+        "path": "AgeDemographic",
+        "title": "Age Demographic",
+        "label": "Age Demographic",
+        "icon": "mdi-scale-balance"
+      },
+      "FamilyDemographic": {
+        "path": "FamilyDemographic",
+        "title": "Family Demographic",
+        "label": "Family Demographic",
+        "icon": "mdi-scale-balance"
+      },
+      "HouseholdIncome": {
+        "path": "HouseholdIncome",
+        "title": "Household Income",
+        "label": "Household Income",
+        "icon": "mdi-scale-balance"
+      },
+      "HomeOwnership": {
+        "path": "HomeOwnership",
+        "title": "Home Ownership",
+        "label": "Home Ownership",
+        "icon": "mdi-scale-balance"
+      },
+      "Education": {
+        "path": "Education",
+        "title": "Education",
+        "label": "Education",
+        "icon": "mdi-scale-balance"
+      },
+      "LaborForce": {
+        "path": "BasicInfo",
+        "title": "Labor Force",
+        "label": "Labor Force",
+        "icon": "mdi-scale-balance"
+      },
+      "Race": {
+        "path": "Race",
+        "title": "Race",
+        "label": "Race",
+        "icon": "mdi-scale-balance"
+      },
+      "Misc": {
+        "path": "BasicInfo",
+        "title": "Basic Info",
+        "label": "Basic Info",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "CountyCityDetail": {
+      "Business": {
+        "path": "business",
+        "title": "Business",
+        "label": "Business",
+        "icon": "mdi-scale-balance"
+      },
+      "SevereInjuryReport": {
+        "path": "severe-injury-report",
+        "title": "Severe Injury Report",
+        "label": "Severe Injury Report",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "CountyCityBusiness": {
+      "CompanyProfile": {
+        "path": "CompanyProfile",
+        "title": "Company Profile",
+        "label": "Company Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "ContactInformation": {
+        "path": "ContactInformation",
+        "title": "Contact Information",
+        "label": "Contact Information",
+        "icon": "mdi-scale-balance"
+      },
+      "CompanyInsight": {
+        "path": "CompanyInsight",
+        "title": "Company Insight",
+        "label": "Company Insight",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "CountyCitySevereInjuryReport": {
+      "EmployerInformation": {
+        "path": "EmployerInformation",
+        "title": "Employer Information",
+        "label": "Employer Information",
+        "icon": "mdi-scale-balance"
+      },
+      "InjuryReports": {
+        "path": "InjuryReports",
+        "title": "Injury Reports",
+        "label": "Injury Reports",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "Education": {
+      "CollegeAndUniversities": {
+        "path": "college-and-universities",
+        "title": "College And Universities",
+        "label": "College And Universities",
+        "icon": "mdi-scale-balance"
+      },
+      "SupplementalColleges": {
+        "path": "supplemental-colleges",
+        "title": "Supplemental Colleges",
+        "label": "Supplemental Colleges",
+        "icon": "mdi-scale-balance"
+      },
+      "PrivateSchools": {
+        "path": "private-schools",
+        "title": "Private Schools",
+        "label": "Private Schools",
+        "icon": "mdi-scale-balance"
+      },
+      "PublicSchools": {
+        "path": "public-schools",
+        "title": "Public Schools",
+        "label": "Public Schools",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "EducationCollegeAndUniversities": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "UniversityProfile": {
+        "path": "UniversityProfile",
+        "title": "University Profile",
+        "label": "University Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "EducationSupplementalColleges": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "SupplementalCollegeProfile": {
+        "path": "SupplementalCollegeProfile",
+        "title": "Supplemental College Profile",
+        "label": "Supplemental College Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "EducationPrivateSchools": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "PrivateSchoolProfile": {
+        "path": "PrivateSchoolProfile",
+        "title": "Private School Profile",
+        "label": "Private School Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "EducationPublicSchools": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "PublicSchoolProfile": {
+        "path": "PublicSchoolProfile",
+        "title": "Public School Profile",
+        "label": "Public School Profile",
+        "icon": "mdi-scale-balance"
+      },
+      "Others": {
+        "path": "Others",
+        "title": "Others",
+        "label": "Others",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USA": {
+      "States": {
+        "path": "states",
+        "title": "50 States",
+        "label": "50 States",
+        "icon": "mdi-scale-balance"
+      },
+      "HouseOfRepresentatives": {
+        "path": "house-of-representatives",
+        "title": "House Of Representatives",
+        "label": "House Of Representatives",
+        "icon": "mdi-scale-balance"
+      },
+      "CongressMembers": {
+        "path": "congress-members",
+        "title": "Congress Members",
+        "label": "Congress Members",
+        "icon": "mdi-scale-balance"
+      },
+      "HouseOfCommittees": {
+        "path": "house-of-committees",
+        "title": "House Of Committees",
+        "label": "House Of Committees",
+        "icon": "mdi-scale-balance"
+      },
+      "HistoricalCongressMembers": {
+        "path": "historical-congress-members",
+        "title": "Historical Congress Members",
+        "label": "Historical Congress Members",
+        "icon": "mdi-scale-balance"
+      },
+      "Bills": {
+        "path": "bills",
+        "title": "Congress Bills",
+        "label": "Congress Bills",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USABills": {
+      "Legislation": {
+        "path": "legislation",
+        "title": "Legislation",
+        "label": "Legislation",
+        "icon": "mdi-scale-balance"
+      },
+      "CommitteeReports": {
+        "path": "committee-reports",
+        "title": "Committee Reports",
+        "label": "Committee Reports",
+        "icon": "mdi-scale-balance"
+      },
+      "CommitteeMeetings": {
+        "path": "committee-meetings",
+        "title": "Committee Meetings",
+        "label": "Committee Meetings",
+        "icon": "mdi-scale-balance"
+      },
+      "CongressionalRecord": {
+        "path": "congressional-record",
+        "title": "Congressional Record",
+        "label": "Congressional Record",
+        "icon": "mdi-scale-balance"
+      },
+      "Members": {
+        "path": "members",
+        "title": "Members",
+        "label": "Members",
+        "icon": "mdi-scale-balance"
+      },
+      "Nominations": {
+        "path": "Nominations",
+        "title": "Nominations",
+        "label": "Nominations",
+        "icon": "mdi-scale-balance"
+      },
+      "TreatyDocuments": {
+        "path": "TreatyDocuments",
+        "title": "Treaty Documents",
+        "label": "Treaty Documents",
+        "icon": "mdi-scale-balance"
+      },
+      "HouseCommunications": {
+        "path": "HouseCommunications",
+        "title": "House Communications",
+        "label": "House Communications",
+        "icon": "mdi-scale-balance"
+      },
+      "SenateCommunications": {
+        "path": "SenateCommunications",
+        "title": "Senate Communications",
+        "label": "Senate Communications",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USACongressBills": {
+      "BillInformation": {
+        "path": "BillInformation",
+        "title": "Bill Information",
+        "label": "Bill Information",
+        "icon": "mdi-scale-balance"
+      },
+      "BillElements": {
+        "path": "BillElements",
+        "title": "Bill Elements",
+        "label": "Bill Elements",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USAHouseOfRepresentatives": {
+      "HouseOfRepresentatives": {
+        "path": "house-of-representatives",
+        "title": "House Of Representatives",
+        "label": "House Of Representatives",
+        "icon": "mdi-scale-balance"
+      },
+      "LegislativeActivity": {
+        "path": "legislative-activity",
+        "title": "Legislative Activity",
+        "label": "Legislative Activity",
+        "icon": "mdi-scale-balance"
+      },
+      "HouseOfRepresentativesVote": {
+        "path": "house-of-representatives-vote",
+        "title": "House Of Representatives Vote",
+        "label": "House Of Representatives Vote",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USAHouseOfRepresentativesHome": {
+      "MemberProfile": {
+        "path": "MemberProfile",
+        "title": "Member Profile",
+        "label": "Member Profile",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USAHouseOfRepresentativesVote": {
+      "Vote": {
+        "path": "vote",
+        "title": "Vote",
+        "label": "Vote",
+        "icon": "mdi-scale-balance"
+      },
+      "VoteResult": {
+        "path": "VoteResult",
+        "title": "Vote Result",
+        "label": "Vote Result",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USAHouseOfRepresentativesVoteDetail": {
+      "VotesByParty": {
+        "path": "VotesByParty",
+        "title": "Votes By Party",
+        "label": "Votes By Party",
+        "icon": "mdi-scale-balance"
+      },
+      "AllVotes": {
+        "path": "AllVotes",
+        "title": "All Votes",
+        "label": "All Votes",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USAHouseOfCommitteesDetail": {
+      "Subcommittee": {
+        "path": "sub-committee",
+        "title": "Subcommittee",
+        "label": "Subcommittee",
+        "icon": "mdi-scale-balance"
+      },
+      "Members": {
+        "path": "members",
+        "title": "Members",
+        "label": "Members",
+        "icon": "mdi-scale-balance"
+      },
+      "Bills": {
+        "path": "bills",
+        "title": "Bills",
+        "label": "Bills",
+        "icon": "mdi-scale-balance"
+      }
+    },
+    "USAHistoricalCongressMembers": {
+      "BasicInformation": {
+        "path": "BasicInformation",
+        "title": "Basic Information",
+        "label": "Basic Information",
+        "icon": "mdi-scale-balance"
+      },
+      "ContactInformation": {
+        "path": "ContactInformation",
+        "title": "Contact Information",
+        "label": "Contact Information",
+        "icon": "mdi-scale-balance"
+      }
+    }
+  },
+  "FILTER_PANEL": {
+    "Jurisdiction": {
+      "MostCitedOpinions100": {
+        "type": "MostCitedOpinions100",
+        "label": "100 Most Cited Opinions",
+        "icon": "mdi-timer",
+        "queryFilter": {}
+      },
+      "LongestOpinionAge100": {
+        "type": "LongestOpinionAge100",
+        "label": "100 Longest Opinion Age",
+        "icon": "mdi-timer",
+        "queryFilter": {}
+      },
+      "MostCitedAuthorities100": {
+        "type": "MostCitedAuthorities100",
+        "label": "100 Most Cited Authorities",
+        "icon": "mdi-timer",
+        "queryFilter": {}
+      },
+      "LatestActivity100": {
+        "type": "LatestActivity100",
+        "label": "100 Latest Activity",
+        "icon": "mdi-timer",
+        "queryFilter": {}
+      },
+      "LongestTimeSinceLastActivity100": {
+        "type": "LongestTimeSinceLastActivity100",
+        "label": "Longest Time since Last Activity",
+        "icon": "mdi-timer",
+        "queryFilter": {}
+      }
+    }
+  },
+  "SETTINGS": {
+    "EDIT": {
+      "label": "Edit",
+      "icon": "mdi-table-edit",
+      "color": "primary"
+    },
+    "DELETE": {
+      "label": "Delete",
+      "icon": "mdi-delete",
+      "color": "red"
+    },
+    "FULL_SCREEN": {
+      "label": "Full Screen",
+      "labelRollback": "Exit Full Screen",
+      "icon": "mdi-fullscreen",
+      "iconRollback": "mdi-fullscreen-exit",
+      "color": "primary"
+    },
+    "FULL_SCREEN_EXIT": {
+      "label": "Exit Full Screen",
+      "icon": "mdi-fullscreen-exit",
+      "color": "primary"
+    },
+    "RENAME": {
+      "label": "Rename",
+      "icon": "mdi-pencil-box-outline",
+      "color": "primary"
+    },
+    "MOVE_PAGE": {
+      "label": "Move Page",
+      "icon": "mdi-folder-move",
+      "color": "primary"
+    },
+    "ADD": {
+      "label": "Add",
+      "icon": "mdi-plus",
+      "color": "primary"
+    }
+  }
+}

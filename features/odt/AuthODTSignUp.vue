@@ -1,0 +1,79 @@
+<template>
+  <v-card-text>
+    <div>
+      <v-btn
+        icon
+        small
+        @click="$emit('input', false)"
+        absolute
+        top
+        right
+        style="z-index: 10;"
+      >
+        <v-icon small>mdi-close</v-icon>
+      </v-btn>
+      <AttributeCreateNew
+        :type="type"
+        disabled-notify
+        :attributes="attributes"
+        disabled-header
+        :label-header="labelHeader"
+        :title-button-submit="titleButtonSubmit"
+        :end-point="endPoint"
+        @submitted="submitted"
+        @errored="errored"
+      />
+    </div>
+    <v-card-text>
+      <slot name="footer"></slot>
+    </v-card-text>
+  </v-card-text>
+</template>
+
+<script>
+import AttributeCreateNew from '@/sat-vue-toolkit/components/slick-grid/attributes/AttributeCreateNew'
+
+export default {
+  name: 'AuthODTSignUp',
+  components: { AttributeCreateNew },
+  props: {
+    endPoint: {
+      type: String,
+      required: true,
+      default: () =>
+        'https://satchaos.demo.satproj.io/api/users/auth/registration/',
+    },
+    attributes: {
+      type: Array,
+      required: true,
+      default: () => [],
+    },
+    type: {
+      type: String,
+      default: () => 'post',
+    },
+    labelHeader: {
+      type: String,
+      default: () => 'Sign Up',
+    },
+    titleButtonSubmit: {
+      type: String,
+      default: () => 'Sign up',
+    },
+  },
+  mounted() {
+    this.$api.setToken('')
+  },
+  methods: {
+    submitted(data) {
+      this.$emit('input', false)
+      this.$emit('submitted', data)
+    },
+    errored(err) {
+      this.$emit('errored', err)
+    },
+  },
+}
+</script>
+
+<style scoped></style>

@@ -1,0 +1,231 @@
+{
+  "SLICK_GRID": {
+    "COLOR": "#eee",
+    "COLOR_LIGHT": "#FFFFFF",
+    "COLOR_DARK": "#121212",
+    "DARK": false
+  },
+  "SORT_TYPE": {
+    "UP": {
+      "TYPE": "UP",
+      "W_CLASS": "sort-up-field",
+      "LABEL": "DESC",
+      "VALUE": 1,
+      "REG": []
+    },
+    "DOWN": {
+      "TYPE": "DOWN",
+      "W_CLASS": "sort-down-field",
+      "LABEL": "ASC",
+      "VALUE": -1,
+      "REG": []
+    },
+    "DEFAULT": {
+      "TYPE": "DEFAULT",
+      "W_CLASS": "sort-default-field",
+      "LABEL": "DEFAULT",
+      "VALUE": 0,
+      "REG": []
+    }
+  },
+  "LAYOUT_TYPES": {
+    "TABLE": {
+      "TYPE": "TABLE",
+      "TEXT": "TABLE",
+      "ICON": "mdi-table",
+      "VIEW_LAYOUT": "BaseTableView",
+      "HEADER_LAYOUT": "BaseHeaderTableItem",
+      "ROW_LAYOUT": "BaseRowTableItem",
+      "W_BODY_CLASS": "base_table",
+      "shown": true
+    },
+    "LIST": {
+      "TYPE": "LIST",
+      "TEXT": "List",
+      "ICON": "mdi-view-list",
+      "VIEW_LAYOUT": "BaseListView",
+      "HEADER_LAYOUT": "BaseHeaderListItem",
+      "ROW_LAYOUT": "BaseRowListItem",
+      "W_BODY_CLASS": "base_list",
+      "shown": true
+    },
+    "COLUMNS": {
+      "TYPE": "COLUMNS",
+      "TEXT": "Columns",
+      "ICON": "mdi-view-column",
+      "VIEW_LAYOUT": "BaseKanbanView",
+      "HEADER_LAYOUT": "BaseHeaderColumnsItem",
+      "ROW_LAYOUT": "BaseRowColumnsItem",
+      "W_BODY_CLASS": "base_columns",
+      "shown": true
+    },
+    "SUNBURST": {
+      "TYPE": "SUNBURST",
+      "VISUAL": true,
+      "TEXT": "SUNBURST",
+      "ICON": "mdi-chart-pie",
+      "VIEW_LAYOUT": "",
+      "HEADER_LAYOUT": "BaseHeaderColumnsItem",
+      "ROW_LAYOUT": "SunburstChart",
+      "W_BODY_CLASS": "base_visual"
+    },
+    "CALENDAR_HEAT_MAP": {
+      "TYPE": "CALENDAR_HEAT_MAP",
+      "VISUAL": true,
+      "TEXT": "Heat map",
+      "ICON": "mdi-view-day",
+      "VIEW_LAYOUT": "",
+      "HEADER_LAYOUT": "BaseHeaderColumnsItem",
+      "ROW_LAYOUT": "CalendarHeadMapChart",
+      "W_BODY_CLASS": "base_visual"
+    },
+    "PARALLEL": {
+      "TYPE": "PARALLEL",
+      "VISUAL": true,
+      "TEXT": "PARALLEL",
+      "ICON": "mdi-chart-line",
+      "VIEW_LAYOUT": "",
+      "HEADER_LAYOUT": "BaseHeaderColumnsItem",
+      "ROW_LAYOUT": "ParallelChart",
+      "W_BODY_CLASS": "base_visual"
+    },
+    "TREE_MAP": {
+      "TYPE": "TREE_MAP",
+      "VISUAL": true,
+      "TEXT": "Tree Map",
+      "ICON": "mdi-view-quilt",
+      "VIEW_LAYOUT": "",
+      "HEADER_LAYOUT": "BaseHeaderColumnsItem",
+      "ROW_LAYOUT": "TreeMapChart",
+      "W_BODY_CLASS": "base_visual"
+    },
+    "CALENDAR": {
+      "TYPE": "CALENDAR",
+      "TEXT": "Calendar",
+      "ICON": "mdi-calendar",
+      "VIEW_LAYOUT": "BaseCalendarView",
+      "HEADER_LAYOUT": "BaseHeaderColumnsItem",
+      "ROW_LAYOUT": "BaseRowColumnsItem",
+      "W_BODY_CLASS": "base_calendar",
+      "shown": true
+    },
+    "GANTT": {
+      "TYPE": "GANTT",
+      "TEXT": "Gantt",
+      "ICON": "mdi-view-stream",
+      "VIEW_LAYOUT": "BaseGanttView",
+      "HEADER_LAYOUT": "BaseHeaderColumnsItem",
+      "ROW_LAYOUT": "BaseRowColumnsItem",
+      "W_BODY_CLASS": "base_gantt"
+    }
+  },
+  "BUS_SOURCE": {
+    "MENU": "menu-dropdown-source",
+    "HEADER": "menu-dropdown-header",
+    "FILTER_FIELD": "menu-dropdown-filter-field",
+    "MODAL": "modal-dropdown-source"
+  },
+  "BUS_EVENT": {
+    "FIELD_SETTING_CHANGE": "FIELD_CHANGE"
+  },
+  "FILTER_TYPES": {
+    "BOOLEAN": "BOOLEAN",
+    "TEXT": "TEXT",
+    "NUMBER": "NUMBER",
+    "LIST": "LIST",
+    "CHECKED": "CHECKED",
+    "DATE_TIME": "DATE_TIME"
+  },
+  "COUNT_LABEL_DATA": {
+    "countLabelSingular": "item",
+    "countLabelMany": "items",
+    "labelUnGroup": "Un Group"
+  },
+  "ROWS_SETTINGS": {
+    "COMPARE": {
+      "LABEL": "Compare Entries",
+      "ICON": "mdi-swap-horizontal",
+      "PREFIX": "bus-compare-entries"
+    }
+  },
+  "ICONS": {
+    "DELETE": "mdi-delete",
+    "PIN": "mdi-pin",
+    "HIGHLIGHT": "mdi-format-color-fill",
+    "SHOW": "mdi-eye",
+    "HIDE": "mdi-eye-off",
+    "GROUP_BY_FIELD": "mdi-view-agenda"
+  },
+  "ACTIONS_FIELD": {
+    "PIN": {
+      "TYPE": "PIN",
+      "type": "PIN",
+      "LABEL": "Pin Column",
+      "label": "Pin Column",
+      "LABEL_OFF": "Unpin Column",
+      "label_off": "Unpin Column",
+      "ICON": "mdi-pin",
+      "icon": "mdi-pin"
+    },
+    "DELETE": {
+      "TYPE": "DELETE",
+      "type": "DELETE",
+      "LABEL": "Delete Column",
+      "label": "Delete Column",
+      "ICON": "mdi-delete",
+      "icon": "mdi-delete"
+    },
+    "EDIT": {
+      "TYPE": "EDIT",
+      "type": "EDIT",
+      "LABEL": "Edit Column",
+      "label": "Edit Column",
+      "ICON": "mdi-table-edit",
+      "icon": "mdi-table-edit"
+    },
+    "HIGHLIGHT": {
+      "TYPE": "HIGHLIGHT",
+      "type": "HIGHLIGHT",
+      "LABEL": "Highlight Column",
+      "label": "Highlight Column",
+      "ICON": "mdi-format-color-fill",
+      "icon": "mdi-format-color-fill"
+    },
+    "SHOW_HIDE": {
+      "TYPE": "SHOW_HIDE",
+      "type": "SHOW_HIDE",
+      "LABEL": "Show/Hide column",
+      "label": "Show/Hide column",
+      "ICON": "mdi-eye",
+      "icon": "mdi-eye"
+    },
+    "GROUP_BY_FIELD": {
+      "TYPE": "GROUP_BY_FIELD",
+      "type": "GROUP_BY_FIELD",
+      "LABEL": "Group By",
+      "label": "Group By",
+      "ICON": "mdi-view-agenda",
+      "icon": "mdi-view-agenda"
+    }
+  },
+  "CATEGORIES_TYPE": {
+    "Generic": {
+      "type": "Generic",
+      "label": "Generic"
+    },
+    "Standard": {
+      "type": "Standard",
+      "label": "Standard"
+    }
+  },
+  "PANEL_MODE": {
+    "OUTLINE": {
+      "type": "OUTLINE",
+      "label": "Outline"
+    },
+    "TOOLTIP": {
+      "type": "TOOLTIP",
+      "label": "Tooltip"
+    }
+  }
+}

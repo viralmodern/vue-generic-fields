@@ -1,0 +1,798 @@
+[
+  {
+    "label": "Motions and Related Filings",
+    "value": ""
+  },
+  {
+    "label": "Motions",
+    "value": ""
+  },
+  {
+    "label": "Acquittal",
+    "value": ""
+  },
+  {
+    "label": "Adjourn",
+    "value": ""
+  },
+  {
+    "label": "Amend",
+    "value": ""
+  },
+  {
+    "label": "Appeal In Forma Pauperis",
+    "value": ""
+  },
+  {
+    "label": "Appear",
+    "value": ""
+  },
+  {
+    "label": "Appoint Counsel",
+    "value": ""
+  },
+  {
+    "label": "Appoint Expert",
+    "value": ""
+  },
+  {
+    "label": "Bail Review",
+    "value": ""
+  },
+  {
+    "label": "Bifurcate",
+    "value": ""
+  },
+  {
+    "label": "Bill of Particular",
+    "value": ""
+  },
+  {
+    "label": "Bond",
+    "value": ""
+  },
+  {
+    "label": "Bond Forfeited",
+    "value": ""
+  },
+  {
+    "label": "Bond Revoked",
+    "value": ""
+  },
+  {
+    "label": "Brady Materials",
+    "value": ""
+  },
+  {
+    "label": "Change Venue",
+    "value": ""
+  },
+  {
+    "label": "Clarify",
+    "value": ""
+  },
+  {
+    "label": "Commit for NARA Treatment",
+    "value": ""
+  },
+  {
+    "label": "Commit for Study/Observation",
+    "value": ""
+  },
+  {
+    "label": "Compel",
+    "value": ""
+  },
+  {
+    "label": "Competent to Stand Trial",
+    "value": ""
+  },
+  {
+    "label": "Consideration",
+    "value": ""
+  },
+  {
+    "label": "Consolidate Cases",
+    "value": ""
+  },
+  {
+    "label": "Continue",
+    "value": ""
+  },
+  {
+    "label": "Correct",
+    "value": ""
+  },
+  {
+    "label": "Credit for Time Served",
+    "value": ""
+  },
+  {
+    "label": "Declaration of Mistrial",
+    "value": ""
+  },
+  {
+    "label": "Deferral of Prosecution",
+    "value": ""
+  },
+  {
+    "label": "Detain",
+    "value": ""
+  },
+  {
+    "label": "Directed Verdict",
+    "value": ""
+  },
+  {
+    "label": "Disclosure",
+    "value": ""
+  },
+  {
+    "label": "Discovery",
+    "value": ""
+  },
+  {
+    "label": "Dismiss (Misc)",
+    "value": ""
+  },
+  {
+    "label": "Dismiss Count",
+    "value": ""
+  },
+  {
+    "label": "Dismiss/Lack of Jurisdiction",
+    "value": ""
+  },
+  {
+    "label": "Dismiss/Speedy Trial",
+    "value": ""
+  },
+  {
+    "label": "Disqualify Counsel",
+    "value": ""
+  },
+  {
+    "label": "Disqualify Judge",
+    "value": ""
+  },
+  {
+    "label": "Downward Departure",
+    "value": ""
+  },
+  {
+    "label": "Early Termination of Probation",
+    "value": ""
+  },
+  {
+    "label": "Enforce IRS Summons",
+    "value": ""
+  },
+  {
+    "label": "Enlarge Appeal Record",
+    "value": ""
+  },
+  {
+    "label": "Exclude",
+    "value": ""
+  },
+  {
+    "label": "Extension of Time re: Transcript",
+    "value": ""
+  },
+  {
+    "label": "Extension of Time to File Document",
+    "value": ""
+  },
+  {
+    "label": "Extension of Time to Indict",
+    "value": ""
+  },
+  {
+    "label": "File Amicus Brief",
+    "value": ""
+  },
+  {
+    "label": "File Excess Pages",
+    "value": ""
+  },
+  {
+    "label": "Forfeiture of Property",
+    "value": ""
+  },
+  {
+    "label": "Handwriting Exemplars",
+    "value": ""
+  },
+  {
+    "label": "Hearing",
+    "value": ""
+  },
+  {
+    "label": "In Limine",
+    "value": ""
+  },
+  {
+    "label": "Incompetent to Stand Trial",
+    "value": ""
+  },
+  {
+    "label": "Inspect",
+    "value": ""
+  },
+  {
+    "label": "Joinder",
+    "value": ""
+  },
+  {
+    "label": "Judgment NOV",
+    "value": ""
+  },
+  {
+    "label": "Judgment of Acquittal",
+    "value": ""
+  },
+  {
+    "label": "Judicial Recommendation Against Deportation",
+    "value": ""
+  },
+  {
+    "label": "Leave to File Document",
+    "value": ""
+  },
+  {
+    "label": "Medical Exam",
+    "value": ""
+  },
+  {
+    "label": "Medical Treatment",
+    "value": ""
+  },
+  {
+    "label": "Miscellaneous Relief",
+    "value": ""
+  },
+  {
+    "label": "Modify",
+    "value": ""
+  },
+  {
+    "label": "Modify Conditions of Release",
+    "value": ""
+  },
+  {
+    "label": "New Trial",
+    "value": ""
+  },
+  {
+    "label": "Order",
+    "value": ""
+  },
+  {
+    "label": "Order of Competency to Stand Trial",
+    "value": ""
+  },
+  {
+    "label": "Produce",
+    "value": ""
+  },
+  {
+    "label": "Protective Order",
+    "value": ""
+  },
+  {
+    "label": "Psychiatric Exam",
+    "value": ""
+  },
+  {
+    "label": "Psychiatric Treatment",
+    "value": ""
+  },
+  {
+    "label": "Quash",
+    "value": ""
+  },
+  {
+    "label": "Reassign",
+    "value": ""
+  },
+  {
+    "label": "Reconsideration",
+    "value": ""
+  },
+  {
+    "label": "Recusal",
+    "value": ""
+  },
+  {
+    "label": "Redact Transcript",
+    "value": ""
+  },
+  {
+    "label": "Reduce",
+    "value": ""
+  },
+  {
+    "label": "Reduce Sentence",
+    "value": ""
+  },
+  {
+    "label": "Reduce Sentence re: Crack Cocaine Offense – 18:3582",
+    "value": ""
+  },
+  {
+    "label": "Release from Custody",
+    "value": ""
+  },
+  {
+    "label": "Remand",
+    "value": ""
+  },
+  {
+    "label": "Return of Property/PostTrial",
+    "value": ""
+  },
+  {
+    "label": "Return of Property/PreTrial",
+    "value": ""
+  },
+  {
+    "label": "Return of Surety",
+    "value": ""
+  },
+  {
+    "label": "Revoke",
+    "value": ""
+  },
+  {
+    "label": "Sanctions",
+    "value": ""
+  },
+  {
+    "label": "Seal Case",
+    "value": ""
+  },
+  {
+    "label": "Seal Document",
+    "value": ""
+  },
+  {
+    "label": "Sealed Motion (Court Staff Only)",
+    "value": ""
+  },
+  {
+    "label": "Set Aside Forfeiture",
+    "value": ""
+  },
+  {
+    "label": "Set Aside Sentence",
+    "value": ""
+  },
+  {
+    "label": "Set Aside Verdict",
+    "value": ""
+  },
+  {
+    "label": "Sever Defendant",
+    "value": ""
+  },
+  {
+    "label": "Special Appearance",
+    "value": ""
+  },
+  {
+    "label": "Speedy Trial",
+    "value": ""
+  },
+  {
+    "label": "Stay",
+    "value": ""
+  },
+  {
+    "label": "Strike",
+    "value": ""
+  },
+  {
+    "label": "Substitute Attorney",
+    "value": ""
+  },
+  {
+    "label": "Suppress",
+    "value": ""
+  },
+  {
+    "label": "Travel",
+    "value": ""
+  },
+  {
+    "label": "Unseal Case",
+    "value": ""
+  },
+  {
+    "label": "Unseal Document",
+    "value": ""
+  },
+  {
+    "label": "Upward Departure",
+    "value": ""
+  },
+  {
+    "label": "Vacate",
+    "value": ""
+  },
+  {
+    "label": "Vacate (2255)",
+    "value": ""
+  },
+  {
+    "label": "Victim Rights",
+    "value": ""
+  },
+  {
+    "label": "Visitation",
+    "value": ""
+  },
+  {
+    "label": "Warrant",
+    "value": ""
+  },
+  {
+    "label": "",
+    "value": ""
+  },
+  {
+    "label": "Withdraw Document",
+    "value": ""
+  },
+  {
+    "label": "Withdraw Plea of Guilty",
+    "value": ""
+  },
+  {
+    "label": "Withdraw as Attorney",
+    "value": ""
+  },
+  {
+    "label": "Briefs, Responses and Replies – Motion and Non-Motion",
+    "value": ""
+  },
+  {
+    "label": "Affidavit in Opposition to Motion",
+    "value": ""
+  },
+  {
+    "label": "Brief (Non-Motion)",
+    "value": ""
+  },
+  {
+    "label": "Brief in Opposition to Motion",
+    "value": ""
+  },
+  {
+    "label": "Brief in Support of Motion",
+    "value": ""
+  },
+  {
+    "label": "Memorandum in Support of Motion",
+    "value": ""
+  },
+  {
+    "label": "Objection to Presentence Investigation Report",
+    "value": ""
+  },
+  {
+    "label": "Objection to Report and Recommendations",
+    "value": ""
+  },
+  {
+    "label": "Reply (Non-Motion)",
+    "value": ""
+  },
+  {
+    "label": "Reply to Response (Motion)",
+    "value": ""
+  },
+  {
+    "label": "Response (Non-Motion)",
+    "value": ""
+  },
+  {
+    "label": "Response to Motion",
+    "value": ""
+  },
+  {
+    "label": "Other Filings",
+    "value": ""
+  },
+  {
+    "label": "Discovery Documents",
+    "value": ""
+  },
+  {
+    "label": "Notice of Alibi",
+    "value": ""
+  },
+  {
+    "label": "Notice of Insanity – Expert Witness",
+    "value": ""
+  },
+  {
+    "label": "Notice of Intent to Use Evidence",
+    "value": ""
+  },
+  {
+    "label": "Withdrawal of Alibi",
+    "value": ""
+  },
+  {
+    "label": "Withdrawal of Insanity Defense",
+    "value": ""
+  },
+  {
+    "label": "Waivers",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Appearance at Arraignment & Plea",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Indictment",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Minimum Time to Trial",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Preliminary Hearing",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Presentence Investigation Report",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Rights Under Interstate Agreement on Detainers",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Rule 32.1 Hearings",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Rule 5(c)(3) Hearings",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Speedy Trial",
+    "value": ""
+  },
+  {
+    "label": "Waiver of Trial by Jury",
+    "value": ""
+  },
+  {
+    "label": "Notice",
+    "value": ""
+  },
+  {
+    "label": "Notice – (Do not use this event for a Notice of Appeal)",
+    "value": ""
+  },
+  {
+    "label": "Notice of Attorney Appearance – Defendant",
+    "value": ""
+  },
+  {
+    "label": "Notice of Attorney Appearance – USA",
+    "value": ""
+  },
+  {
+    "label": "Notice of Change of Address",
+    "value": ""
+  },
+  {
+    "label": "Notice of Intent to Redact",
+    "value": ""
+  },
+  {
+    "label": "Notice of Lien for Fine and/or Restitution",
+    "value": ""
+  },
+  {
+    "label": "Notice of Release of Lien",
+    "value": ""
+  },
+  {
+    "label": "Trial Documents",
+    "value": ""
+  },
+  {
+    "label": "Exhibit List",
+    "value": ""
+  },
+  {
+    "label": "Offer of Proof",
+    "value": ""
+  },
+  {
+    "label": "Pretrial Report",
+    "value": ""
+  },
+  {
+    "label": "Proposed Jury Instructions",
+    "value": ""
+  },
+  {
+    "label": "Proposed Voir Dire",
+    "value": ""
+  },
+  {
+    "label": "Trial Brief",
+    "value": ""
+  },
+  {
+    "label": "Witness List",
+    "value": ""
+  },
+  {
+    "label": "Appeal Documents",
+    "value": ""
+  },
+  {
+    "label": "Designation of Record on Appeal",
+    "value": ""
+  },
+  {
+    "label": "Docketing Statement",
+    "value": ""
+  },
+  {
+    "label": "Notice of Appeal",
+    "value": ""
+  },
+  {
+    "label": "Request for Certificate of Appealability",
+    "value": ""
+  },
+  {
+    "label": "Other Documents",
+    "value": ""
+  },
+  {
+    "label": "Affidavit",
+    "value": ""
+  },
+  {
+    "label": "Amendment",
+    "value": ""
+  },
+  {
+    "label": "Amicus Curiae Appearance",
+    "value": ""
+  },
+  {
+    "label": "Answer of the Garnishee-Defendant",
+    "value": ""
+  },
+  {
+    "label": "Application",
+    "value": ""
+  },
+  {
+    "label": "Certificate of Service",
+    "value": ""
+  },
+  {
+    "label": "Claim",
+    "value": ""
+  },
+  {
+    "label": "Consent to Inspection of Presentence Investigation Report",
+    "value": ""
+  },
+  {
+    "label": "Consent to Proceed Before US Magistrate Judge",
+    "value": ""
+  },
+  {
+    "label": "Disclosure Statement",
+    "value": ""
+  },
+  {
+    "label": "Information to Establish Prior Conviction",
+    "value": ""
+  },
+  {
+    "label": "Judgment Satisfaction",
+    "value": ""
+  },
+  {
+    "label": "Letter",
+    "value": ""
+  },
+  {
+    "label": "Notice of Intent to Redact",
+    "value": ""
+  },
+  {
+    "label": "Objection to Presentence Investigation Report",
+    "value": ""
+  },
+  {
+    "label": "Objection to Report and Recommendations",
+    "value": ""
+  },
+  {
+    "label": "Objections",
+    "value": ""
+  },
+  {
+    "label": "Original Document",
+    "value": ""
+  },
+  {
+    "label": "Petition",
+    "value": ""
+  },
+  {
+    "label": "Pretrial Report",
+    "value": ""
+  },
+  {
+    "label": "Proposed Document",
+    "value": ""
+  },
+  {
+    "label": "Redacted Document",
+    "value": ""
+  },
+  {
+    "label": "Redaction Statement – Transcript",
+    "value": ""
+  },
+  {
+    "label": "Report",
+    "value": ""
+  },
+  {
+    "label": "Request",
+    "value": ""
+  },
+  {
+    "label": "Request (Non-Party)",
+    "value": ""
+  },
+  {
+    "label": "Response to Order to Show Cause",
+    "value": ""
+  },
+  {
+    "label": "Sentencing Enhancement Information",
+    "value": ""
+  },
+  {
+    "label": "Sentencing Memorandum",
+    "value": ""
+  },
+  {
+    "label": "Statement",
+    "value": ""
+  },
+  {
+    "label": "Status Report",
+    "value": ""
+  },
+  {
+    "label": "Stipulation",
+    "value": ""
+  },
+  {
+    "label": "Supplement",
+    "value": ""
+  },
+  {
+    "label": "Withdrawal of Motion",
+    "value": ""
+  }
+]

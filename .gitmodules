@@ -1,0 +1,3 @@
+[submodule "sat-vue-toolkit"]
+	path = sat-vue-toolkit
+	url = https://gitlab.satproj.net/satproject/sat-vue-toolkit.git

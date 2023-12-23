@@ -1,0 +1,27 @@
+.panels-group-parent {
+  //border: solid 1px red;
+  padding: 0px 15px;
+  box-sizing: border-box;
+}
+.panels-group {
+  overflow-y: hidden;
+  overflow-x: auto;
+  margin: 0px -5px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  .panel-item {
+    padding: 10px 5px 0px 5px;
+    flex: 0 1 auto;
+    align-self: auto;
+    &:first-child {
+      padding-left: 0px;
+    }
+    &:last-child {
+      padding-right: 0px;
+    }
+  }
+}

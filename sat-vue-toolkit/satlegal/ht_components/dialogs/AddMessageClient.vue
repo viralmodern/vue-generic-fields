@@ -1,0 +1,164 @@
+<template>
+  <div class="text-xs-center">
+    <v-dialog :value="isShow" @input="cancel" width="500" persistent>
+      <v-card>
+        <div class="primary">
+          <v-row no-gutters class="pa-3 justify-center align-center">
+            <div class="title font-weight-regular white--text">
+              Add new tax rate
+            </div>
+            <v-spacer></v-spacer>
+            <v-btn class="ma-0" icon @click="cancel">
+              <v-icon color="white">close</v-icon>
+            </v-btn>
+          </v-row>
+        </div>
+        <v-divider></v-divider>
+        <v-form class="pa-3" ref="form" v-model="valid" lazy-validation>
+          <v-row class="my-1">
+            <v-select
+              v-model="to"
+              :items="members"
+              item-text="name"
+              label="Create by"
+              item-value="id"
+              :rules="[v => !!v || 'This field is required']"
+            >
+              <template v-slot:selection="{ item, index }">
+                <v-chip class="chip--select-multi" small>
+                  <v-avatar>
+                    <UserAvatar
+                      :name="item.avatar.name"
+                      :imageUrl="(item.avatar || {}).imageUrl"
+                      :avatarSize="30"
+                    />
+                  </v-avatar>
+                  <span>{{ item.avatar.name }}</span>
+                </v-chip>
+              </template>
+              <template slot="item" slot-scope="{ item }">
+                <UserAvatar
+                  :name="item.avatar.name"
+                  :imageUrl="(item.avatar || {}).imageUrl"
+                  :avatarSize="35"
+                />&nbsp;
+                <span>{{ item.avatar.name }}</span>
+              </template>
+            </v-select>
+          </v-row>
+          <v-row no-gutters class="my-1">
+            <v-textarea
+              name="input-7-1"
+              label="Message..."
+              v-model="message"
+            ></v-textarea>
+          </v-row>
+          <v-row no-gutters class="my-1">
+            <v-select
+              :items="dataMatter"
+              :rules="[v => !!v || 'This field is required']"
+              label="Matter"
+              item-text="title"
+              item-value="id"
+              v-model="matter"
+            ></v-select>
+          </v-row>
+          <v-row no-gutters class="my-1">
+            <v-select
+              v-model="status"
+              :rules="[v => !!v || 'This field is required']"
+              :items="statusOfMessage"
+              attach
+              chips
+              label="Status"
+              item-value="id"
+              item-text="name"
+            ></v-select>
+          </v-row>
+          <v-row no-gutters class="my-1">
+            <v-menu
+              v-model="menuDate"
+              :close-on-content-click="false"
+              :nudge-right="40"
+              transition="scale-transition"
+              offset-y
+              min-width="290px"
+            >
+              <template v-slot:activator="{ on }">
+                <v-text-field
+                  :rules="[v => !!v || 'This field is required']"
+                  v-model="updated"
+                  readonly
+                  label="Create date"
+                  v-on="on"
+                  append-icon="date_range"
+                ></v-text-field>
+              </template>
+              <v-date-picker
+                no-title
+                v-model="updated"
+                @input="menuDate = false"
+              ></v-date-picker>
+            </v-menu>
+          </v-row>
+        </v-form>
+        <v-divider></v-divider>
+        <v-card-actions>
+          <v-spacer></v-spacer>
+          <v-btn @click="cancel">Cancel</v-btn>
+          <v-btn class="v-btn theme--light primary" @click="add">Add</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
+  </div>
+</template>
+<script>
+import { statusOfMessage } from "../../config";
+import { mapGetters } from "vuex";
+import UserAvatar from "../avatars/UserAvatar";
+export default {
+  props: {
+    isShow: Boolean
+  },
+  data() {
+    return {
+      statusOfMessage,
+      valid: true,
+      to: "",
+      message: "",
+      matter: "",
+      menuDate: false,
+      updated: "",
+      status: ""
+    };
+  },
+  components: {
+    UserAvatar
+  },
+  methods: {
+    cancel() {
+      this.$emit("closeModal");
+      this.$refs.form.reset();
+    },
+    add() {
+      if (this.$refs.form.validate()) {
+        const data = {
+          id: Math.random(),
+          message: this.message,
+          to: this.to,
+          matter: this.matter,
+          updated: this.updated,
+          status: this.status
+        };
+        this.$emit("addMessage", data);
+        this.$refs.form.reset();
+        this.$emit("closeModal");
+      }
+    }
+  },
+  computed: {
+    ...mapGetters("ht_store/workspace/member", ["members"]),
+    ...mapGetters("ht_store/matter", ["dataMatter"])
+  }
+};
+</script>

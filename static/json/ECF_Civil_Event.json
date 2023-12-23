@@ -1,0 +1,1287 @@
+[
+  {
+    "parentId": "root",
+    "label": "Initial Pleadings and Service",
+    "id": "1",
+    "code": "f_24b69214-01c6-4b82-9c82-4a8bbd691ddc_t"
+  },
+  {
+    "parentId": "1",
+    "label": "Complaints and Other Initiating Documents",
+    "id": "1.2",
+    "code": "f_432ea194-5bdb-4c7f-b071-d951b12a6256_t",
+    "parentCode": "1"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Amended Complaint",
+    "id": "1.2.1",
+    "code": "f_de72c910-cecb-4200-8e5b-e7d0bccb0679_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Application for Writ of Garnishment",
+    "id": "1.2.2",
+    "code": "f_e22429ee-8bfd-4809-9ade-835b58562dfa_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Complaint",
+    "id": "1.2.3",
+    "code": "f_a3ddebbc-2bae-4b16-baae-244703ad66d6_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Complaint – Prisoner",
+    "id": "1.2.4",
+    "code": "f_1ffd2a8a-45ee-423b-9e24-bb7df50b8959_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Complaint – Social Security",
+    "id": "1.2.5",
+    "code": "f_9ccfbeac-7d3b-4d72-abf4-db4c3a3ed416_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Intervenor Complaint",
+    "id": "1.2.6",
+    "code": "f_9b4207b1-07f3-4344-9280-e417c0e0253b_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Motion to Compel – Misc Filing",
+    "id": "1.2.7",
+    "code": "f_a9def2e8-fa04-46ad-866b-5f0caf336892_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Motion to Enforce IRS Summons or Subpoena",
+    "id": "1.2.8",
+    "code": "f_35249bcd-8295-474b-8ece-d1771a45900f_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Motion to Quash IRS Summons",
+    "id": "1.2.9",
+    "code": "f_9ba72911-0e44-43f6-a2a5-733bc01ce2ac_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Motion to Quash Subpoena",
+    "id": "1.2.10",
+    "code": "f_e0e4dc89-8c23-49fc-9b10-a5c5c9732395_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Notice of Condemnation",
+    "id": "1.2.11",
+    "code": "f_de085869-f125-43f9-b478-9e2e22f56e64_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Notice of Removal",
+    "id": "1.2.12",
+    "code": "f_6e486397-9922-48f7-9932-11ad344f97db_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Petition – Civil Case Filing",
+    "id": "1.2.13",
+    "code": "f_37769ca8-1677-4dff-9a31-b5cd39f443da_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Petition – Misc Case Filing",
+    "id": "1.2.14",
+    "code": "f_50eb1c2f-5209-4ec3-bdd4-fcd06047e5fb_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Petition for Writ of Habeas Corpus",
+    "id": "1.2.15",
+    "code": "f_3a2d1f5d-57de-42de-903b-7023ebe85f80_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Third Party Complaint",
+    "id": "1.2.16",
+    "code": "f_63497124-0860-4186-ba4b-e01ba0d4b6ae_t"
+  },
+  {
+    "parentId": "1.2",
+    "label": "Vacate/Set Aside/Correct Sentence (2255)",
+    "id": "1.2.17",
+    "code": "f_eb6bb8dc-b9d9-4184-8233-c71f712a9af8_t"
+  },
+  {
+    "parentId": "1",
+    "label": "Initial Pleadings and Service",
+    "id": "1.3",
+    "code": "f_acc83a10-edde-47f3-a777-7567ac5fee67_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Acceptance of Service by DOJ",
+    "id": "1.3.1",
+    "code": "f_c7a805d5-b767-46da-a5af-1b71b9c8167e_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Admission of Service",
+    "id": "1.3.2",
+    "code": "f_33203e1e-3421-404c-bbb8-594331e6b85c_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Request for Issuance of Summons",
+    "id": "1.3.3",
+    "code": "f_e65a5200-108a-4cad-967d-05d47adf1ba9_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Return of Service by Certified Mail",
+    "id": "1.3.4",
+    "code": "f_1cf28fcf-0475-4c4d-830b-a43792a6fec4_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Service by Publication",
+    "id": "1.3.5",
+    "code": "f_d6fd1a56-4485-45b6-b014-1e0cd98e4e24_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Summons Returned Executed",
+    "id": "1.3.6",
+    "code": "f_8e6a1f58-5350-4275-ab95-6dc3ae989399_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Summons Returned Executed as to USA",
+    "id": "1.3.7",
+    "code": "f_6c1fa06f-04c9-49c1-945b-0b59547cec41_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Summons Returned Unexecuted",
+    "id": "1.3.8",
+    "code": "f_284d3169-3953-482f-a895-370916012c6f_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Waiver of Service Executed",
+    "id": "1.3.9",
+    "code": "f_9d786390-1ee1-41f6-a2e7-776b84f852fc_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Waiver of Service Unexecuted",
+    "id": "1.3.10",
+    "code": "f_4b74fbb1-b388-4913-a454-eb38ec6ec037_t"
+  },
+  {
+    "parentId": "1.3",
+    "label": "Writ of Garnishment Returned",
+    "id": "1.3.11",
+    "code": "f_6d4fc8fb-2f59-43e1-b4df-493cb91cd886_t"
+  },
+  {
+    "parentId": "1",
+    "label": "Answers to Complaints",
+    "id": "1.4",
+    "code": "f_53567790-55a6-447f-98bf-9f04156eaba0_t"
+  },
+  {
+    "parentId": "1",
+    "label": "Other Answers",
+    "id": "1.5",
+    "code": "f_20e4f437-7ca0-4615-ba2a-4356e91895f6_t"
+  },
+  {
+    "parentId": "1.5",
+    "label": "Amended Answer to Complaint",
+    "id": "1.5.",
+    "code": "f_e08a7b29-b4ea-4c5c-8ab1-8001227593f3_t"
+  },
+  {
+    "parentId": "1.5",
+    "label": "Answer and Counterclaim",
+    "id": "1.5.1",
+    "code": "f_5d37da87-03cf-40e8-bed8-c2e2f6498db5_t"
+  },
+  {
+    "parentId": "1.5",
+    "label": "Answer and Crossclaim",
+    "id": "1.5.2",
+    "code": "f_e1c82d09-165f-4429-91ba-dc6611cedbb9_t"
+  },
+  {
+    "parentId": "1.5",
+    "label": "Answer to Complaint (Closed Case)",
+    "id": "1.5.3",
+    "code": "f_1fd8095d-038b-4395-be08-1b94b8c26f56_t"
+  },
+  {
+    "parentId": "1.5",
+    "label": "Answer to Complaint (Notice of Removal)",
+    "id": "1.5.4",
+    "code": "f_5d695f80-07ea-46f1-850b-e93a3649fdb2_t"
+  },
+  {
+    "parentId": "1.5",
+    "label": "Answer to Counterclaim",
+    "id": "1.5.5",
+    "code": "f_14f82a56-fe8d-428f-87a4-0454bd1bf134_t"
+  },
+  {
+    "parentId": "1.5",
+    "label": "Answer to Crossclaim",
+    "id": "1.5.6",
+    "code": "f_075d38f8-94df-44fb-92a7-80de3282f3ea_t"
+  },
+  {
+    "parentId": "1.5",
+    "label": "Answer to Writ of Garnishment",
+    "id": "1.5.7",
+    "code": "f_a5d850c3-b03c-41d6-994e-02d692997321_t"
+  },
+  {
+    "parentId": "root",
+    "label": "Motions and Related Filings",
+    "id": "2",
+    "code": "f_f7772899-be16-4a79-87c1-ccc035cbe255_t"
+  },
+  {
+    "parentId": "2",
+    "label": "Motions",
+    "id": "2.1",
+    "code": "f_b048f627-0270-4c61-ab8a-8c4c9c40971f_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Add Party",
+    "id": "2.1.1",
+    "code": "f_118b1d29-f221-4fc5-ab35-3720de583b3d_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Adjourn",
+    "id": "2.1.2",
+    "code": "f_da9608c7-a075-4d04-ac98-370630aa5b1f_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Alter Judgment",
+    "id": "2.1.3",
+    "code": "f_8388d675-107f-4667-84c0-38a53959df9c_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Amend/Correct",
+    "id": "2.1.4",
+    "code": "f_3c1ca8dc-e244-4fa1-beac-1afa61fc4321_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Appeal in Forma Pauperis",
+    "id": "2.1.5",
+    "code": "f_3ce24ebc-c239-40d6-93e9-156cf884eb84_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Appear",
+    "id": "2.1.6",
+    "code": "f_d2a2aa4c-460e-41fc-97c9-955b2c36513f_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Appoint (NOT counsel)",
+    "id": "2.1.7",
+    "code": "f_13767ac6-ab94-4942-b11f-f0258814a9dd_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Appoint Counsel",
+    "id": "2.1.8",
+    "code": "f_c24d4fac-34e4-4ee7-9a0b-fc612140c94c_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Attorneys Fees",
+    "id": "2.1.9",
+    "code": "f_3ed53512-de3d-4935-8765-32e63a7eebcd_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Bifurcate",
+    "id": "2.1.10",
+    "code": "f_c5454bbc-c57c-4d3b-bffd-6ed2b6abb7f4_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Certify Class",
+    "id": "2.1.11",
+    "code": "f_68b391a9-32e4-4411-801c-f544488f20ed_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Change Venue",
+    "id": "2.1.12",
+    "code": "f_56314f2d-ef41-4239-9fc4-82f5bf34d787_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Clarify",
+    "id": "2.1.13",
+    "code": "f_b4d49673-550c-420f-aa58-ede99dbd1ce1_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Compel",
+    "id": "2.1.14",
+    "code": "f_193d9c17-c5fc-4bb7-b0ff-1c438546a633_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Consideration",
+    "id": "2.1.15",
+    "code": "f_fc9f137e-2b57-4c0d-8e1d-ae3527f55a88_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Consolidate Cases",
+    "id": "2.1.16",
+    "code": "f_dd047d14-c714-46da-abff-b5a376bb7fdf_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Contempt",
+    "id": "2.1.17",
+    "code": "f_c31b7e0d-3b84-4b0c-8349-916df8356211_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Continue",
+    "id": "2.1.18",
+    "code": "f_ce849fb2-80b7-4459-965c-792b63839e21_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Damages",
+    "id": "2.1.19",
+    "code": "f_22d1d457-94f8-45ab-a0ba-87436c9eb199_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Default Judgment",
+    "id": "2.1.20",
+    "code": "f_a452233c-3c3b-48f1-9b17-700bd492dabd_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Directed Verdict",
+    "id": "2.1.21",
+    "code": "f_c95c794e-9ec7-4674-a28e-6d1a723624c3_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Disbursement of Funds",
+    "id": "2.1.22",
+    "code": "f_53a180ac-0552-44dc-afb2-933a6a9c58b6_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Discharge",
+    "id": "2.1.23",
+    "code": "f_80751b7a-feed-4c07-9bf4-9796ef4dc948_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Discovery",
+    "id": "2.1.24",
+    "code": "f_09a86550-8b9e-4fcb-a8af-26c4214f7425_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Dismiss",
+    "id": "2.1.25",
+    "code": "f_bdf1b729-d9f8-426b-9eec-c225a1e88158_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Dismiss Case as Frivolous",
+    "id": "2.1.26",
+    "code": "f_48003feb-6bf1-420f-af51-7825e086b448_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Dismiss Party",
+    "id": "2.1.27",
+    "code": "f_cbffda6b-e888-4758-8c0f-18d8f98dc7e6_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Dismiss for Failure to State a Claim",
+    "id": "2.1.28",
+    "code": "f_52670730-f371-4f2c-84b3-c9ce9cfe5fb3_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Dismiss/Lack of Jurisdiction",
+    "id": "2.1.29",
+    "code": "f_f154daea-fe9a-420a-9d95-7ba6c16236cb_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Remand",
+    "id": "2.1.30",
+    "code": "f_d4ab6365-bb0f-4d45-a634-e0fd3b442f93_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Remand to Agency",
+    "id": "2.1.31",
+    "code": "f_8dab0816-17c5-4d02-abd3-a79ab048a98b_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Remand to Bankruptcy Court",
+    "id": "2.1.32",
+    "code": "f_b29d78af-fbfc-4362-a9bc-f9e976639ad0_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Remand to State Court",
+    "id": "2.1.33",
+    "code": "f_05a3b308-9fec-4ed8-8db9-610c3219521b_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Removal",
+    "id": "2.1.34",
+    "code": "f_7d5c110c-3f19-4f64-b851-384b4e380aa0_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Reopen Case",
+    "id": "2.1.35",
+    "code": "f_68ad9508-b28f-461f-b7cf-6ef527a551e9_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Reset",
+    "id": "2.1.36",
+    "code": "f_a2ae447e-89ca-4f5b-b737-cf083aa08e1e_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Review",
+    "id": "2.1.37",
+    "code": "f_d0ff9ba4-5970-4813-ab36-5df975eadad5_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Sanctions",
+    "id": "2.1.38",
+    "code": "f_936af013-7f0d-4987-8a0a-df99783ef239_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Seal",
+    "id": "2.1.39",
+    "code": "f_5b9b6263-c292-473d-a531-5482a3b151c1_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Seal Case",
+    "id": "2.1.40",
+    "code": "f_b8f1a0fb-5d49-483c-bca8-17793bd6072e_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Seal Document",
+    "id": "2.1.41",
+    "code": "f_5e557019-2561-4481-b75e-d164bd440d8e_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Sealed Motion (Court Staff Only)",
+    "id": "2.1.42",
+    "code": "f_60f0d448-623a-44a6-b7a5-a4f382ff189f_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Service by Publication",
+    "id": "2.1.43",
+    "code": "f_bad9080f-5c4e-4914-91c5-c02a0337ba0c_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Set Aside",
+    "id": "2.1.44",
+    "code": "f_ddb24c3d-a8d1-4a74-9d33-5c9392a5ddc3_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Set Aside Default",
+    "id": "2.1.45",
+    "code": "f_dc4366bd-1ef9-4a7f-8bfe-002f5f898112_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Set Aside Judgment",
+    "id": "2.1.46",
+    "code": "f_e42b5283-6dec-4968-9bf8-966a2323943c_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Settlement",
+    "id": "2.1.47",
+    "code": "f_0be07c46-a96e-4f14-85cd-e5279e65281c_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Sever",
+    "id": "2.1.48",
+    "code": "f_95766e00-066f-4360-bee0-f1daedad9563_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Show Cause",
+    "id": "2.1.49",
+    "code": "f_49a9debe-d82a-463a-a4ce-0a071b187eef_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Stay",
+    "id": "2.1.50",
+    "code": "f_26ddaffb-c8c1-4d20-aa1b-982e9f48fcf5_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Strike",
+    "id": "2.1.515",
+    "code": "f_4da204ca-c5e3-4753-9322-a4c55ac663e7_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Substitute Attorney",
+    "id": "2.1.52",
+    "code": "f_5fc3a9eb-a7dd-4409-a844-e9afe4cbf521_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Substitute Party",
+    "id": "2.1.53",
+    "code": "f_db7f1c89-cf82-4c34-9a12-1f802f4e0dde_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Summary Judgment",
+    "id": "2.1.54",
+    "code": "f_95622625-8e6c-4024-ab4b-84392d97b5a2_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Supplement",
+    "id": "2.1.55",
+    "code": "f_45b9d7f5-0df9-40ff-b054-139e82ab9b0e_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Suppress",
+    "id": "2.1.56",
+    "code": "f_accb6146-4eaf-407e-b1d9-ff2b2fa959d6_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Take Deposition",
+    "id": "2.1.57",
+    "code": "f_3f75393e-a427-41f1-bd3b-4727a463502c_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Taxation of Costs",
+    "id": "2.1.58",
+    "code": "f_05d5f71e-6afa-4636-9c4e-0c29d3792efb_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Temporary Restraining Order",
+    "id": "2.1.59",
+    "code": "f_2acfebb1-5165-4129-87b5-c6fbd2a3ac6b_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Three Judge Panel",
+    "id": "2.1.60",
+    "code": "f_0af0894a-4897-48da-b938-e9e2fc61323c_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Transfer Case",
+    "id": "2.1.61",
+    "code": "f_942cd301-c49f-432e-a69d-72fef2882295_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Trial",
+    "id": "2.1.62",
+    "code": "f_f23ae035-112c-4043-b242-5fac6a46bb0e_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Unseal",
+    "id": "2.1.63",
+    "code": "f_fa9f04c9-b291-4556-8f40-10c5f2c9bec1_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Vacate",
+    "id": "2.1.64",
+    "code": "f_faa15b64-2f5e-4294-bd92-17b3bd6723a2_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Vacate/Set Aside/Correct Sentence (2255)",
+    "id": "2.1.65",
+    "code": "f_9a3ba61c-631d-4626-baee-08ca41adea32_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Waive",
+    "id": "2.1.66",
+    "code": "f_f2db46fc-3bbc-4954-9bec-790b428805f0_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Withdraw",
+    "id": "2.1.67",
+    "code": "f_b81dae70-81df-463b-bd56-e7af060be4f8_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Withdraw Motion",
+    "id": "2.1.68",
+    "code": "f_448fdcb3-f72a-44a9-b2e5-4b6f528df3bf_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Withdraw Reference",
+    "id": "2.1.69",
+    "code": "f_ca51c3aa-40ba-4c26-a3c2-705a42ff8553_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Withdraw as Attorney",
+    "id": "2.1.70",
+    "code": "f_fc5ee52d-89ef-46f5-abeb-9aacbb4dca2c_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Writ",
+    "id": "2.1.71",
+    "code": "f_fbfe8f07-a01b-46db-a92b-f5e83373cfbe_t"
+  },
+  {
+    "parentId": "2.1",
+    "label": "Writ of Garnishment",
+    "id": "2.1.72",
+    "code": "f_c17a7c4f-364e-4b88-a54a-2d97de741bd8_t"
+  },
+  {
+    "parentId": "2",
+    "label": "Briefs, Responses and Replies – Motion and Non-Motion",
+    "id": "2.2",
+    "code": "f_3cbb4a03-ba12-4828-9185-241493447161_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Bankruptcy Appellants Brief",
+    "id": "2.2.1",
+    "code": "f_6c0ef739-8100-4347-9399-1fd8cdf114bf_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Bankruptcy Appellants Reply Brief",
+    "id": "2.2.2",
+    "code": "f_fb895666-0c54-4209-8d72-808b39a6be27_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Bankruptcy Appellees Brief",
+    "id": "2.2.3",
+    "code": "f_8e13f1a3-cdc0-46b2-b7fd-257b98a0627c_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Brief (Non-Motion)",
+    "id": "2.2.4",
+    "code": "f_1ab7de27-a0da-4137-b50b-3099a68ba59b_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Brief in Opposition to Motion",
+    "id": "2.2.5",
+    "code": "f_5f8a2bae-a940-4835-ab13-c7db949b7200_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Brief in Support of Motion",
+    "id": "2.2.6",
+    "code": "f_99f25e27-9a86-49af-9389-1a3ddfc23abf_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Objections to Report and Recommendations",
+    "id": "2.2.7",
+    "code": "f_65d880fc-bada-4d24-b353-b2dbe8110c55_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Reply (Non-Motion)",
+    "id": "2.2.8",
+    "code": "f_a7abf2a6-fa2b-4f97-91d6-07a9e86a71c3_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Reply Brief in Support of Motion",
+    "id": "2.2.9",
+    "code": "f_85ec6fbc-cf74-40cd-9ff3-05c6cea9b4ad_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Response (Non-Motion)",
+    "id": "2.2.10",
+    "code": "f_eff9e0dd-4b83-4e4f-b08d-f145e54a295e_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Response to Motion",
+    "id": "2.2.11",
+    "code": "f_001780ba-79df-4ceb-97a5-cbcb49907535_t"
+  },
+  {
+    "parentId": "2.2",
+    "label": "Response to Objection to Recommendation",
+    "id": "2.2.12",
+    "code": "f_5839e76e-5afa-43c9-98b6-2d57c6fabeed_t"
+  },
+  {
+    "parentId": "root",
+    "label": "Other Filings",
+    "id": "3",
+    "code": "f_f52141ec-81e0-41e7-a88c-3d0b49b09289_t"
+  },
+  {
+    "parentId": "3",
+    "label": "Notices",
+    "id": "3.1",
+    "code": "f_8f49a140-7957-4edb-977b-2bfd5125416f_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice – (Do not use this event for a Notice of Appeal)",
+    "id": "3.1.1",
+    "code": "f_ef0b04b1-da3d-498d-8cda-3f141dc9ecdc_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice of Acceptance with Offer of Judgment",
+    "id": "3.1.2",
+    "code": "f_f0d94887-f885-4d32-8bfe-54c9d3bc0b76_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice of Appearance",
+    "id": "3.1.3",
+    "code": "f_aaae1122-5759-49fa-9131-876405423ac2_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice of Change of Address",
+    "id": "3.1.4",
+    "code": "f_b044596a-6478-4fbf-b192-16e1fa28c6e2_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice of Intent to Redact",
+    "id": "3.1.5",
+    "code": "f_e2e387dd-000f-4f3b-9561-d9b4fd87f8a4_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice of Lis Pendens",
+    "id": "3.1.6",
+    "code": "f_de6f5857-ec49-45f0-9a39-240b39d507ab_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice of Post Judgment Garnishment",
+    "id": "3.1.7",
+    "code": "f_dc9797e3-a90a-49f0-aabe-32ec77c0403c_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice of Settlement",
+    "id": "3.1.8",
+    "code": "f_08d3d871-bfb0-4a51-978d-8fa7b80873bd_t"
+  },
+  {
+    "parentId": "3.1",
+    "label": "Notice of Voluntary Dismissal",
+    "id": "3.1.9",
+    "code": "f_03a750d8-548c-4ac1-bea8-a6f409b93a8c_t"
+  },
+  {
+    "parentId": "3",
+    "label": "Trial Documents",
+    "id": "3.2",
+    "code": "f_bb3bf267-26ba-436b-bf6d-5dcff3b93a96_t"
+  },
+  {
+    "parentId": "3.2",
+    "label": "Exhibit List",
+    "id": "3.2.1",
+    "code": "f_cf6fd913-5e68-46e0-a694-017dd37b43ca_t"
+  },
+  {
+    "parentId": "3.2",
+    "label": "Pretrial Report",
+    "id": "3.2.2",
+    "code": "f_64ba611d-4112-4d7f-b4c4-f5c9a0afcb56_t"
+  },
+  {
+    "parentId": "3.2",
+    "label": "Proposed Findings of Fact",
+    "id": "3.2.3",
+    "code": "f_d48e7ba3-40e3-4cd6-aa0e-0ed96c57aa1b_t"
+  },
+  {
+    "parentId": "3.2",
+    "label": "Proposed Jury Instructions",
+    "id": "3.2.4",
+    "code": "f_88e2b09b-381a-46ae-9971-dc3355bf14b3_t"
+  },
+  {
+    "parentId": "3.2",
+    "label": "Proposed Verdict",
+    "id": "3.2.5",
+    "code": "f_71e8997d-e96e-4753-a0e6-f51367377008_t"
+  },
+  {
+    "parentId": "3.2",
+    "label": "Proposed Voir Dire",
+    "id": "3.2.6",
+    "code": "f_e11b740b-5bae-4961-bfe2-e34e76cfdc56_t"
+  },
+  {
+    "parentId": "3.2",
+    "label": "Trial Brief",
+    "id": "3.2.7",
+    "code": "f_2d98534d-1fb7-46bc-bd54-3c10baeeec2f_t"
+  },
+  {
+    "parentId": "3.2",
+    "label": "Witness List",
+    "id": "3.2.8",
+    "code": "f_e5c20852-8d8b-4a94-915a-c3f4be65a9ea_t"
+  },
+  {
+    "parentId": "3",
+    "label": "Appeal Documents",
+    "id": "3.3",
+    "code": "f_63b727bb-4607-4640-ad46-1f8e40cb14b9_t"
+  },
+  {
+    "parentId": "3.3",
+    "label": "Designation of Record on Appeal",
+    "id": "3.3.1",
+    "code": "f_40eeabb0-ebb6-496b-8205-b185ea5cd114_t"
+  },
+  {
+    "parentId": "3.3",
+    "label": "Docketing Statement",
+    "id": "3.3.2",
+    "code": "f_99f62bd2-84cf-4622-b588-b9002518a840_t"
+  },
+  {
+    "parentId": "3.3",
+    "label": "Notice of Appeal",
+    "id": "3.3.3",
+    "code": "f_6196bed9-075f-4932-bfee-e3aec065900b_t"
+  },
+  {
+    "parentId": "3.3",
+    "label": "Notice of Appeal Prisoner",
+    "id": "3.3.4",
+    "code": "f_3343466b-7387-4a9e-84fa-499caeec3906_t"
+  },
+  {
+    "parentId": "3.3",
+    "label": "Notice of Cross Appeal",
+    "id": "3.3.5",
+    "code": "f_d5185896-e274-4cbd-a9bd-e717755e3e4f_t"
+  },
+  {
+    "parentId": "3.3",
+    "label": "Notice of Interlocutory Appeal",
+    "id": "3.3.6",
+    "code": "f_8c37df7e-f5c2-4cf1-b3ae-8a103391406d_t"
+  },
+  {
+    "parentId": "3.3",
+    "label": "Request for Certificate of Appealability",
+    "id": "3.3.7",
+    "code": "f_c8deac5d-b3b3-46da-8535-f2c88f0bf236_t"
+  },
+  {
+    "parentId": "3",
+    "label": "Other Documents",
+    "id": "3.4",
+    "code": "f_dd4b9c33-b278-4d54-8c0b-ebb657c48bbd_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Affidavit",
+    "id": "3.4.1",
+    "code": "f_973b7527-686f-420c-8f22-c4c6c6e85184_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Amended Document (NOT Motion)",
+    "id": "3.4.2",
+    "code": "f_09ace4be-de2f-40bd-9c75-807a8a12ef52_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Amicus Curiae Appearance",
+    "id": "3.4.3",
+    "code": "f_0be2dd93-2134-4604-ad94-636eab4b9e86_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Appendix",
+    "id": "3.4.4",
+    "code": "f_c92e7f48-c55f-4b81-827a-0766ed62f5ea_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Application",
+    "id": "3.4.5",
+    "code": "f_471903d8-f93f-42bb-89ad-e54778832ef6_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Attachments",
+    "id": "3.4.6",
+    "code": "f_c85856ea-bafe-4ced-9479-83e27d50de61_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Bill of Costs",
+    "id": "3.4.",
+    "code": "f_fc611f50-c8b9-428c-86e4-7f87e927bd0a_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Bond",
+    "id": "3.4.7",
+    "code": "f_d32113bc-7ca3-4554-bdc9-1174abc0146b_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Certificate",
+    "id": "3.4.8",
+    "code": "f_d51b1024-c115-4398-be17-ab955546f9df_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Certificate of Service",
+    "id": "3.4.9",
+    "code": "f_67119515-c89f-42d3-8e22-c6449e18f953_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Claim",
+    "id": "3.4.10",
+    "code": "f_8b964004-59a6-4f5e-922d-207713dfc27c_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Consent/Refusal to Jurisdiction by US Magistrate Judge",
+    "id": "3.4.11",
+    "code": "f_3ea8e60c-bb48-477f-8f9a-f8e248875740_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Counterclaim",
+    "id": "3.4.12",
+    "code": "f_2ed7e1cf-5b62-4d88-b6c7-bb7ffd735a49_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Crossclaim",
+    "id": "3.4.13",
+    "code": "f_0b8d0cea-dbef-434b-a71d-38d374dc9d5e_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Declaration",
+    "id": "3.4.14",
+    "code": "f_f646e09b-215e-469b-bd04-5886d1aaf7e0_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Discharge Lis Pendens",
+    "id": "3.4.15",
+    "code": "f_562c59fc-cdfd-4735-a809-1536b2619714_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Disclosure Statement",
+    "id": "3.4.16",
+    "code": "f_8b5471a4-f7a9-4e43-a968-39e6856f2b2b_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Joinder",
+    "id": "3.4.17",
+    "code": "f_13628958-6041-49ce-8a12-457b76d71dca_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Judgment Offer",
+    "id": "3.4.18",
+    "code": "f_d61ef893-daa0-42b1-a97a-3503359d7004_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Jury Demand",
+    "id": "3.4.19",
+    "code": "f_002a0ca7-9296-4415-96c8-084d5aed300f_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Letter",
+    "id": "3.4.20",
+    "code": "f_cf03393e-bf28-416e-bd62-fd92b8003aa4_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Notice of Intent to Redact",
+    "id": "3.4.21",
+    "code": "f_fc096354-a96a-45ed-8526-6d5991368013_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Objections",
+    "id": "3.4.22",
+    "code": "f_c2a375f2-f478-4f3d-951b-0e32339b9047_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Original Document",
+    "id": "3.4.23",
+    "code": "f_9db8ea3f-6db4-4874-9acc-6f46605f6b7a_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Pretrial Report",
+    "id": "3.4.24",
+    "code": "f_33b417b0-14b1-405d-b3f7-8bd72b94d6fc_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Prisoner Trust Fund Account Statement",
+    "id": "3.4.25",
+    "code": "f_1451afc8-b23f-426b-9bb1-0f284e73e408_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Proposed Document",
+    "id": "3.4.26",
+    "code": "f_f314fe7f-6738-48c7-b30e-de7087b1f090_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Proposed Findings of Fact",
+    "id": "3.4.27",
+    "code": "f_fb9dc81e-01b5-4dbb-aeb6-de849d08ca08_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Redacted Document",
+    "id": "3.4.28",
+    "code": "f_f070e195-4c53-49ef-a09d-c812ee22a633_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Redaction Statement – Transcript",
+    "id": "3.4.29",
+    "code": "f_e79b72c4-0088-4017-8adf-9571b5240254_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Report",
+    "id": "3.4.30",
+    "code": "f_e42056a9-c176-45a0-be1e-eec675921e22_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Report of Rule 26(f) Plan",
+    "id": "3.4.31",
+    "code": "f_864f75fd-8e78-406e-b8ca-26c3931a55a5_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Request",
+    "id": "3.4.32",
+    "code": "f_5c5968de-2a1c-49b0-b1c2-4ff4ccf6083b_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Request for Issuance of Summons",
+    "id": "3.4.33",
+    "code": "f_880fa739-9dee-40f1-96f3-2aaf0df4b730_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Response to Order to Show Cause",
+    "id": "3.4.34",
+    "code": "f_2aeee95c-2af7-41fb-994e-64f2f1a00ebf_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Satisfaction of Judgment",
+    "id": "3.4.35",
+    "code": "f_aa646746-3a78-464c-9f3d-c85166238e63_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Settlement Agreement",
+    "id": "3.4.36",
+    "code": "f_9fe93c85-1cee-40b1-adf3-618fabe9a716_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Settlement Offer",
+    "id": "3.4.37",
+    "code": "f_559e8e26-e99f-4714-8a3a-d95fc0fee413_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Statement",
+    "id": "3.4.38",
+    "code": "f_351c4556-72ae-4ec2-aca3-a036c0ca1f26_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Statement of Fact",
+    "id": "3.4.39",
+    "code": "f_f47fbf53-3199-4445-8fa2-1d38bed2d703_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Status Report",
+    "id": "3.4.40",
+    "code": "f_b1704b0e-0850-4849-a3fb-083d0a958e49_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Stipulation",
+    "id": "3.4.41",
+    "code": "f_c907fe73-9c58-406c-b682-c4a1b1110f66_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Stipulation of Dismissal",
+    "id": "3.4.42",
+    "code": "f_92daae32-162a-456e-98bc-6825b4a03bac_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Suggestion of Bankruptcy",
+    "id": "3.4.43",
+    "code": "f_20ae2113-c439-40f7-bf5c-e0ecfb5936ec_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Suggestion of Death",
+    "id": "3.4.44",
+    "code": "f_a76dd60d-e059-4b2e-a8ce-3d7756d1c9ab_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Supplement",
+    "id": "3.4.45",
+    "code": "f_3004b537-3aa1-466f-bc90-8e8c01e4447b_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Transcript Request",
+    "id": "3.4.46",
+    "code": "f_ddb16600-b2b4-4408-a423-d957651ccb5b_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Unpublished Decision",
+    "id": "3.4.47",
+    "code": "f_2611398e-113a-41c4-a1cc-e48f87158f8e_t"
+  },
+  {
+    "parentId": "3.4",
+    "label": "Verification",
+    "id": "3.4.48",
+    "code": "f_1b726348-009e-45c7-9af6-3207a8c7ede3_t"
+  },
+  {
+    "parentId": "root",
+    "label": "Social Security Events",
+    "id": "4",
+    "code": "f_bd895b56-7432-4abb-a109-0e8bf99b50e3_t"
+  },
+  {
+    "parentId": "4",
+    "label": "Social Security",
+    "id": "4.1",
+    "code": "f_6008c1a6-f35e-4113-ad5c-c2fec1ba640c_t"
+  },
+  {
+    "parentId": "4.1",
+    "label": "Certificate of Service – Social Security Transcript",
+    "id": "4.1.1",
+    "code": "f_18809c18-1110-482e-aeef-6aa3dba4e202_t"
+  },
+  {
+    "parentId": "4.1",
+    "label": "Commissioners Brief – Social Security",
+    "id": "4.1.2",
+    "code": "f_0b18812f-3071-47f7-a002-e9ec3a4a6bc3_t"
+  },
+  {
+    "parentId": "4.1",
+    "label": "Notice of Filing Administrative Transcript",
+    "id": "4.1.3",
+    "code": "f_824f2d64-b512-4e58-b6da-6591790ea44d_t"
+  },
+  {
+    "parentId": "4.1",
+    "label": "Plaintiffs Brief – Social Security",
+    "id": "4.1.4",
+    "code": "f_ef3eba60-e2a3-4df5-b801-43e62ae0c396_t"
+  },
+  {
+    "parentId": "4.1",
+    "label": "Plaintiffs Reply Brief – Social Security",
+    "id": "4.1.5",
+    "code": "f_2261bc3c-f9ed-4bd6-a2b2-13707bcaf6bf_t"
+  },
+  {
+    "parentId": "4.1",
+    "label": "Return of Service",
+    "id": "4.1.6",
+    "code": "f_800fb16c-99ad-4333-ae8e-6ca91a418cb4_t"
+  }
+]

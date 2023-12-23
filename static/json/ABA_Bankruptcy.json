@@ -1,0 +1,107 @@
+[
+  {
+    "Code": "B100 Administration",
+    "Code Name": "B110 Case Administration.",
+    "Code Definition": "Coordination and compliance matters, including preparation of statement of financial affairs; schedules; list of contracts; United States Trustee interim statements and operating reports; contacts with the United States Trustee; general creditor inquiries."
+  },
+  {
+    "Code": "",
+    "Code Name": "B120 Asset Analysis and Recovery.",
+    "Code Definition": "Identification and review of potential assets including causes of action and non-litigation recoveries."
+  },
+  {
+    "Code": "",
+    "Code Name": "B130 Asset Disposition.",
+    "Code Definition": "Sales, abandonment and transaction work related to asset disposition."
+  },
+  {
+    "Code": "",
+    "Code Name": "B140 Relief from Stay/Adequate Protection Proceedings.",
+    "Code Definition": "Matters relating to termination or continuation of automatic stay under 362 and motions for adequate protection."
+  },
+  {
+    "Code": "",
+    "Code Name": "B150 Meetings of and Communications with Creditors.",
+    "Code Definition": "Preparing for and attending the conference of creditors, the 341(a) meeting and other creditors' committee meetings."
+  },
+  {
+    "Code": "",
+    "Code Name": "B160 Fee/Employment Applications.",
+    "Code Definition": "Preparations of employment and fee applications for self or others; motions to establish interim procedures."
+  },
+  {
+    "Code": "",
+    "Code Name": "B170 Fee/Employment Objections.",
+    "Code Definition": "Review of and objections to the employment and fee applications of others."
+  },
+  {
+    "Code": "",
+    "Code Name": "B180 Avoidance Action Analysis.",
+    "Code Definition": "Review of potential avoiding actions under Sections 544-549 of the Code to determine whether adversary proceedings are warranted."
+  },
+  {
+    "Code": "",
+    "Code Name": "B185 Assumption/Rejection of Leases and Contracts.",
+    "Code Definition": "Analysis of leases and executory contracts and preparation of motions specifically to assume or reject."
+  },
+  {
+    "Code": "",
+    "Code Name": "B190 Other Contested Matters (excluding assumption/rejection motions).",
+    "Code Definition": "Analysis and preparation of all other motions, opposition to motions and reply memoranda in support of motions."
+  },
+  {
+    "Code": "",
+    "Code Name": "B195 Non-Working Travel.",
+    "Code Definition": "Non-working travel where the court reimburses at less than full hourly rates."
+  },
+  {
+    "Code": "B200 Operations",
+    "Code Name": "B210 Business Operations.",
+    "Code Definition": "Issues related to debtor-in-possession operating in chapter 11 such as employee, vendor, tenant issues and other similar problems."
+  },
+  {
+    "Code": "",
+    "Code Name": "B220 Employee Benefits/Pensions.",
+    "Code Definition": "Review issues such as severance, retention, 401K coverage and continuance of pension plan."
+  },
+  {
+    "Code": "",
+    "Code Name": "B230 Financing/Cash Collections.",
+    "Code Definition": "Matters under 361, 363 and 364 including cash collateral and secured claims; loan document analysis."
+  },
+  {
+    "Code": "",
+    "Code Name": "B240 Tax Issues.",
+    "Code Definition": "Analyses and advice regarding tax-related issues, including the preservation of net operating loss carry forwards."
+  },
+  {
+    "Code": "",
+    "Code Name": "B250 Real Estate.",
+    "Code Definition": "Review and analysis of real estate-related matters, including purchase agreements and lease provisions (e.g., common area maintenance clauses)."
+  },
+  {
+    "Code": "",
+    "Code Name": "B260 Board of Directors Matters.",
+    "Code Definition": "Preparation of materials for and attendance at Board of Directors meetings; analysis and advice regarding corporate governance issues and review and preparation of corporate documents (e.g., Articles, Bylaws, employment agreements, compensation plans, etc.)"
+  },
+  {
+    "Code": "B300 Claims and Plan",
+    "Code Name": "B310 Claims Administration and Objections.",
+    "Code Definition": "Specific claim inquiries; bar date motions; analyses, objections and allowances of claims."
+  },
+  {
+    "Code": "",
+    "Code Name": "B320 Plan and Disclosure Statement (including Business Plan).",
+    "Code Definition": "Formulation, presentation and confirmation; compliance with the plan confirmation order, related orders and rules; disbursement and case closing activities, except those related to the allowance and objections to allowance of claims."
+  },
+  {
+    "Code": "B400 Bankruptcy-Related Advice",
+    "Code Name": "B410 General Bankruptcy Advice/Opinions.",
+    "Code Definition": "Analysis, advice and/or opinions regarding potential bankruptcy related issues, where no bankruptcy case has been filed."
+  },
+  {
+    "Code": "",
+    "Code Name": "B420 Restructurings.",
+    "Code Definition": "Analysis, consultation and drafting in connection with the restructuring of agreements, including financing agreements, where no bankruptcy case has been filed."
+  }
+]

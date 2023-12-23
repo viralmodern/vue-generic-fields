@@ -1,0 +1,554 @@
+[
+  {
+    "Code": 110,
+    "Title": "Insurance",
+    "Type": "Contract",
+    "Description": "Action alleging breach of insurance contract, tort claim, or other cause related to an insurance contract, except for maritime insurance contracts."
+  },
+  {
+    "Code": 120,
+    "Title": "Marine",
+    "Type": "Contract",
+    "Description": "Action (Admiralty or Maritime) based on service, employment, insurance or other contracts relating to maritime vessels and other maritime contractual matters"
+  },
+  {
+    "Code": 130,
+    "Title": "Miller Act",
+    "Type": "Contract",
+    "Description": "Action based on performance and payment bonds agreed to by contractors on federal construction projects as required under the Miller Act, 40 U.S.C. § 3131-3134"
+  },
+  {
+    "Code": 140,
+    "Title": "Negotiable Instrument",
+    "Type": "Contract",
+    "Description": "Action relating to an agreement to pay a specific amount of money, including promissory notes, loan agreements and checks."
+  },
+  {
+    "Code": 150,
+    "Title": "Recovery of Overpayment & Enforcement Judgment",
+    "Type": "Contract",
+    "Description": "Action to recover debt owed to the United States, including enforcement of judgments, based on overpayments and restitution agreements involving matters other than Medicare benefits, student loans and veterans’ benefits."
+  },
+  {
+    "Code": 151,
+    "Title": "Medicare",
+    "Type": "Contract",
+    "Description": "Action relating to Medicare payments, including actions for payments of benefits, to recover overpayments, and for judicial review of administrative decisions."
+  },
+  {
+    "Code": 152,
+    "Title": "Recovery of Defaulted Student Loans (Excludes Veterans)",
+    "Type": "Contract",
+    "Description": "Action to recover debt owed to the United States from defaulted student loan"
+  },
+  {
+    "Code": 153,
+    "Title": "Recovery of Overpayment of Veterans' Benefits",
+    "Type": "Contract",
+    "Description": "Action relating to payments of veterans’ benefits, primarily including actions to recover overpayments"
+  },
+  {
+    "Code": 160,
+    "Title": "Stockholders' Suits",
+    "Type": "Contract",
+    "Description": "Action brought by stockholder(s) of a corporation (including both stockholder derivative suits and direct actions based on plaintiff’s rights as a stockholder), usually alleging claims based on contract and/or tort\nlaw and/or fiduciary obligations"
+  },
+  {
+    "Code": 190,
+    "Title": "Other Contract",
+    "Type": "Contract",
+    "Description": "Action primarily based on rights and obligations under a contract not classifiable elsewhere under the specific natures of suit under “Contract.”"
+  },
+  {
+    "Code": 195,
+    "Title": "Contract Product Liability",
+    "Type": "Contract",
+    "Description": "Action concerning damages caused by a defective product, not primarily involving personal injury or property damage, and based primarily on breach of contract, breach of warranty, misrepresentation, and/or violation of consumer protection laws."
+  },
+  {
+    "Code": 196,
+    "Title": "Franchise",
+    "Type": "Contract",
+    "Description": "Action arising from a dispute over a franchise agreement, typically alleging breach of contract, misrepresentation or unfair trade practices."
+  },
+  {
+    "Code": 210,
+    "Title": "Land Condemnation",
+    "Type": "Real Property",
+    "Description": "Action by a governmental entity to take privately-owned real property (land or buildings) for public use for compensation."
+  },
+  {
+    "Code": 220,
+    "Title": "Foreclosure",
+    "Type": "Real Property",
+    "Description": "Action to enjoin foreclosure on real property by mortgage lender."
+  },
+  {
+    "Code": 230,
+    "Title": "Rent Lease & Ejectment",
+    "Type": "Real Property",
+    "Description": "Action for rental or lease payments owed on real property and/or to eject a party occupying real property illegally."
+  },
+  {
+    "Code": 240,
+    "Title": "Torts to Land",
+    "Type": "Real Property",
+    "Description": "Action alleging trespass to land, nuisance, contamination or other unlawful entry on or interference with real property possessed by another."
+  },
+  {
+    "Code": 245,
+    "Title": "Tort Product Liability",
+    "Type": "Real Property",
+    "Description": "Action alleging harm by an unsafe product based on negligence, breach of warranty, misrepresentation, and strict tort liability."
+  },
+  {
+    "Code": 290,
+    "Title": "All Other Real Property",
+    "Type": "Real Property",
+    "Description": "Action primarily based on unlawful conduct relating to real property that cannot be classified under any other nature of suit."
+  },
+  {
+    "Code": 310,
+    "Title": "Airplane (Excludes airplane product liability claims)",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action alleging personal injury or wrongful death from an air crash or other occurrence involving an airplane."
+  },
+  {
+    "Code": 315,
+    "Title": "Airplane Product Liability",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action alleging personal injury or death from an air crash or other occurrence involving an airplane and caused by a defective product."
+  },
+  {
+    "Code": 320,
+    "Title": "Assault, Libel & Slander",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action alleging intentional acts of assault, libel, trade libel or slander by a private party."
+  },
+  {
+    "Code": 330,
+    "Title": "Federal Employers' Liability",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action for personal injury or wrongful death brought by a railroad employee or his survivors under the Federal Employers’ Liability Act (FELA), 45 U.S.C. § 51, et. seq."
+  },
+  {
+    "Code": 340,
+    "Title": "Marine (Excludes marine product liability claims)",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action (Admiralty and Maritime) alleging personal injury or death from an accident involving a water vessel or harbor/dock facilities, including suits brought under the Jones Act and the Limitation of Liability Act."
+  },
+  {
+    "Code": 345,
+    "Title": "Marine Product Liability",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action (Admiralty and Maritime) alleging personal injury or wrongful death from an accident involving a water vessel or harbor/dock facilities and caused by a defective product."
+  },
+  {
+    "Code": 350,
+    "Title": "Motor Vehicle",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action alleging personal injury or wrongful death from negligence involving a motor vehicle but not caused by a defective product."
+  },
+  {
+    "Code": 360,
+    "Title": "Other Personal Injury",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action primarily based on personal injury or death caused by negligence or intentional misconduct, including suits brought against the United States under the Federal Tort Claims Act, and which cannot be classified under any other nature of suit."
+  },
+  {
+    "Code": 362,
+    "Title": "Personal Injury",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action alleging personal injury or wrongful death caused by negligence in medical care provided by a doctor or other health care professional."
+  },
+  {
+    "Code": 365,
+    "Title": "Personal Injury - Product Liability (Excludes a marine or airplane product)",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action alleging personal injury or death resulting from a defective product."
+  },
+  {
+    "Code": 367,
+    "Title": "Health Care/Pharmaceutical Personal Injury Product Liability",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action alleging personal injury or death caused by a defective medical or pharmaceutical product."
+  },
+  {
+    "Code": 368,
+    "Title": "Asbestos Personal Injury Product Liability",
+    "Type": "Torts/Personal Injury",
+    "Description": "Action alleging personal injury or death caused by exposure to asbestos products"
+  },
+  {
+    "Code": 370,
+    "Title": "Other Fraud (Excludes any property that is not real property)",
+    "Type": "Personal Property",
+    "Description": "Action primarily based on fraud relating to personal property that cannot be classified under any other nature of suit."
+  },
+  {
+    "Code": 371,
+    "Title": "Truth in Lending",
+    "Type": "Personal Property",
+    "Description": "Action alleging violation of the federal Truth in Lending Act arising from consumer loan transactions involving personal property including automobile loans and revolving credit accounts."
+  },
+  {
+    "Code": 380,
+    "Title": "Other Personal Property Damage",
+    "Type": "Personal Property",
+    "Description": "Action primarily based on damage to personal property caused by harmful conduct such as negligence, misrepresentation, interference with business relationships or unfair trade practices."
+  },
+  {
+    "Code": 385,
+    "Title": "Property Damage Product Liability",
+    "Type": "Personal Property",
+    "Description": "Action alleging damage to personal property caused by a defective product."
+  },
+  {
+    "Code": 440,
+    "Title": "Other Civil Rights (Excludes claims against corrections officials)",
+    "Type": "Civil Rights",
+    "Description": "Action alleging a civil rights violation other than the specific civil rights categories listed below or a violation related to prison. Example: Action alleging excessive force by police incident to an arrest."
+  },
+  {
+    "Code": 441,
+    "Title": "Voting",
+    "Type": "Civil Rights",
+    "Description": "Action filed under Civil Rights Act, 52 U.S.C. § 10101, and Voting Rights Act, 52 U.S.C. § 10301"
+  },
+  {
+    "Code": 442,
+    "Title": "Employment",
+    "Type": "Civil Rights",
+    "Description": "Action filed under Age Discrimination in Employment Act 29:621:634, Equal Employment Opportunity Act (Title VII) 42:2000E, Performance Rating Act of 1950 5:4303"
+  },
+  {
+    "Code": 443,
+    "Title": "Housing/Accommodations",
+    "Type": "Civil Rights",
+    "Description": "Action filed under the Fair Housing Act (Title VII), 42 U.S.C. § 3601 & 3602."
+  },
+  {
+    "Code": 445,
+    "Title": "Americans With Disabilities - Employment",
+    "Type": "Civil Rights",
+    "Description": "Action of discrimination against an employee with disabilities of any type in the work place, filed under 42 U.S.C. § 12117"
+  },
+  {
+    "Code": 446,
+    "Title": "Americans With Disabilities - Other",
+    "Type": "Civil Rights",
+    "Description": "Action of discrimination against an individual with disabilities in areas other than employment, filed under 42 U.S.C. § 12133 (exclusion or discrimination in provision of services, programs or activities of a public entity) or 42 U.S.C. § 12188 (public accommodations)"
+  },
+  {
+    "Code": 448,
+    "Title": "Education",
+    "Type": "Civil Rights",
+    "Description": "Action filed under the Individuals with Disabilities Educations Act, 20 U.S.C. § 1401 and Title IX of the Education Amendment of 1972, 20 U.S.C. § 1681 et seq"
+  },
+  {
+    "Code": 463,
+    "Title": "Alien Detainee",
+    "Type": "Prisoner Petitions - Habeas Corpus",
+    "Description": "Immigration habeas petition under 28 U.S.C. § 2241. All cases filed with this nature of suit code are restricted to case participants and public terminals. Petition is filed by an alien detainee"
+  },
+  {
+    "Code": 510,
+    "Title": "Motions to Vacate Sentence",
+    "Type": "Prisoner Petitions - Habeas Corpus",
+    "Description": "Action by a prisoner to vacate or modify a sentence imposed in federal court, other than a death sentence, under 28 U.S.C. § 2255."
+  },
+  {
+    "Code": 530,
+    "Title": "General",
+    "Type": "Prisoner Petitions - Habeas Corpus",
+    "Description": "Action by a federal or state prisoner currently in custody challenging the legality of confinement or other punishment. This includes claims\nalleging illegalities that occurred in trial (for example, ineffective assistance of counsel), sentencing (including fines and restitution orders), or disciplinary proceedings in prison (for example, loss of good time credits). Habeas petition under 28 U.S.C. § 2254 or prisoner habeas under 28 U.S.C. § 2241."
+  },
+  {
+    "Code": 535,
+    "Title": "Death Penalty",
+    "Type": "Prisoner Petitions - Habeas Corpus",
+    "Description": "Action by a federal or state prisoner challenging a death sentence."
+  },
+  {
+    "Code": 540,
+    "Title": "Mandamus & Other",
+    "Type": "Prisoner Petitions",
+    "Description": "Action by prisoner currently in custody for a writ of mandamus to compel action by a judge or government official relating to the prisoner’s confinement, including conditions of confinement. This category also includes any actions other than mandamus brought by a prisoner currently in custody, whether or not it relates to his confinement, if it is not classifiable under any other nature of suit category under Prisoner Petitions (for example, action by prisoner to recover property taken by the government in a criminal case)."
+  },
+  {
+    "Code": 550,
+    "Title": "Civil Rights",
+    "Type": "Prisoner Petitions",
+    "Description": "Action by current or former prisoner alleging a civil rights violation by corrections officials that is not related to a condition of prison life."
+  },
+  {
+    "Code": 555,
+    "Title": "Prison Condition",
+    "Type": "Prisoner Petitions",
+    "Description": "Action by current prisoner, or former prisoner or their families alleging a civil rights, Federal Tort Claims Act, or state law claim with respect to a condition of prison life, whether general circumstances or particular episodes. Examples: inadequate medical care or excessive force by prison guards. Includes non-habeas actions by alien detainees alleging unlawful prison conditions."
+  },
+  {
+    "Code": 560,
+    "Title": "Civil Detainee - Conditions of Confinement (Excludes actions by alien detainees)",
+    "Type": "Prisoner Petitions",
+    "Description": "Action by former prisoner who was involuntarily committed to a noncriminal facility after expiration of his or her prison term alleging unlawful conditions of confinement while in the non-criminal facility. This category includes, for example, an action by a former prisoner classified as a Sexually Dangerous Person or Sexually Violent Predator alleging civil rights violations during his detention in a medical facility."
+  },
+  {
+    "Code": 625,
+    "Title": "Drug Related Seizure of Property 21 U.S.C. § 881",
+    "Type": "Forfeiture - Penalty",
+    "Description": "Action (Forfeiture) by which property itself is accused of wrongdoing and is forfeited to the government as a result."
+  },
+  {
+    "Code": 690,
+    "Title": "Other",
+    "Type": "Forfeiture - Penalty",
+    "Description": "Action primarily based on Acts or Bills that cannot be classified under any other nature of suit, such as: Endangered Species Act, Federal Hazardous Substance Act 15:1261, Game & Wildlife Act 15:256C et seq. (Penalty), Federal Trade Commission Act 15:41-51 (Penalty), Federal Coal Mine Health & Safety Act 30:801 et seq. (Penalty), Load Line Act 46:85-85G, McGuire Bill (Federal Fair Trade) 15:45L Penalty, Marihuana Tax Act 50 STAT 551, Motorboat Act 46:526-526T, National Traffic & Motor Vehicle Safety Act penalty 49:1655, Veterans' Benefit Act, Title\n38 Penalty"
+  },
+  {
+    "Code": 710,
+    "Title": "Fair Labor Standards Act (Non-Union)",
+    "Type": "Labor",
+    "Description": "Action relating to non-union workplace related disputes filed under the Fair Labor Standards Act, 29 U.S.C. § 201 including but not limited to wage discrimination, paid leave, minimum wage and overtime pay."
+  },
+  {
+    "Code": 720,
+    "Title": "Labor/Management Relations (Union)",
+    "Type": "Labor",
+    "Description": "Action relating to disputes between labor unions and employers as well as all petitions regarding actions of the Nation Labor Relations Board (NLRB)"
+  },
+  {
+    "Code": 740,
+    "Title": "Railway Labor Act",
+    "Type": "Labor",
+    "Description": "Action relating to disputes filed under the Railway Labor Act, 45 U.S.C. § 151 including labor disputes, individual claims, and response to sanctions."
+  },
+  {
+    "Code": 751,
+    "Title": "Family and Medical Leave Act",
+    "Type": "Labor",
+    "Description": "Action filed under the Family Medical Leave Act, 29 U.S.C. §2601"
+  },
+  {
+    "Code": 790,
+    "Title": "Other Labor Litigation",
+    "Type": "Labor",
+    "Description": "Action primarily based on labor disputes not addressed by other NOS codes (includes Labor/Management Reporting and Disclosure Act)"
+  },
+  {
+    "Code": 791,
+    "Title": "Employee Retirement Income Security Act",
+    "Type": "Labor",
+    "Description": "Action filed under the Employee Retirement Income Security Act, 29 U.S.C. § 1132 by individuals and labor organizations."
+  },
+  {
+    "Code": 462,
+    "Title": "Naturalization Application",
+    "Type": "Immigration",
+    "Description": "Action seeking review of denial of an application for naturalization [8 U.S.C. § 1447(b)] or alleging failure to make a determination regarding an application for naturalization [8 U.S.C. § 1421(c)]."
+  },
+  {
+    "Code": 465,
+    "Title": "Other Immigration Actions",
+    "Type": "Immigration",
+    "Description": "Action (Immigration-related) that do not involve Naturalization Applications or petitions for Writ of Habeas Corpus, such as complaints alleging failure to adjudicate an application to adjust immigration status to permanent resident."
+  },
+  {
+    "Code": 422,
+    "Title": "Appeal 28 USC § 158",
+    "Type": "Bankruptcy",
+    "Description": "All appeals of previous bankruptcy decisions filed under 28 U.S.C. § 158"
+  },
+  {
+    "Code": 423,
+    "Title": "Withdrawal of Reference 28 USC § 157",
+    "Type": "Bankruptcy",
+    "Description": "Action held in bankruptcy court requesting withdrawal under the provisions of 28 U.S.C. § 157"
+  },
+  {
+    "Code": 820,
+    "Title": "Copyright",
+    "Type": "Property Rights",
+    "Description": "Action filed in support or to dispute a copyright claim."
+  },
+  {
+    "Code": 830,
+    "Title": "Patent",
+    "Type": "Property Rights",
+    "Description": "Action filed in support or to dispute a patent claim."
+  },
+  {
+    "Code": 835,
+    "Title": "Patent – Abbreviated New Drug Application (ANDA)",
+    "Type": "Property Rights",
+    "Description": "Action filed in support or to dispute a patent claim involving an Abbreviated New Drug Application (ANDA). These cases are also known as “Hatch-Waxman” cases."
+  },
+  {
+    "Code": 840,
+    "Title": "Trademark",
+    "Type": "Property Rights",
+    "Description": "Action filed in support or to dispute a trademark claim"
+  },
+  {
+    "Code": 880,
+    "Title": "Defend Trade Secrets Act of 2016 (DTSA)",
+    "Type": "Property Rights",
+    "Description": "Action filed in support or to dispute a trade secret misappropriation"
+  },
+  {
+    "Code": 861,
+    "Title": "HIA (1395ff)",
+    "Type": "Social Security",
+    "Description": "Action filed with regard to social security benefits associated with Health Insurance Part A Medicare"
+  },
+  {
+    "Code": 862,
+    "Title": "Black Lung (923)",
+    "Type": "Social Security",
+    "Description": "Action filed with regard to social security benefits provided for those who contracted Black Lung or their beneficiaries"
+  },
+  {
+    "Code": 863,
+    "Title": "DIWC/DIWW (405(g))",
+    "Type": "Social Security",
+    "Description": "Action filed with regard to social security benefits provided to disabled individuals: worker or child, or widow"
+  },
+  {
+    "Code": 864,
+    "Title": "SSID Title XVI",
+    "Type": "Social Security",
+    "Description": "Action filed with regard to social security benefits provided to Supplemental Security Income Disability under Title XVI"
+  },
+  {
+    "Code": 865,
+    "Title": "RSI (405(g))",
+    "Type": "Social Security",
+    "Description": "Action filed with regard to social security benefits provided for Retirement, Survivor Insurance under 42 U.S.C. § 405"
+  },
+  {
+    "Code": 870,
+    "Title": "Taxes (U.S. Plaintiff or Defendant)",
+    "Type": "Federal Tax Suits",
+    "Description": "Action filed under the Internal Revenue Code (General)"
+  },
+  {
+    "Code": 871,
+    "Title": "IRS-Third Party 26 USC 7609",
+    "Type": "Federal Tax Suits",
+    "Description": "Action filed under the Internal Revenue Code - Tax Reform Act of 1976 (P.L. 94-455) Third Party"
+  },
+  {
+    "Code": 375,
+    "Title": "False Claims Act",
+    "Type": "Other Statutes",
+    "Description": "Action filed by private individuals alleging fraud against the U.S. Government under 31 U.S.C. § 3729"
+  },
+  {
+    "Code": 376,
+    "Title": "Qui Tam (31 U.S.C. § 3729(a))",
+    "Type": "Other Statutes",
+    "Description": "Action brought under the False Claims Act by private persons (also known as \"whistleblowers\") on their own behalf and on behalf of the United States to recover damages against another person or entity that acted fraudulently in receiving payments or property from, or avoiding debts owed to, the United States Government, 31 U.S.C. § 3730"
+  },
+  {
+    "Code": 400,
+    "Title": "State Reapportionment",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Reapportionment Act of 1929 Ch. 28, 46 Stat. 21, 2 U.S.C. § 2a."
+  },
+  {
+    "Code": 410,
+    "Title": "Antitrust",
+    "Type": "Other Statutes",
+    "Description": "Action brought under the Clayton Act 15 U.S.C. § 12 - 27 alleging undue restriction of trade and commerce by designated methods that limit free competition in the market place amongst consumers such as anti-competitive price discrimination, corporate mergers, interlocking directorates or tying and exclusive dealing contracts."
+  },
+  {
+    "Code": 430,
+    "Title": "Banks and Banking",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Federal Home Loan Bank Act 12:1421-1449, Home Owners Loan Act 12:1461 or Federal Reserve Acts 12:142 et seq"
+  },
+  {
+    "Code": 450,
+    "Title": "Commerce",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Interstate Commerce Acts 49:1 et seq., 49:301"
+  },
+  {
+    "Code": 460,
+    "Title": "Deportation",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Immigration Acts (Habeas Corpus & Review) 8:1101/18:1546"
+  },
+  {
+    "Code": 470,
+    "Title": "Racketeer Influenced and Corrupt Organizations",
+    "Type": "Other Statutes",
+    "Description": "Racketeer Influenced and Corrupt Organization Act, RICO 18:1961-1968"
+  },
+  {
+    "Code": 480,
+    "Title": "Consumer Credit",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Fair Credit Reporting Act, 15 U.S.C. 1681n or 15 U.S.C. 1681o, and the Fair Debt Collection Practices Act, 15 U.S.C. § 1692k"
+  },
+  {
+    "Code": 485,
+    "Title": "Telephone Consumer Protection Act (TCPA)",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Telephone Consumer Protection Act 47 U.S.C. § 227"
+  },
+  {
+    "Code": 490,
+    "Title": "Cable/Satellite TV",
+    "Type": "Other Statutes",
+    "Description": "Action filed involving unauthorized reception of cable/satellite TV service under 47 U.S.C. § 553 (unauthorized reception of cable/satellite TV), or 47 U.S.C. § 605 (e)(3) (unauthorized use or publication of a communication)"
+  },
+  {
+    "Code": 850,
+    "Title": "Securities/Commodities/Exchange",
+    "Type": "Other Statutes",
+    "Description": "Action filed under Small Business Investment Act 15:681, Securities Exchange Act 15:78, Securities Act 15:77, Investment Advisers Act 15:80B(1-21)"
+  },
+  {
+    "Code": 890,
+    "Title": "Other Statutory Actions",
+    "Type": "Other Statutes",
+    "Description": "Action primarily based on Statutes that cannot be classified under any other nature of suit, such as: Foreign Agents Registration Act 22:611-\n621, Klamath Termination Act 25:564-564W-L, Federal Aid Highway Act 23:101-142, Federal Corrupt Practices Act 2:241-256, Federal Election Campaign Act, Highway Safety Act 23:401 Immigration & Nationality Act 8:1503, Natural Gas Pipeline Safety Act 49:1671-1700, Naturalization Acts 8:1421/18:911, 1015, 1421, et seq., 3282 or Federal Aviation Act 49:1301 et seq."
+  },
+  {
+    "Code": 891,
+    "Title": "Agricultural Acts",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Federal Crop Insurance Act 7:1501-1550, Commodity Credit Corporation Act 15:713A-L & 4."
+  },
+  {
+    "Code": 893,
+    "Title": "Environmental Matters",
+    "Type": "Other Statutes",
+    "Description": "Action filed under Air Pollution Control Act 42:1857-57L, Clean Air Act 42:1857:57L, Federal Environment Pesticide Control Act, Federal Insecticide, Fungicide & Rodenticide Act 7:135, Federal Water Pollution Control Act 33:1151 et seq., Land & Water Conservation Fund Act 16:4602,460 1-4, Motor Vehicle Air Pollution Control Act 42:1857F-1-8, National Environmental Policy Act 42:4321, 4331-35G, 4341-47, River & Harbor Act penalty 3:401-437, 1251"
+  },
+  {
+    "Code": 895,
+    "Title": "Freedom of Information Act",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Freedom of Information Act 5:552."
+  },
+  {
+    "Code": 896,
+    "Title": "Arbitration",
+    "Type": "Other Statutes",
+    "Description": "Action involving actions to confirm or modify arbitration awards filed under Title 9 of the U.S. Code."
+  },
+  {
+    "Code": 899,
+    "Title": "Administrative Procedure Act/Review or Appeal of Agency Decision",
+    "Type": "Other Statutes",
+    "Description": "Action filed under the Administrative Procedures Act, 5 U.S.C. § 701, or civil actions to review or appeal a federal agency decision"
+  },
+  {
+    "Code": 950,
+    "Title": "Constitutionality of State Statutes",
+    "Type": "Other Statutes",
+    "Description": "Action drawing into question the constitutionality of a federal or state statute filed under (Rule 5.1). Rule 5.1 implements 28 U.S.C. §2403."
+  }
+]

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Page structure from the Twitter Bootstrap starter template: https://getbootstrap.com/docs/4.3/getting-started/introduction/#starter-template -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Timeline examples: Autoloading Timeline Slideshow</title>
+    <link
+      title="timeline-styles"
+      rel="stylesheet"
+      href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css"
+    />
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+  </head>
+  <body>
+    <div style="max-width: 55vw; margin: 0 auto">
+      <div id="timeline-embed" style="width: 100%; height: 600px"></div>
+    </div>
+    <script type="text/javascript">
+      const jsonData = {
+        events: [
+          {
+            start_date: { month: '1', day: '1', year: '1901' },
+            end_date: { month: '1', day: '1', year: '2001' },
+            title: 'xxx',
+            text: { headline: 'Long Event', text: 'lorem' },
+            media: {
+              url:
+                'https://i.pinimg.com/originals/b2/54/64/b25464bd020afe6b9589d53a5ebbc6ab.gif',
+              text:
+                'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores cupiditate eveniet natus reprehenderit sequi? Adipisci, ducimus error ex inventore porro tempore voluptatem. Architecto, delectus enim exercitationem praesentium quasi quibusdam totam.',
+              caption:
+                'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores cupiditate eveniet natus reprehenderit sequi? Adipisci, ducimus error ex inventore porro tempore voluptatem. Architecto, delectus enim exercitationem praesentium quasi quibusdam totam.',
+              credit: 'DONG A',
+              thumbnail:
+                'https://i1.sndcdn.com/artworks-000032545395-wcbinq-t500x500.jpg',
+            },
+          },
+        ],
+      }
+      let baseGoogleSpreadsheets =
+        'https://docs.google.com/spreadsheets/d/1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk/edit?usp=drive_web&ouid=113808851972646275751'
+      // const timeline = new TL.Timeline('timeline-embed', baseGoogleSpreadsheets);
+      const timeline = new TL.Timeline('timeline-embed', jsonData)
+
+      const loadNextSlide = function () {
+        try {
+          timeline.goToNext()
+        } catch (err) {
+          if (err instanceof TypeError) {
+            console.log(err.message)
+            if (
+              err.message === "Cannot read property 'unique_id' of undefined"
+            ) {
+              timeline.goToStart()
+            }
+          }
+        }
+      }
+      // setInterval(loadNextSlide, 5000);
+    </script>
+  </body>
+  <html></html>
+</html>

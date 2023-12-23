@@ -1,0 +1,10 @@
+export default {
+  dataProductionNoGroup: [],
+  countDataProductionNoGroup: 0,
+  dataList: [],
+  isLoading: false,
+  dataAttachments: [],
+  countAttachments: 0,
+  dataNotes: [],
+  countNotes: 0
+};

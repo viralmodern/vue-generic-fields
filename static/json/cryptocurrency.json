@@ -1,0 +1,3594 @@
+[
+  {
+    "symbol": "$PAC",
+    "name": "PACcoin",
+    "color": "#f5eb16",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/$pac.svg",
+    "value": "$PAC",
+    "label": "PACcoin ($PAC)"
+  },
+  {
+    "symbol": "0XBTC",
+    "name": "0xBitcoin",
+    "color": "#ff914d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/0xbtc.svg",
+    "value": "0XBTC",
+    "label": "0xBitcoin (0XBTC)"
+  },
+  {
+    "symbol": "2GIVE",
+    "name": "2Give",
+    "color": "#f1cb60",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/2give.svg",
+    "value": "2GIVE",
+    "label": "2Give (2GIVE)"
+  },
+  {
+    "symbol": "ABT",
+    "name": "Arcblock",
+    "color": "#3effff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/abt.svg",
+    "value": "ABT",
+    "label": "Arcblock (ABT)"
+  },
+  {
+    "symbol": "ACT",
+    "name": "Achain",
+    "color": "#767dff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/act.svg",
+    "value": "ACT",
+    "label": "Achain (ACT)"
+  },
+  {
+    "symbol": "ACTN",
+    "name": "Action Coin",
+    "color": "#ffffff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/actn.svg",
+    "value": "ACTN",
+    "label": "Action Coin (ACTN)"
+  },
+  {
+    "symbol": "ADA",
+    "name": "Cardano",
+    "color": "#0d1e30",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ada.svg",
+    "value": "ADA",
+    "label": "Cardano (ADA)"
+  },
+  {
+    "symbol": "ADD",
+    "name": "ADD Token",
+    "color": "#fec807",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/add.svg",
+    "value": "ADD",
+    "label": "ADD Token (ADD)"
+  },
+  {
+    "symbol": "ADX",
+    "name": "AdEx",
+    "color": "#1b75bc",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/adx.svg",
+    "value": "ADX",
+    "label": "AdEx (ADX)"
+  },
+  {
+    "symbol": "AE",
+    "name": "Aeternity",
+    "color": "#de3f6b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ae.svg",
+    "value": "AE",
+    "label": "Aeternity (AE)"
+  },
+  {
+    "symbol": "AEON",
+    "name": "Aeon",
+    "color": "#134451",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/aeon.svg",
+    "value": "AEON",
+    "label": "Aeon (AEON)"
+  },
+  {
+    "symbol": "AEUR",
+    "name": "Augmint Euro Token",
+    "color": "#051d2d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/aeur.svg",
+    "value": "AEUR",
+    "label": "Augmint Euro Token (AEUR)"
+  },
+  {
+    "symbol": "AGI",
+    "name": "SingularityNET",
+    "color": "#6916ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/agi.svg",
+    "value": "AGI",
+    "label": "SingularityNET (AGI)"
+  },
+  {
+    "symbol": "AGRS",
+    "name": "Agoras Tauchain",
+    "color": "#f49e00",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/agrs.svg",
+    "value": "AGRS",
+    "label": "Agoras Tauchain (AGRS)"
+  },
+  {
+    "symbol": "AION",
+    "name": "Aion",
+    "color": "#00bfec",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/aion.svg",
+    "value": "AION",
+    "label": "Aion (AION)"
+  },
+  {
+    "symbol": "ALGO",
+    "name": "Algorand",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/algo.svg",
+    "value": "ALGO",
+    "label": "Algorand (ALGO)"
+  },
+  {
+    "symbol": "AMB",
+    "name": "Ambrosus",
+    "color": "#3c5be0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/amb.svg",
+    "value": "AMB",
+    "label": "Ambrosus (AMB)"
+  },
+  {
+    "symbol": "AMP",
+    "name": "HyperSpace (Synereo)",
+    "color": "#2daee4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/amp.svg",
+    "value": "AMP",
+    "label": "HyperSpace (Synereo) (AMP)"
+  },
+  {
+    "symbol": "AMPL",
+    "name": "Ampleforth",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ampl.svg",
+    "value": "AMPL",
+    "label": "Ampleforth (AMPL)"
+  },
+  {
+    "symbol": "ANT",
+    "name": "Aragon",
+    "color": "#2cd3e1",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ant.svg",
+    "value": "ANT",
+    "label": "Aragon (ANT)"
+  },
+  {
+    "symbol": "APPC",
+    "name": "AppCoins",
+    "color": "#fd875e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/appc.svg",
+    "value": "APPC",
+    "label": "AppCoins (APPC)"
+  },
+  {
+    "symbol": "ARDR",
+    "name": "Ardor",
+    "color": "#3c87c7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ardr.svg",
+    "value": "ARDR",
+    "label": "Ardor (ARDR)"
+  },
+  {
+    "symbol": "ARG",
+    "name": "Argentum",
+    "color": "#a71435",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/arg.svg",
+    "value": "ARG",
+    "label": "Argentum (ARG)"
+  },
+  {
+    "symbol": "ARK",
+    "name": "Ark",
+    "color": "#f70000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ark.svg",
+    "value": "ARK",
+    "label": "Ark (ARK)"
+  },
+  {
+    "symbol": "ARN",
+    "name": "Aeron",
+    "color": "#0092b5",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/arn.svg",
+    "value": "ARN",
+    "label": "Aeron (ARN)"
+  },
+  {
+    "symbol": "ARNX",
+    "name": "Aeron",
+    "color": "#436697",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/arnx.svg",
+    "value": "ARNX",
+    "label": "Aeron (ARNX)"
+  },
+  {
+    "symbol": "ARY",
+    "name": "Block Array",
+    "color": "#343434",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ary.svg",
+    "value": "ARY",
+    "label": "Block Array (ARY)"
+  },
+  {
+    "symbol": "AST",
+    "name": "AirSwap",
+    "color": "#0061ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ast.svg",
+    "value": "AST",
+    "label": "AirSwap (AST)"
+  },
+  {
+    "symbol": "ATM",
+    "name": "ATMChain",
+    "color": "#346fce",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/atm.svg",
+    "value": "ATM",
+    "label": "ATMChain (ATM)"
+  },
+  {
+    "symbol": "ATOM",
+    "name": "Cosmos",
+    "color": "#2e3148",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/atom.svg",
+    "value": "ATOM",
+    "label": "Cosmos (ATOM)"
+  },
+  {
+    "symbol": "AUDR",
+    "name": "AUDRamp",
+    "color": "#34318a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/audr.svg",
+    "value": "AUDR",
+    "label": "AUDRamp (AUDR)"
+  },
+  {
+    "symbol": "AUTO",
+    "name": "Cube",
+    "color": "#fab431",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/auto.svg",
+    "value": "AUTO",
+    "label": "Cube (AUTO)"
+  },
+  {
+    "symbol": "AYWA",
+    "name": "Aywa",
+    "color": "#3355b5",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/aywa.svg",
+    "value": "AYWA",
+    "label": "Aywa (AYWA)"
+  },
+  {
+    "symbol": "BAB",
+    "name": "Bitcoin Cash ABC",
+    "color": "#f19f13",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bab.svg",
+    "value": "BAB",
+    "label": "Bitcoin Cash ABC (BAB)"
+  },
+  {
+    "symbol": "BAL",
+    "name": "Balancer",
+    "color": "#1e1e1e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bal.svg",
+    "value": "BAL",
+    "label": "Balancer (BAL)"
+  },
+  {
+    "symbol": "BAND",
+    "name": "Band Protocol",
+    "color": "#516aff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/band.svg",
+    "value": "BAND",
+    "label": "Band Protocol (BAND)"
+  },
+  {
+    "symbol": "BAT",
+    "name": "Basic Attention Token",
+    "color": "#ff5000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bat.svg",
+    "value": "BAT",
+    "label": "Basic Attention Token (BAT)"
+  },
+  {
+    "symbol": "BAY",
+    "name": "BitBay",
+    "color": "#6356ab",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bay.svg",
+    "value": "BAY",
+    "label": "BitBay (BAY)"
+  },
+  {
+    "symbol": "BCBC",
+    "name": "BCBC",
+    "color": "#004ab5",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bcbc.svg",
+    "value": "BCBC",
+    "label": "BCBC (BCBC)"
+  },
+  {
+    "symbol": "BCC",
+    "name": "BCC",
+    "color": "#f7931c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bcc.svg",
+    "value": "BCC",
+    "label": "BCC (BCC)"
+  },
+  {
+    "symbol": "BCD",
+    "name": "Bitcoin Diamond",
+    "color": "#fcc339",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bcd.svg",
+    "value": "BCD",
+    "label": "Bitcoin Diamond (BCD)"
+  },
+  {
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "color": "#8dc351",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bch.svg",
+    "value": "BCH",
+    "label": "Bitcoin Cash (BCH)"
+  },
+  {
+    "symbol": "BCIO",
+    "name": "Blockchain.io",
+    "color": "#3f43ad",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bcio.svg",
+    "value": "BCIO",
+    "label": "Blockchain.io (BCIO)"
+  },
+  {
+    "symbol": "BCN",
+    "name": "Bytecoin",
+    "color": "#f04086",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bcn.svg",
+    "value": "BCN",
+    "label": "Bytecoin (BCN)"
+  },
+  {
+    "symbol": "BCO",
+    "name": "BananaCoin",
+    "color": "#2c76b7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bco.svg",
+    "value": "BCO",
+    "label": "BananaCoin (BCO)"
+  },
+  {
+    "symbol": "BCPT",
+    "name": "BlockMason Credit Protocol",
+    "color": "#404040",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bcpt.svg",
+    "value": "BCPT",
+    "label": "BlockMason Credit Protocol (BCPT)"
+  },
+  {
+    "symbol": "BDL",
+    "name": "Bitdeal",
+    "color": "#e54c40",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bdl.svg",
+    "value": "BDL",
+    "label": "Bitdeal (BDL)"
+  },
+  {
+    "symbol": "BEAM",
+    "name": "Beam",
+    "color": "#0b76ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/beam.svg",
+    "value": "BEAM",
+    "label": "Beam (BEAM)"
+  },
+  {
+    "symbol": "BELA",
+    "name": "Belacoin",
+    "color": "#13a0f6",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bela.svg",
+    "value": "BELA",
+    "label": "Belacoin (BELA)"
+  },
+  {
+    "symbol": "BIX",
+    "name": "Bibox Token",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bix.svg",
+    "value": "BIX",
+    "label": "Bibox Token (BIX)"
+  },
+  {
+    "symbol": "BLCN",
+    "name": "BLCN",
+    "color": "#2aabe4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/blcn.svg",
+    "value": "BLCN",
+    "label": "BLCN (BLCN)"
+  },
+  {
+    "symbol": "BLK",
+    "name": "BlackCoin",
+    "color": "#181818",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/blk.svg",
+    "value": "BLK",
+    "label": "BlackCoin (BLK)"
+  },
+  {
+    "symbol": "BLOCK",
+    "name": "Blocknet",
+    "color": "#101341",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/block.svg",
+    "value": "BLOCK",
+    "label": "Blocknet (BLOCK)"
+  },
+  {
+    "symbol": "BLZ",
+    "name": "Blazecoin",
+    "color": "#18578c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/blz.svg",
+    "value": "BLZ",
+    "label": "Blazecoin (BLZ)"
+  },
+  {
+    "symbol": "BNB",
+    "name": "Binance Coin",
+    "color": "#f3ba2f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bnb.svg",
+    "value": "BNB",
+    "label": "Binance Coin (BNB)"
+  },
+  {
+    "symbol": "BNT",
+    "name": "Bancor Network Token",
+    "color": "#000d2b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bnt.svg",
+    "value": "BNT",
+    "label": "Bancor Network Token (BNT)"
+  },
+  {
+    "symbol": "BNTY",
+    "name": "Bounty0x",
+    "color": "#fd7a3d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bnty.svg",
+    "value": "BNTY",
+    "label": "Bounty0x (BNTY)"
+  },
+  {
+    "symbol": "BOOTY",
+    "name": "Booty",
+    "color": "#00b4f4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/booty.svg",
+    "value": "BOOTY",
+    "label": "Booty (BOOTY)"
+  },
+  {
+    "symbol": "BOS",
+    "name": "BOScoin",
+    "color": "#00a8d6",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bos.svg",
+    "value": "BOS",
+    "label": "BOScoin (BOS)"
+  },
+  {
+    "symbol": "BPT",
+    "name": "Blockport",
+    "color": "#0f63d8",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bpt.svg",
+    "value": "BPT",
+    "label": "Blockport (BPT)"
+  },
+  {
+    "symbol": "BQ",
+    "name": "bitqy",
+    "color": "#1d1d1d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bq.svg",
+    "value": "BQ",
+    "label": "bitqy (BQ)"
+  },
+  {
+    "symbol": "BRD",
+    "name": "Bread",
+    "color": "#fe5d86",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/brd.svg",
+    "value": "BRD",
+    "label": "Bread (BRD)"
+  },
+  {
+    "symbol": "BSD",
+    "name": "BitSend",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bsd.svg",
+    "value": "BSD",
+    "label": "BitSend (BSD)"
+  },
+  {
+    "symbol": "BSV",
+    "name": "BitcoinSV",
+    "color": "#eab304",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bsv.svg",
+    "value": "BSV",
+    "label": "BitcoinSV (BSV)"
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "color": "#f7931a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btc.svg",
+    "value": "BTC",
+    "label": "Bitcoin (BTC)"
+  },
+  {
+    "symbol": "BTCD",
+    "name": "BitcoinDark",
+    "color": "#ff6600",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btcd.svg",
+    "value": "BTCD",
+    "label": "BitcoinDark (BTCD)"
+  },
+  {
+    "symbol": "BTCH",
+    "name": "Bitcoin Hush",
+    "color": "#4700c2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btch.svg",
+    "value": "BTCH",
+    "label": "Bitcoin Hush (BTCH)"
+  },
+  {
+    "symbol": "BTCP",
+    "name": "Bitcoin Private",
+    "color": "#272d63",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btcp.svg",
+    "value": "BTCP",
+    "label": "Bitcoin Private (BTCP)"
+  },
+  {
+    "symbol": "BTCZ",
+    "name": "BitcoinZ",
+    "color": "#f8c24a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btcz.svg",
+    "value": "BTCZ",
+    "label": "BitcoinZ (BTCZ)"
+  },
+  {
+    "symbol": "BTDX",
+    "name": "Bitcloud",
+    "color": "#00aaff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btdx.svg",
+    "value": "BTDX",
+    "label": "Bitcloud (BTDX)"
+  },
+  {
+    "symbol": "BTG",
+    "name": "Bitcoin Gold",
+    "color": "#eba809",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btg.svg",
+    "value": "BTG",
+    "label": "Bitcoin Gold (BTG)"
+  },
+  {
+    "symbol": "BTM",
+    "name": "Bytom",
+    "color": "#504c4c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btm.svg",
+    "value": "BTM",
+    "label": "Bytom (BTM)"
+  },
+  {
+    "symbol": "BTS",
+    "name": "BitShares",
+    "color": "#35baeb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bts.svg",
+    "value": "BTS",
+    "label": "BitShares (BTS)"
+  },
+  {
+    "symbol": "BTT",
+    "name": "BitTorrent",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btt.svg",
+    "value": "BTT",
+    "label": "BitTorrent (BTT)"
+  },
+  {
+    "symbol": "BTX",
+    "name": "Bitcore",
+    "color": "#fb2ea3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/btx.svg",
+    "value": "BTX",
+    "label": "Bitcore (BTX)"
+  },
+  {
+    "symbol": "BURST",
+    "name": "Burst",
+    "color": "#2d2d2d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/burst.svg",
+    "value": "BURST",
+    "label": "Burst (BURST)"
+  },
+  {
+    "symbol": "BZE",
+    "name": "BZEdge",
+    "color": "#00aeef",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/bze.svg",
+    "value": "BZE",
+    "label": "BZEdge (BZE)"
+  },
+  {
+    "symbol": "CALL",
+    "name": "Capital",
+    "color": "#fbb413",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/call.svg",
+    "value": "CALL",
+    "label": "Capital (CALL)"
+  },
+  {
+    "symbol": "CC",
+    "name": "CoinCollect",
+    "color": "#36b0f3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cc.svg",
+    "value": "CC",
+    "label": "CoinCollect (CC)"
+  },
+  {
+    "symbol": "CDN",
+    "name": "Canada eCoin",
+    "color": "#f70808",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cdn.svg",
+    "value": "CDN",
+    "label": "Canada eCoin (CDN)"
+  },
+  {
+    "symbol": "CDT",
+    "name": "Blox",
+    "color": "#272731",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cdt.svg",
+    "value": "CDT",
+    "label": "Blox (CDT)"
+  },
+  {
+    "symbol": "CHAIN",
+    "name": "Chainmakers",
+    "color": "#00aced",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/chain.svg",
+    "value": "CHAIN",
+    "label": "Chainmakers (CHAIN)"
+  },
+  {
+    "symbol": "CHAT",
+    "name": "ChatCoin",
+    "color": "#1c98f7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/chat.svg",
+    "value": "CHAT",
+    "label": "ChatCoin (CHAT)"
+  },
+  {
+    "symbol": "CHIPS",
+    "name": "CHIPS",
+    "color": "#598182",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/chips.svg",
+    "value": "CHIPS",
+    "label": "CHIPS (CHIPS)"
+  },
+  {
+    "symbol": "CIX",
+    "name": "Cryptonetix",
+    "color": "#0576b4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cix.svg",
+    "value": "CIX",
+    "label": "Cryptonetix (CIX)"
+  },
+  {
+    "symbol": "CLAM",
+    "name": "Clams",
+    "color": "#20c5d3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/clam.svg",
+    "value": "CLAM",
+    "label": "Clams (CLAM)"
+  },
+  {
+    "symbol": "CLOAK",
+    "name": "Cloakcoin",
+    "color": "#ff3a00",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cloak.svg",
+    "value": "CLOAK",
+    "label": "Cloakcoin (CLOAK)"
+  },
+  {
+    "symbol": "CMM",
+    "name": "Commercium",
+    "color": "#2fd2e5",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cmm.svg",
+    "value": "CMM",
+    "label": "Commercium (CMM)"
+  },
+  {
+    "symbol": "CMT",
+    "name": "Comet",
+    "color": "#c1a05c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cmt.svg",
+    "value": "CMT",
+    "label": "Comet (CMT)"
+  },
+  {
+    "symbol": "CND",
+    "name": "Cindicator",
+    "color": "#383939",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cnd.svg",
+    "value": "CND",
+    "label": "Cindicator (CND)"
+  },
+  {
+    "symbol": "CNX",
+    "name": "Cryptonex",
+    "color": "#4c6bae",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cnx.svg",
+    "value": "CNX",
+    "label": "Cryptonex (CNX)"
+  },
+  {
+    "symbol": "CNY",
+    "name": "CNY",
+    "color": "#ff4314",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cny.svg",
+    "value": "CNY",
+    "label": "CNY (CNY)"
+  },
+  {
+    "symbol": "COB",
+    "name": "Cobinhood",
+    "color": "#13bf99",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cob.svg",
+    "value": "COB",
+    "label": "Cobinhood (COB)"
+  },
+  {
+    "symbol": "COLX",
+    "name": "ColossusXT",
+    "color": "#77c3b0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/colx.svg",
+    "value": "COLX",
+    "label": "ColossusXT (COLX)"
+  },
+  {
+    "symbol": "COMP",
+    "name": "Compound",
+    "color": "#00d395",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/comp.svg",
+    "value": "COMP",
+    "label": "Compound (COMP)"
+  },
+  {
+    "symbol": "COQUI",
+    "name": "COQUI Cash",
+    "color": "#71c800",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/coqui.svg",
+    "value": "COQUI",
+    "label": "COQUI Cash (COQUI)"
+  },
+  {
+    "symbol": "CRED",
+    "name": "Verify",
+    "color": "#37e8a3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cred.svg",
+    "value": "CRED",
+    "label": "Verify (CRED)"
+  },
+  {
+    "symbol": "CRPT",
+    "name": "Crypterium",
+    "color": "#00bdcd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/crpt.svg",
+    "value": "CRPT",
+    "label": "Crypterium (CRPT)"
+  },
+  {
+    "symbol": "CRW",
+    "name": "Crown",
+    "color": "#0f1529",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/crw.svg",
+    "value": "CRW",
+    "label": "Crown (CRW)"
+  },
+  {
+    "symbol": "CS",
+    "name": "CREDITS",
+    "color": "#262626",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cs.svg",
+    "value": "CS",
+    "label": "CREDITS (CS)"
+  },
+  {
+    "symbol": "CTR",
+    "name": "Centra",
+    "color": "#fdde6c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ctr.svg",
+    "value": "CTR",
+    "label": "Centra (CTR)"
+  },
+  {
+    "symbol": "CTXC",
+    "name": "Cortex",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ctxc.svg",
+    "value": "CTXC",
+    "label": "Cortex (CTXC)"
+  },
+  {
+    "symbol": "CVC",
+    "name": "Civic",
+    "color": "#3ab03e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/cvc.svg",
+    "value": "CVC",
+    "label": "Civic (CVC)"
+  },
+  {
+    "symbol": "D",
+    "name": "Denarius",
+    "color": "#b8b8b8",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/d.svg",
+    "value": "D",
+    "label": "Denarius (D)"
+  },
+  {
+    "symbol": "DAI",
+    "name": "Dai",
+    "color": "#f4b731",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dai.svg",
+    "value": "DAI",
+    "label": "Dai (DAI)"
+  },
+  {
+    "symbol": "DASH",
+    "name": "Dash",
+    "color": "#008ce7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dash.svg",
+    "value": "DASH",
+    "label": "Dash (DASH)"
+  },
+  {
+    "symbol": "DASH",
+    "name": "Dash",
+    "color": "#008ce7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dash.svg",
+    "value": "DASH",
+    "label": "Dash (DASH)"
+  },
+  {
+    "symbol": "DAT",
+    "name": "Datum",
+    "color": "#2d9cdb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dat.svg",
+    "value": "DAT",
+    "label": "Datum (DAT)"
+  },
+  {
+    "symbol": "DATA",
+    "name": "Streamr DATAcoin",
+    "color": "#e9570f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/data.svg",
+    "value": "DATA",
+    "label": "Streamr DATAcoin (DATA)"
+  },
+  {
+    "symbol": "DBC",
+    "name": "DeepBrain Chain",
+    "color": "#5bc1d4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dbc.svg",
+    "value": "DBC",
+    "label": "DeepBrain Chain (DBC)"
+  },
+  {
+    "symbol": "DCN",
+    "name": "Dentacoin",
+    "color": "#136485",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dcn.svg",
+    "value": "DCN",
+    "label": "Dentacoin (DCN)"
+  },
+  {
+    "symbol": "DCR",
+    "name": "Decred",
+    "color": "#2ed6a1",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dcr.svg",
+    "value": "DCR",
+    "label": "Decred (DCR)"
+  },
+  {
+    "symbol": "DEEZ",
+    "name": "DeezNuts",
+    "color": "#939393",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/deez.svg",
+    "value": "DEEZ",
+    "label": "DeezNuts (DEEZ)"
+  },
+  {
+    "symbol": "DENT",
+    "name": "Dent",
+    "color": "#666666",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dent.svg",
+    "value": "DENT",
+    "label": "Dent (DENT)"
+  },
+  {
+    "symbol": "DEW",
+    "name": "DEW",
+    "color": "#fec907",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dew.svg",
+    "value": "DEW",
+    "label": "DEW (DEW)"
+  },
+  {
+    "symbol": "DGB",
+    "name": "DigiByte",
+    "color": "#006ad2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dgb.svg",
+    "value": "DGB",
+    "label": "DigiByte (DGB)"
+  },
+  {
+    "symbol": "DGD",
+    "name": "DigixDAO",
+    "color": "#f4d029",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dgd.svg",
+    "value": "DGD",
+    "label": "DigixDAO (DGD)"
+  },
+  {
+    "symbol": "DLT",
+    "name": "Agrello",
+    "color": "#f4ae95",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dlt.svg",
+    "value": "DLT",
+    "label": "Agrello (DLT)"
+  },
+  {
+    "symbol": "DNT",
+    "name": "district0x",
+    "color": "#2c398f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dnt.svg",
+    "value": "DNT",
+    "label": "district0x (DNT)"
+  },
+  {
+    "symbol": "DOCK",
+    "name": "Dock",
+    "color": "#786dbc",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dock.svg",
+    "value": "DOCK",
+    "label": "Dock (DOCK)"
+  },
+  {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "color": "#c3a634",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/doge.svg",
+    "value": "DOGE",
+    "label": "Dogecoin (DOGE)"
+  },
+  {
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "color": "#e6007a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dot.svg",
+    "value": "DOT",
+    "label": "Polkadot (DOT)"
+  },
+  {
+    "symbol": "DRGN",
+    "name": "Dragonchain",
+    "color": "#c91111",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/drgn.svg",
+    "value": "DRGN",
+    "label": "Dragonchain (DRGN)"
+  },
+  {
+    "symbol": "DROP",
+    "name": "Dropil",
+    "color": "#242d3d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/drop.svg",
+    "value": "DROP",
+    "label": "Dropil (DROP)"
+  },
+  {
+    "symbol": "DTA",
+    "name": "DATA",
+    "color": "#74d269",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dta.svg",
+    "value": "DTA",
+    "label": "DATA (DTA)"
+  },
+  {
+    "symbol": "DTH",
+    "name": "Dether",
+    "color": "#3c80f1",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dth.svg",
+    "value": "DTH",
+    "label": "Dether (DTH)"
+  },
+  {
+    "symbol": "DTR",
+    "name": "Dynamic Trading Rights",
+    "color": "#121747",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/dtr.svg",
+    "value": "DTR",
+    "label": "Dynamic Trading Rights (DTR)"
+  },
+  {
+    "symbol": "EBST",
+    "name": "eBoost",
+    "color": "#1693d4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ebst.svg",
+    "value": "EBST",
+    "label": "eBoost (EBST)"
+  },
+  {
+    "symbol": "ECA",
+    "name": "Electra",
+    "color": "#aa15dd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/eca.svg",
+    "value": "ECA",
+    "label": "Electra (ECA)"
+  },
+  {
+    "symbol": "EDG",
+    "name": "Edgeless",
+    "color": "#2b1544",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/edg.svg",
+    "value": "EDG",
+    "label": "Edgeless (EDG)"
+  },
+  {
+    "symbol": "EDO",
+    "name": "Eidoo",
+    "color": "#242424",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/edo.svg",
+    "value": "EDO",
+    "label": "Eidoo (EDO)"
+  },
+  {
+    "symbol": "EDOGE",
+    "name": "EtherDoge",
+    "color": "#0facf3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/edoge.svg",
+    "value": "EDOGE",
+    "label": "EtherDoge (EDOGE)"
+  },
+  {
+    "symbol": "ELA",
+    "name": "Elastos",
+    "color": "#3fbadf",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ela.svg",
+    "value": "ELA",
+    "label": "Elastos (ELA)"
+  },
+  {
+    "symbol": "ELEC",
+    "name": "Electrify.Asia",
+    "color": "#ff9900",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/elec.svg",
+    "value": "ELEC",
+    "label": "Electrify.Asia (ELEC)"
+  },
+  {
+    "symbol": "ELF",
+    "name": "aelf",
+    "color": "#2b5ebb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/elf.svg",
+    "value": "ELF",
+    "label": "aelf (ELF)"
+  },
+  {
+    "symbol": "ELIX",
+    "name": "Elixir",
+    "color": "#00aded",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/elix.svg",
+    "value": "ELIX",
+    "label": "Elixir (ELIX)"
+  },
+  {
+    "symbol": "ELLA",
+    "name": "Ellaism",
+    "color": "#396a28",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ella.svg",
+    "value": "ELLA",
+    "label": "Ellaism (ELLA)"
+  },
+  {
+    "symbol": "EMC",
+    "name": "EmerCoin",
+    "color": "#b49ffc",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/emc.svg",
+    "value": "EMC",
+    "label": "EmerCoin (EMC)"
+  },
+  {
+    "symbol": "EMC2",
+    "name": "Einsteinium",
+    "color": "#00ccff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/emc2.svg",
+    "value": "EMC2",
+    "label": "Einsteinium (EMC2)"
+  },
+  {
+    "symbol": "ENG",
+    "name": "Enigma",
+    "color": "#2f2f2f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/eng.svg",
+    "value": "ENG",
+    "label": "Enigma (ENG)"
+  },
+  {
+    "symbol": "ENJ",
+    "name": "Enjin Coin",
+    "color": "#624dbf",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/enj.svg",
+    "value": "ENJ",
+    "label": "Enjin Coin (ENJ)"
+  },
+  {
+    "symbol": "ENTRP",
+    "name": "Hut34 Entropy",
+    "color": "#fa5836",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/entrp.svg",
+    "value": "ENTRP",
+    "label": "Hut34 Entropy (ENTRP)"
+  },
+  {
+    "symbol": "EON",
+    "name": "EOS Network",
+    "color": "#443f54",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/eon.svg",
+    "value": "EON",
+    "label": "EOS Network (EON)"
+  },
+  {
+    "symbol": "EOP",
+    "name": "EOP",
+    "color": "#35a7df",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/eop.svg",
+    "value": "EOP",
+    "label": "EOP (EOP)"
+  },
+  {
+    "symbol": "EOS",
+    "name": "EOS",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/eos.svg",
+    "value": "EOS",
+    "label": "EOS (EOS)"
+  },
+  {
+    "symbol": "EQLI",
+    "name": "Equaliser",
+    "color": "#c9a35e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/eqli.svg",
+    "value": "EQLI",
+    "label": "Equaliser (EQLI)"
+  },
+  {
+    "symbol": "EQUA",
+    "name": "EQUA",
+    "color": "#f68922",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/equa.svg",
+    "value": "EQUA",
+    "label": "EQUA (EQUA)"
+  },
+  {
+    "symbol": "ETC",
+    "name": "Ethereum Classic",
+    "color": "#328332",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/etc.svg",
+    "value": "ETC",
+    "label": "Ethereum Classic (ETC)"
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "color": "#627eea",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/eth.svg",
+    "value": "ETH",
+    "label": "Ethereum (ETH)"
+  },
+  {
+    "symbol": "ETHOS",
+    "name": "Ethos",
+    "color": "#00ffba",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ethos.svg",
+    "value": "ETHOS",
+    "label": "Ethos (ETHOS)"
+  },
+  {
+    "symbol": "ETN",
+    "name": "Electroneum",
+    "color": "#23bee2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/etn.svg",
+    "value": "ETN",
+    "label": "Electroneum (ETN)"
+  },
+  {
+    "symbol": "ETP",
+    "name": "Metaverse ETP",
+    "color": "#00a5ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/etp.svg",
+    "value": "ETP",
+    "label": "Metaverse ETP (ETP)"
+  },
+  {
+    "symbol": "EUR",
+    "name": "EUR",
+    "color": "#0f8ff8",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/eur.svg",
+    "value": "EUR",
+    "label": "EUR (EUR)"
+  },
+  {
+    "symbol": "EVX",
+    "name": "Everex",
+    "color": "#044aac",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/evx.svg",
+    "value": "EVX",
+    "label": "Everex (EVX)"
+  },
+  {
+    "symbol": "EXMO",
+    "name": "EXMO",
+    "color": "#347ffb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/exmo.svg",
+    "value": "EXMO",
+    "label": "EXMO (EXMO)"
+  },
+  {
+    "symbol": "EXP",
+    "name": "Expanse",
+    "color": "#ffaa5c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/exp.svg",
+    "value": "EXP",
+    "label": "Expanse (EXP)"
+  },
+  {
+    "symbol": "FAIR",
+    "name": "Faircoin",
+    "color": "#c99705",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/fair.svg",
+    "value": "FAIR",
+    "label": "Faircoin (FAIR)"
+  },
+  {
+    "symbol": "FCT",
+    "name": "Factom",
+    "color": "#417ba4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/fct.svg",
+    "value": "FCT",
+    "label": "Factom (FCT)"
+  },
+  {
+    "symbol": "FIL",
+    "name": "Filecoin [IOU]",
+    "color": "#42c1ca",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/fil.svg",
+    "value": "FIL",
+    "label": "Filecoin [IOU] (FIL)"
+  },
+  {
+    "symbol": "FJC",
+    "name": "Fujicoin",
+    "color": "#00afec",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/fjc.svg",
+    "value": "FJC",
+    "label": "Fujicoin (FJC)"
+  },
+  {
+    "symbol": "FLDC",
+    "name": "Foldingcoin",
+    "color": "#c40e09",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/fldc.svg",
+    "value": "FLDC",
+    "label": "Foldingcoin (FLDC)"
+  },
+  {
+    "symbol": "FLO",
+    "name": "FLO",
+    "color": "#2080a2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/flo.svg",
+    "value": "FLO",
+    "label": "FLO (FLO)"
+  },
+  {
+    "symbol": "FSN",
+    "name": "FUSION",
+    "color": "#1d9ad7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/fsn.svg",
+    "value": "FSN",
+    "label": "FUSION (FSN)"
+  },
+  {
+    "symbol": "FTC",
+    "name": "Feathercoin",
+    "color": "#27323a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ftc.svg",
+    "value": "FTC",
+    "label": "Feathercoin (FTC)"
+  },
+  {
+    "symbol": "FUEL",
+    "name": "Etherparty",
+    "color": "#4096d0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/fuel.svg",
+    "value": "FUEL",
+    "label": "Etherparty (FUEL)"
+  },
+  {
+    "symbol": "FUN",
+    "name": "FunFair",
+    "color": "#ed1968",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/fun.svg",
+    "value": "FUN",
+    "label": "FunFair (FUN)"
+  },
+  {
+    "symbol": "GAME",
+    "name": "GameCredits",
+    "color": "#2d475b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/game.svg",
+    "value": "GAME",
+    "label": "GameCredits (GAME)"
+  },
+  {
+    "symbol": "GAS",
+    "name": "Gas",
+    "color": "#58bf00",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gas.svg",
+    "value": "GAS",
+    "label": "Gas (GAS)"
+  },
+  {
+    "symbol": "GBP",
+    "name": "GBP",
+    "color": "#bc3fe0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gbp.svg",
+    "value": "GBP",
+    "label": "GBP (GBP)"
+  },
+  {
+    "symbol": "GBX",
+    "name": "Globitex",
+    "color": "#1666af",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gbx.svg",
+    "value": "GBX",
+    "label": "Globitex (GBX)"
+  },
+  {
+    "symbol": "GBYTE",
+    "name": "Obyte",
+    "color": "#302c2c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gbyte.svg",
+    "value": "GBYTE",
+    "label": "Obyte (GBYTE)"
+  },
+  {
+    "symbol": "GENERIC",
+    "name": "GENERIC",
+    "color": "#efb914",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/generic.svg",
+    "value": "GENERIC",
+    "label": "GENERIC (GENERIC)"
+  },
+  {
+    "symbol": "GIN",
+    "name": "GINcoin",
+    "color": "#008dde",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gin.svg",
+    "value": "GIN",
+    "label": "GINcoin (GIN)"
+  },
+  {
+    "symbol": "GLXT",
+    "name": "GLX Token",
+    "color": "#005396",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/glxt.svg",
+    "value": "GLXT",
+    "label": "GLX Token (GLXT)"
+  },
+  {
+    "symbol": "GMR",
+    "name": "Gimmer",
+    "color": "#372d2c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gmr.svg",
+    "value": "GMR",
+    "label": "Gimmer (GMR)"
+  },
+  {
+    "symbol": "GNO",
+    "name": "Gnosis",
+    "color": "#00a6c4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gno.svg",
+    "value": "GNO",
+    "label": "Gnosis (GNO)"
+  },
+  {
+    "symbol": "GNT",
+    "name": "Golem",
+    "color": "#001d57",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gnt.svg",
+    "value": "GNT",
+    "label": "Golem (GNT)"
+  },
+  {
+    "symbol": "GOLD",
+    "name": "Dragonereum Gold",
+    "color": "#f1b32b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gold.svg",
+    "value": "GOLD",
+    "label": "Dragonereum Gold (GOLD)"
+  },
+  {
+    "symbol": "GRC",
+    "name": "Gridcoin",
+    "color": "#5411b3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/grc.svg",
+    "value": "GRC",
+    "label": "Gridcoin (GRC)"
+  },
+  {
+    "symbol": "GRIN",
+    "name": "Grin",
+    "color": "#fff300",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/grin.svg",
+    "value": "GRIN",
+    "label": "Grin (GRIN)"
+  },
+  {
+    "symbol": "GRS",
+    "name": "Groestlcoin",
+    "color": "#377e96",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/grs.svg",
+    "value": "GRS",
+    "label": "Groestlcoin (GRS)"
+  },
+  {
+    "symbol": "GSC",
+    "name": "Global Social Chain",
+    "color": "#ff0060",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gsc.svg",
+    "value": "GSC",
+    "label": "Global Social Chain (GSC)"
+  },
+  {
+    "symbol": "GTO",
+    "name": "Gifto",
+    "color": "#7f27ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gto.svg",
+    "value": "GTO",
+    "label": "Gifto (GTO)"
+  },
+  {
+    "symbol": "GUP",
+    "name": "Guppy",
+    "color": "#37dcd8",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gup.svg",
+    "value": "GUP",
+    "label": "Guppy (GUP)"
+  },
+  {
+    "symbol": "GUSD",
+    "name": "Gemini dollar",
+    "color": "#00dcfa",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gusd.svg",
+    "value": "GUSD",
+    "label": "Gemini dollar (GUSD)"
+  },
+  {
+    "symbol": "GVT",
+    "name": "Genesis Vision",
+    "color": "#16b9ad",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gvt.svg",
+    "value": "GVT",
+    "label": "Genesis Vision (GVT)"
+  },
+  {
+    "symbol": "GXS",
+    "name": "GXChain",
+    "color": "#35a5f3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gxs.svg",
+    "value": "GXS",
+    "label": "GXChain (GXS)"
+  },
+  {
+    "symbol": "GZR",
+    "name": "Gizer",
+    "color": "#56c9e9",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/gzr.svg",
+    "value": "GZR",
+    "label": "Gizer (GZR)"
+  },
+  {
+    "symbol": "HIGHT",
+    "name": "Highcoin",
+    "color": "#117fc0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/hight.svg",
+    "value": "HIGHT",
+    "label": "Highcoin (HIGHT)"
+  },
+  {
+    "symbol": "HODL",
+    "name": "HOdlcoin",
+    "color": "#d59143",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/hodl.svg",
+    "value": "HODL",
+    "label": "HOdlcoin (HODL)"
+  },
+  {
+    "symbol": "HOT",
+    "name": "Holo",
+    "color": "#8834ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/hot.svg",
+    "value": "HOT",
+    "label": "Holo (HOT)"
+  },
+  {
+    "symbol": "HPB",
+    "name": "High Performance Blockchain",
+    "color": "#1591ca",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/hpb.svg",
+    "value": "HPB",
+    "label": "High Performance Blockchain (HPB)"
+  },
+  {
+    "symbol": "HSR",
+    "name": "HShare",
+    "color": "#56428e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/hsr.svg",
+    "value": "HSR",
+    "label": "HShare (HSR)"
+  },
+  {
+    "symbol": "HT",
+    "name": "HOTTO",
+    "color": "#2a3069",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ht.svg",
+    "value": "HT",
+    "label": "HOTTO (HT)"
+  },
+  {
+    "symbol": "HTML",
+    "name": "HTMLCOIN",
+    "color": "#cfa967",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/html.svg",
+    "value": "HTML",
+    "label": "HTMLCOIN (HTML)"
+  },
+  {
+    "symbol": "HUC",
+    "name": "Huntercoin",
+    "color": "#ffc018",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/huc.svg",
+    "value": "HUC",
+    "label": "Huntercoin (HUC)"
+  },
+  {
+    "symbol": "HUSH",
+    "name": "Hush",
+    "color": "#292929",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/hush.svg",
+    "value": "HUSH",
+    "label": "Hush (HUSH)"
+  },
+  {
+    "symbol": "ICN",
+    "name": "Iconomi",
+    "color": "#4c6f8c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/icn.svg",
+    "value": "ICN",
+    "label": "Iconomi (ICN)"
+  },
+  {
+    "symbol": "ICX",
+    "name": "ICON",
+    "color": "#1fc5c9",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/icx.svg",
+    "value": "ICX",
+    "label": "ICON (ICX)"
+  },
+  {
+    "symbol": "IGNIS",
+    "name": "Ignis",
+    "color": "#f9c011",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ignis.svg",
+    "value": "IGNIS",
+    "label": "Ignis (IGNIS)"
+  },
+  {
+    "symbol": "ILK",
+    "name": "Inlock Token",
+    "color": "#98c23a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ilk.svg",
+    "value": "ILK",
+    "label": "Inlock Token (ILK)"
+  },
+  {
+    "symbol": "INK",
+    "name": "Ink",
+    "color": "#df1a14",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ink.svg",
+    "value": "INK",
+    "label": "Ink (INK)"
+  },
+  {
+    "symbol": "INS",
+    "name": "Insolar",
+    "color": "#b2a3f6",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ins.svg",
+    "value": "INS",
+    "label": "Insolar (INS)"
+  },
+  {
+    "symbol": "ION",
+    "name": "ION",
+    "color": "#57beea",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ion.svg",
+    "value": "ION",
+    "label": "ION (ION)"
+  },
+  {
+    "symbol": "IOP",
+    "name": "Internet of People",
+    "color": "#0cafa5",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/iop.svg",
+    "value": "IOP",
+    "label": "Internet of People (IOP)"
+  },
+  {
+    "symbol": "IOST",
+    "name": "IOStoken",
+    "color": "#1c1c1c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/iost.svg",
+    "value": "IOST",
+    "label": "IOStoken (IOST)"
+  },
+  {
+    "symbol": "IOTX",
+    "name": "IoTeX",
+    "color": "#00d4d5",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/iotx.svg",
+    "value": "IOTX",
+    "label": "IoTeX (IOTX)"
+  },
+  {
+    "symbol": "IQ",
+    "name": "Everipedia",
+    "color": "#55ddff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/iq.svg",
+    "value": "IQ",
+    "label": "Everipedia (IQ)"
+  },
+  {
+    "symbol": "ITC",
+    "name": "IoT Chain",
+    "color": "#102044",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/itc.svg",
+    "value": "ITC",
+    "label": "IoT Chain (ITC)"
+  },
+  {
+    "symbol": "JNT",
+    "name": "Jibrel Network",
+    "color": "#0050db",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/jnt.svg",
+    "value": "JNT",
+    "label": "Jibrel Network (JNT)"
+  },
+  {
+    "symbol": "JPY",
+    "name": "JPY",
+    "color": "#eac749",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/jpy.svg",
+    "value": "JPY",
+    "label": "JPY (JPY)"
+  },
+  {
+    "symbol": "KCS",
+    "name": "KuCoin Shares",
+    "color": "#0093dd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/kcs.svg",
+    "value": "KCS",
+    "label": "KuCoin Shares (KCS)"
+  },
+  {
+    "symbol": "KIN",
+    "name": "Kin",
+    "color": "#005fff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/kin.svg",
+    "value": "KIN",
+    "label": "Kin (KIN)"
+  },
+  {
+    "symbol": "KLOWN",
+    "name": "Ether Clown",
+    "color": "#ea0017",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/klown.svg",
+    "value": "KLOWN",
+    "label": "Ether Clown (KLOWN)"
+  },
+  {
+    "symbol": "KMD",
+    "name": "Komodo",
+    "color": "#2b6680",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/kmd.svg",
+    "value": "KMD",
+    "label": "Komodo (KMD)"
+  },
+  {
+    "symbol": "KNC",
+    "name": "Kyber Network",
+    "color": "#188c92",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/knc.svg",
+    "value": "KNC",
+    "label": "Kyber Network (KNC)"
+  },
+  {
+    "symbol": "KRB",
+    "name": "Karbo",
+    "color": "#00aeef",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/krb.svg",
+    "value": "KRB",
+    "label": "Karbo (KRB)"
+  },
+  {
+    "symbol": "LBC",
+    "name": "LBRY Credits",
+    "color": "#006149",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/lbc.svg",
+    "value": "LBC",
+    "label": "LBRY Credits (LBC)"
+  },
+  {
+    "symbol": "LEND",
+    "name": "ETHLend",
+    "color": "#0fa9c9",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/lend.svg",
+    "value": "LEND",
+    "label": "ETHLend (LEND)"
+  },
+  {
+    "symbol": "LEO",
+    "name": "Unus Sed LEO",
+    "color": "#11021e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/leo.svg",
+    "value": "LEO",
+    "label": "Unus Sed LEO (LEO)"
+  },
+  {
+    "symbol": "LINK",
+    "name": "ChainLink",
+    "color": "#2a5ada",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/link.svg",
+    "value": "LINK",
+    "label": "ChainLink (LINK)"
+  },
+  {
+    "symbol": "LKK",
+    "name": "Lykke",
+    "color": "#9d01eb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/lkk.svg",
+    "value": "LKK",
+    "label": "Lykke (LKK)"
+  },
+  {
+    "symbol": "LOOM",
+    "name": "Loom Network",
+    "color": "#48beff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/loom.svg",
+    "value": "LOOM",
+    "label": "Loom Network (LOOM)"
+  },
+  {
+    "symbol": "LPT",
+    "name": "Livepeer Token",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/lpt.svg",
+    "value": "LPT",
+    "label": "Livepeer Token (LPT)"
+  },
+  {
+    "symbol": "LRC",
+    "name": "Loopring",
+    "color": "#2ab6f6",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/lrc.svg",
+    "value": "LRC",
+    "label": "Loopring (LRC)"
+  },
+  {
+    "symbol": "LSK",
+    "name": "Lisk",
+    "color": "#0d4ea0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/lsk.svg",
+    "value": "LSK",
+    "label": "Lisk (LSK)"
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "color": "#bfbbbb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ltc.svg",
+    "value": "LTC",
+    "label": "Litecoin (LTC)"
+  },
+  {
+    "symbol": "LUN",
+    "name": "Lunyr",
+    "color": "#f55749",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/lun.svg",
+    "value": "LUN",
+    "label": "Lunyr (LUN)"
+  },
+  {
+    "symbol": "MAID",
+    "name": "MaidSafeCoin",
+    "color": "#5592d7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/maid.svg",
+    "value": "MAID",
+    "label": "MaidSafeCoin (MAID)"
+  },
+  {
+    "symbol": "MANA",
+    "name": "Decentraland",
+    "color": "#ff2d55",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mana.svg",
+    "value": "MANA",
+    "label": "Decentraland (MANA)"
+  },
+  {
+    "symbol": "MATIC",
+    "name": "Matic Network",
+    "color": "#2b6def",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/matic.svg",
+    "value": "MATIC",
+    "label": "Matic Network (MATIC)"
+  },
+  {
+    "symbol": "MCAP",
+    "name": "MCAP",
+    "color": "#033b4a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mcap.svg",
+    "value": "MCAP",
+    "label": "MCAP (MCAP)"
+  },
+  {
+    "symbol": "MCO",
+    "name": "Crypto.com",
+    "color": "#103f68",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mco.svg",
+    "value": "MCO",
+    "label": "Crypto.com (MCO)"
+  },
+  {
+    "symbol": "MDA",
+    "name": "Moeda Loyalty Points",
+    "color": "#01a64f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mda.svg",
+    "value": "MDA",
+    "label": "Moeda Loyalty Points (MDA)"
+  },
+  {
+    "symbol": "MDS",
+    "name": "MediShares",
+    "color": "#1e252c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mds.svg",
+    "value": "MDS",
+    "label": "MediShares (MDS)"
+  },
+  {
+    "symbol": "MED",
+    "name": "Medibloc",
+    "color": "#00b0ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/med.svg",
+    "value": "MED",
+    "label": "Medibloc (MED)"
+  },
+  {
+    "symbol": "MEETONE",
+    "name": "MEET.ONE",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/meetone.svg",
+    "value": "MEETONE",
+    "label": "MEET.ONE (MEETONE)"
+  },
+  {
+    "symbol": "MFT",
+    "name": "Mainframe",
+    "color": "#da1157",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mft.svg",
+    "value": "MFT",
+    "label": "Mainframe (MFT)"
+  },
+  {
+    "symbol": "MIOTA",
+    "name": "IOTA",
+    "color": "#242424",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/miota.svg",
+    "value": "MIOTA",
+    "label": "IOTA (MIOTA)"
+  },
+  {
+    "symbol": "MITH",
+    "name": "Mithril",
+    "color": "#00316d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mith.svg",
+    "value": "MITH",
+    "label": "Mithril (MITH)"
+  },
+  {
+    "symbol": "MKR",
+    "name": "Maker",
+    "color": "#1aab9b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mkr.svg",
+    "value": "MKR",
+    "label": "Maker (MKR)"
+  },
+  {
+    "symbol": "MLN",
+    "name": "Melon",
+    "color": "#0b1529",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mln.svg",
+    "value": "MLN",
+    "label": "Melon (MLN)"
+  },
+  {
+    "symbol": "MNX",
+    "name": "MinexCoin",
+    "color": "#00adef",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mnx.svg",
+    "value": "MNX",
+    "label": "MinexCoin (MNX)"
+  },
+  {
+    "symbol": "MNZ",
+    "name": "MNZ",
+    "color": "#7f368a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mnz.svg",
+    "value": "MNZ",
+    "label": "MNZ (MNZ)"
+  },
+  {
+    "symbol": "MOAC",
+    "name": "MOAC",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/moac.svg",
+    "value": "MOAC",
+    "label": "MOAC (MOAC)"
+  },
+  {
+    "symbol": "MOD",
+    "name": "Modum",
+    "color": "#09547d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mod.svg",
+    "value": "MOD",
+    "label": "Modum (MOD)"
+  },
+  {
+    "symbol": "MONA",
+    "name": "MonaCoin",
+    "color": "#dec799",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mona.svg",
+    "value": "MONA",
+    "label": "MonaCoin (MONA)"
+  },
+  {
+    "symbol": "MSR",
+    "name": "Masari",
+    "color": "#47b95c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/msr.svg",
+    "value": "MSR",
+    "label": "Masari (MSR)"
+  },
+  {
+    "symbol": "MTH",
+    "name": "Monetha",
+    "color": "#104fca",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mth.svg",
+    "value": "MTH",
+    "label": "Monetha (MTH)"
+  },
+  {
+    "symbol": "MTL",
+    "name": "Metal",
+    "color": "#1e1f25",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mtl.svg",
+    "value": "MTL",
+    "label": "Metal (MTL)"
+  },
+  {
+    "symbol": "MUSIC",
+    "name": "Musicoin",
+    "color": "#ffffff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/music.svg",
+    "value": "MUSIC",
+    "label": "Musicoin (MUSIC)"
+  },
+  {
+    "symbol": "MZC",
+    "name": "MAZA",
+    "color": "#ffaa05",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/mzc.svg",
+    "value": "MZC",
+    "label": "MAZA (MZC)"
+  },
+  {
+    "symbol": "NANO",
+    "name": "Nano",
+    "color": "#4a90e2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nano.svg",
+    "value": "NANO",
+    "label": "Nano (NANO)"
+  },
+  {
+    "symbol": "NAS",
+    "name": "Nebulas",
+    "color": "#222222",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nas.svg",
+    "value": "NAS",
+    "label": "Nebulas (NAS)"
+  },
+  {
+    "symbol": "NAV",
+    "name": "NavCoin",
+    "color": "#7d59b5",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nav.svg",
+    "value": "NAV",
+    "label": "NavCoin (NAV)"
+  },
+  {
+    "symbol": "NCASH",
+    "name": "Nucleus Vision",
+    "color": "#36a9cf",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ncash.svg",
+    "value": "NCASH",
+    "label": "Nucleus Vision (NCASH)"
+  },
+  {
+    "symbol": "NDZ",
+    "name": "NDZ",
+    "color": "#622fba",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ndz.svg",
+    "value": "NDZ",
+    "label": "NDZ (NDZ)"
+  },
+  {
+    "symbol": "NEBL",
+    "name": "Neblio",
+    "color": "#50479e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nebl.svg",
+    "value": "NEBL",
+    "label": "Neblio (NEBL)"
+  },
+  {
+    "symbol": "NEO",
+    "name": "NEO",
+    "color": "#58bf00",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/neo.svg",
+    "value": "NEO",
+    "label": "NEO (NEO)"
+  },
+  {
+    "symbol": "NEOS",
+    "name": "Neoscoin",
+    "color": "#e5f300",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/neos.svg",
+    "value": "NEOS",
+    "label": "Neoscoin (NEOS)"
+  },
+  {
+    "symbol": "NEU",
+    "name": "Neumark",
+    "color": "#b3ba00",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/neu.svg",
+    "value": "NEU",
+    "label": "Neumark (NEU)"
+  },
+  {
+    "symbol": "NEXO",
+    "name": "Nexo",
+    "color": "#1a4199",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nexo.svg",
+    "value": "NEXO",
+    "label": "Nexo (NEXO)"
+  },
+  {
+    "symbol": "NGC",
+    "name": "NAGA",
+    "color": "#f80000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ngc.svg",
+    "value": "NGC",
+    "label": "NAGA (NGC)"
+  },
+  {
+    "symbol": "NIO",
+    "name": "Autonio",
+    "color": "#70c9c9",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nio.svg",
+    "value": "NIO",
+    "label": "Autonio (NIO)"
+  },
+  {
+    "symbol": "NLC2",
+    "name": "NoLimitCoin",
+    "color": "#f28f01",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nlc2.svg",
+    "value": "NLC2",
+    "label": "NoLimitCoin (NLC2)"
+  },
+  {
+    "symbol": "NLG",
+    "name": "Gulden",
+    "color": "#2ab0fd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nlg.svg",
+    "value": "NLG",
+    "label": "Gulden (NLG)"
+  },
+  {
+    "symbol": "NMC",
+    "name": "Namecoin",
+    "color": "#186c9d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nmc.svg",
+    "value": "NMC",
+    "label": "Namecoin (NMC)"
+  },
+  {
+    "symbol": "NMR",
+    "name": "Numeraire",
+    "color": "#050708",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nmr.svg",
+    "value": "NMR",
+    "label": "Numeraire (NMR)"
+  },
+  {
+    "symbol": "NPXS",
+    "name": "Pundi X",
+    "color": "#f5d100",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/npxs.svg",
+    "value": "NPXS",
+    "label": "Pundi X (NPXS)"
+  },
+  {
+    "symbol": "NULS",
+    "name": "Nuls",
+    "color": "#82bd39",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nuls.svg",
+    "value": "NULS",
+    "label": "Nuls (NULS)"
+  },
+  {
+    "symbol": "NXS",
+    "name": "Nexus",
+    "color": "#4099cd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nxs.svg",
+    "value": "NXS",
+    "label": "Nexus (NXS)"
+  },
+  {
+    "symbol": "NXT",
+    "name": "NXT",
+    "color": "#008fbb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/nxt.svg",
+    "value": "NXT",
+    "label": "NXT (NXT)"
+  },
+  {
+    "symbol": "OAX",
+    "name": "OpenANX",
+    "color": "#164b79",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/oax.svg",
+    "value": "OAX",
+    "label": "OpenANX (OAX)"
+  },
+  {
+    "symbol": "OK",
+    "name": "OKCash",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ok.svg",
+    "value": "OK",
+    "label": "OKCash (OK)"
+  },
+  {
+    "symbol": "OMG",
+    "name": "OMG Network",
+    "color": "#101010",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/omg.svg",
+    "value": "OMG",
+    "label": "OMG Network (OMG)"
+  },
+  {
+    "symbol": "OMNI",
+    "name": "Omni",
+    "color": "#1c347a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/omni.svg",
+    "value": "OMNI",
+    "label": "Omni (OMNI)"
+  },
+  {
+    "symbol": "ONG",
+    "name": "SoMee.Social",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ong.svg",
+    "value": "ONG",
+    "label": "SoMee.Social (ONG)"
+  },
+  {
+    "symbol": "ONT",
+    "name": "Ontology",
+    "color": "#32a4be",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ont.svg",
+    "value": "ONT",
+    "label": "Ontology (ONT)"
+  },
+  {
+    "symbol": "OOT",
+    "name": "Utrum",
+    "color": "#25aae1",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/oot.svg",
+    "value": "OOT",
+    "label": "Utrum (OOT)"
+  },
+  {
+    "symbol": "OST",
+    "name": "OST",
+    "color": "#34445b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ost.svg",
+    "value": "OST",
+    "label": "OST (OST)"
+  },
+  {
+    "symbol": "OST",
+    "name": "OST",
+    "color": "#34445b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ost.svg",
+    "value": "OST",
+    "label": "OST (OST)"
+  },
+  {
+    "symbol": "OX",
+    "name": "OX Fina",
+    "color": "#4392cd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ox.svg",
+    "value": "OX",
+    "label": "OX Fina (OX)"
+  },
+  {
+    "symbol": "OXT",
+    "name": "Orchid",
+    "color": "#5f45ba",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/oxt.svg",
+    "value": "OXT",
+    "label": "Orchid (OXT)"
+  },
+  {
+    "symbol": "PART",
+    "name": "Particl",
+    "color": "#03e8b0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/part.svg",
+    "value": "PART",
+    "label": "Particl (PART)"
+  },
+  {
+    "symbol": "PASC",
+    "name": "Pascalcoin",
+    "color": "#f7931e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pasc.svg",
+    "value": "PASC",
+    "label": "Pascalcoin (PASC)"
+  },
+  {
+    "symbol": "PASL",
+    "name": "Pascal Lite",
+    "color": "#00acff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pasl.svg",
+    "value": "PASL",
+    "label": "Pascal Lite (PASL)"
+  },
+  {
+    "symbol": "PAX",
+    "name": "PAX Token",
+    "color": "#ede708",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pax.svg",
+    "value": "PAX",
+    "label": "PAX Token (PAX)"
+  },
+  {
+    "symbol": "PAY",
+    "name": "TenX",
+    "color": "#302c2c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pay.svg",
+    "value": "PAY",
+    "label": "TenX (PAY)"
+  },
+  {
+    "symbol": "PAYX",
+    "name": "Paypex",
+    "color": "#663300",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/payx.svg",
+    "value": "PAYX",
+    "label": "Paypex (PAYX)"
+  },
+  {
+    "symbol": "PINK",
+    "name": "Pinkcoin",
+    "color": "#ed79aa",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pink.svg",
+    "value": "PINK",
+    "label": "Pinkcoin (PINK)"
+  },
+  {
+    "symbol": "PIRL",
+    "name": "Pirl",
+    "color": "#96b73d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pirl.svg",
+    "value": "PIRL",
+    "label": "Pirl (PIRL)"
+  },
+  {
+    "symbol": "PIVX",
+    "name": "PIVX",
+    "color": "#5e4778",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pivx.svg",
+    "value": "PIVX",
+    "label": "PIVX (PIVX)"
+  },
+  {
+    "symbol": "PLR",
+    "name": "Pillar",
+    "color": "#00bfff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/plr.svg",
+    "value": "PLR",
+    "label": "Pillar (PLR)"
+  },
+  {
+    "symbol": "POA",
+    "name": "POA Network",
+    "color": "#444fa1",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/poa.svg",
+    "value": "POA",
+    "label": "POA Network (POA)"
+  },
+  {
+    "symbol": "POE",
+    "name": "Po.et",
+    "color": "#dcd6cc",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/poe.svg",
+    "value": "POE",
+    "label": "Po.et (POE)"
+  },
+  {
+    "symbol": "POLIS",
+    "name": "Polis",
+    "color": "#2c3e50",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/polis.svg",
+    "value": "POLIS",
+    "label": "Polis (POLIS)"
+  },
+  {
+    "symbol": "POLY",
+    "name": "Polymath Network",
+    "color": "#4c5a95",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/poly.svg",
+    "value": "POLY",
+    "label": "Polymath Network (POLY)"
+  },
+  {
+    "symbol": "POT",
+    "name": "Potcoin",
+    "color": "#105b2f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pot.svg",
+    "value": "POT",
+    "label": "Potcoin (POT)"
+  },
+  {
+    "symbol": "POWR",
+    "name": "Power Ledger",
+    "color": "#05bca9",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/powr.svg",
+    "value": "POWR",
+    "label": "Power Ledger (POWR)"
+  },
+  {
+    "symbol": "PPC",
+    "name": "Peercoin",
+    "color": "#3cb054",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ppc.svg",
+    "value": "PPC",
+    "label": "Peercoin (PPC)"
+  },
+  {
+    "symbol": "PPP",
+    "name": "PayPie",
+    "color": "#348f8d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ppp.svg",
+    "value": "PPP",
+    "label": "PayPie (PPP)"
+  },
+  {
+    "symbol": "PPT",
+    "name": "Populous",
+    "color": "#152743",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ppt.svg",
+    "value": "PPT",
+    "label": "Populous (PPT)"
+  },
+  {
+    "symbol": "PRE",
+    "name": "Presearch",
+    "color": "#3a8cbd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pre.svg",
+    "value": "PRE",
+    "label": "Presearch (PRE)"
+  },
+  {
+    "symbol": "PRL",
+    "name": "Oyster",
+    "color": "#1061e3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/prl.svg",
+    "value": "PRL",
+    "label": "Oyster (PRL)"
+  },
+  {
+    "symbol": "PUNGO",
+    "name": "Pungo Token",
+    "color": "#22b573",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pungo.svg",
+    "value": "PUNGO",
+    "label": "Pungo Token (PUNGO)"
+  },
+  {
+    "symbol": "PURA",
+    "name": "Pura",
+    "color": "#333333",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/pura.svg",
+    "value": "PURA",
+    "label": "Pura (PURA)"
+  },
+  {
+    "symbol": "QASH",
+    "name": "QASH",
+    "color": "#1347e8",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/qash.svg",
+    "value": "QASH",
+    "label": "QASH (QASH)"
+  },
+  {
+    "symbol": "QIWI",
+    "name": "QIWI",
+    "color": "#ff8c00",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/qiwi.svg",
+    "value": "QIWI",
+    "label": "QIWI (QIWI)"
+  },
+  {
+    "symbol": "QLC",
+    "name": "QLC Chain",
+    "color": "#610089",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/qlc.svg",
+    "value": "QLC",
+    "label": "QLC Chain (QLC)"
+  },
+  {
+    "symbol": "QRL",
+    "name": "Quantum Resistant Ledger",
+    "color": "#252525",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/qrl.svg",
+    "value": "QRL",
+    "label": "Quantum Resistant Ledger (QRL)"
+  },
+  {
+    "symbol": "QSP",
+    "name": "Quantstamp",
+    "color": "#454545",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/qsp.svg",
+    "value": "QSP",
+    "label": "Quantstamp (QSP)"
+  },
+  {
+    "symbol": "QTUM",
+    "name": "Qtum",
+    "color": "#2e9ad0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/qtum.svg",
+    "value": "QTUM",
+    "label": "Qtum (QTUM)"
+  },
+  {
+    "symbol": "R",
+    "name": "Revain",
+    "color": "#771a4e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/r.svg",
+    "value": "R",
+    "label": "Revain (R)"
+  },
+  {
+    "symbol": "RADS",
+    "name": "Radium",
+    "color": "#9d4bef",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rads.svg",
+    "value": "RADS",
+    "label": "Radium (RADS)"
+  },
+  {
+    "symbol": "RAP",
+    "name": "Rapture",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rap.svg",
+    "value": "RAP",
+    "label": "Rapture (RAP)"
+  },
+  {
+    "symbol": "RCN",
+    "name": "Rcoin",
+    "color": "#3555f9",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rcn.svg",
+    "value": "RCN",
+    "label": "Rcoin (RCN)"
+  },
+  {
+    "symbol": "RDD",
+    "name": "Reddcoin",
+    "color": "#e30613",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rdd.svg",
+    "value": "RDD",
+    "label": "Reddcoin (RDD)"
+  },
+  {
+    "symbol": "RDN",
+    "name": "Raiden Network Token",
+    "color": "#2a2a2a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rdn.svg",
+    "value": "RDN",
+    "label": "Raiden Network Token (RDN)"
+  },
+  {
+    "symbol": "REN",
+    "name": "Ren",
+    "color": "#080817",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ren.svg",
+    "value": "REN",
+    "label": "Ren (REN)"
+  },
+  {
+    "symbol": "REP",
+    "name": "Augur",
+    "color": "#602a52",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rep.svg",
+    "value": "REP",
+    "label": "Augur (REP)"
+  },
+  {
+    "symbol": "REPV2",
+    "name": "Augur",
+    "color": "#0e0e21",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/repv2.svg",
+    "value": "REPV2",
+    "label": "Augur (REPV2)"
+  },
+  {
+    "symbol": "REQ",
+    "name": "Request",
+    "color": "#00e6a0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/req.svg",
+    "value": "REQ",
+    "label": "Request (REQ)"
+  },
+  {
+    "symbol": "RHOC",
+    "name": "RChain",
+    "color": "#cc1e46",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rhoc.svg",
+    "value": "RHOC",
+    "label": "RChain (RHOC)"
+  },
+  {
+    "symbol": "RIC",
+    "name": "Riecoin",
+    "color": "#60e4dd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ric.svg",
+    "value": "RIC",
+    "label": "Riecoin (RIC)"
+  },
+  {
+    "symbol": "RISE",
+    "name": "Rise",
+    "color": "#f49352",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rise.svg",
+    "value": "RISE",
+    "label": "Rise (RISE)"
+  },
+  {
+    "symbol": "RLC",
+    "name": "iExec RLC",
+    "color": "#ffd800",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rlc.svg",
+    "value": "RLC",
+    "label": "iExec RLC (RLC)"
+  },
+  {
+    "symbol": "RPX",
+    "name": "RPX",
+    "color": "#8d181b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rpx.svg",
+    "value": "RPX",
+    "label": "RPX (RPX)"
+  },
+  {
+    "symbol": "RUB",
+    "name": "RUB",
+    "color": "#64d1ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rub.svg",
+    "value": "RUB",
+    "label": "RUB (RUB)"
+  },
+  {
+    "symbol": "RVN",
+    "name": "Ravencoin",
+    "color": "#384182",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/rvn.svg",
+    "value": "RVN",
+    "label": "Ravencoin (RVN)"
+  },
+  {
+    "symbol": "RYO",
+    "name": "Ryo Currency",
+    "color": "#3d58b0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ryo.svg",
+    "value": "RYO",
+    "label": "Ryo Currency (RYO)"
+  },
+  {
+    "symbol": "SAFE",
+    "name": "Safe",
+    "color": "#00688c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/safe.svg",
+    "value": "SAFE",
+    "label": "Safe (SAFE)"
+  },
+  {
+    "symbol": "SAI",
+    "name": "Single Collateral DAI",
+    "color": "#b68900",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sai.svg",
+    "value": "SAI",
+    "label": "Single Collateral DAI (SAI)"
+  },
+  {
+    "symbol": "SALT",
+    "name": "SALT",
+    "color": "#1beef4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/salt.svg",
+    "value": "SALT",
+    "label": "SALT (SALT)"
+  },
+  {
+    "symbol": "SAN",
+    "name": "Santiment Network Token",
+    "color": "#2b77b3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/san.svg",
+    "value": "SAN",
+    "label": "Santiment Network Token (SAN)"
+  },
+  {
+    "symbol": "SBD",
+    "name": "Steem Dollars",
+    "color": "#4ba2f2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sbd.svg",
+    "value": "SBD",
+    "label": "Steem Dollars (SBD)"
+  },
+  {
+    "symbol": "SBERBANK",
+    "name": "SBERBANK",
+    "color": "#48b254",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sberbank.svg",
+    "value": "SBERBANK",
+    "label": "SBERBANK (SBERBANK)"
+  },
+  {
+    "symbol": "SC",
+    "name": "Siacoin",
+    "color": "#20ee82",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sc.svg",
+    "value": "SC",
+    "label": "Siacoin (SC)"
+  },
+  {
+    "symbol": "SHIFT",
+    "name": "Shift",
+    "color": "#964b9c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/shift.svg",
+    "value": "SHIFT",
+    "label": "Shift (SHIFT)"
+  },
+  {
+    "symbol": "SIB",
+    "name": "SIBCoin",
+    "color": "#057bc1",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sib.svg",
+    "value": "SIB",
+    "label": "SIBCoin (SIB)"
+  },
+  {
+    "symbol": "SIN",
+    "name": "SINOVATE",
+    "color": "#f5342e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sin.svg",
+    "value": "SIN",
+    "label": "SINOVATE (SIN)"
+  },
+  {
+    "symbol": "SKY",
+    "name": "Skycoin",
+    "color": "#0072ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sky.svg",
+    "value": "SKY",
+    "label": "Skycoin (SKY)"
+  },
+  {
+    "symbol": "SLR",
+    "name": "Solarcoin",
+    "color": "#fda616",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/slr.svg",
+    "value": "SLR",
+    "label": "Solarcoin (SLR)"
+  },
+  {
+    "symbol": "SLS",
+    "name": "SaluS",
+    "color": "#8e9495",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sls.svg",
+    "value": "SLS",
+    "label": "SaluS (SLS)"
+  },
+  {
+    "symbol": "SMART",
+    "name": "SmartCash",
+    "color": "#fec60d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/smart.svg",
+    "value": "SMART",
+    "label": "SmartCash (SMART)"
+  },
+  {
+    "symbol": "SMART",
+    "name": "SmartCash",
+    "color": "#fec60d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/smart.svg",
+    "value": "SMART",
+    "label": "SmartCash (SMART)"
+  },
+  {
+    "symbol": "SNGLS",
+    "name": "SingularDTV",
+    "color": "#b30d23",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sngls.svg",
+    "value": "SNGLS",
+    "label": "SingularDTV (SNGLS)"
+  },
+  {
+    "symbol": "SNM",
+    "name": "SONM",
+    "color": "#0b1c26",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/snm.svg",
+    "value": "SNM",
+    "label": "SONM (SNM)"
+  },
+  {
+    "symbol": "SNT",
+    "name": "Status",
+    "color": "#5b6dee",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/snt.svg",
+    "value": "SNT",
+    "label": "Status (SNT)"
+  },
+  {
+    "symbol": "SOC",
+    "name": "All Sports",
+    "color": "#199248",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/soc.svg",
+    "value": "SOC",
+    "label": "All Sports (SOC)"
+  },
+  {
+    "symbol": "SPANK",
+    "name": "SpankChain",
+    "color": "#ff3b81",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/spank.svg",
+    "value": "SPANK",
+    "label": "SpankChain (SPANK)"
+  },
+  {
+    "symbol": "SPHTX",
+    "name": "SophiaTX",
+    "color": "#00b098",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sphtx.svg",
+    "value": "SPHTX",
+    "label": "SophiaTX (SPHTX)"
+  },
+  {
+    "symbol": "SRN",
+    "name": "Sirin Labs Token",
+    "color": "#1c1c1c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/srn.svg",
+    "value": "SRN",
+    "label": "Sirin Labs Token (SRN)"
+  },
+  {
+    "symbol": "STAK",
+    "name": "STRAKS",
+    "color": "#f2941b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/stak.svg",
+    "value": "STAK",
+    "label": "STRAKS (STAK)"
+  },
+  {
+    "symbol": "START",
+    "name": "Startcoin",
+    "color": "#01aef0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/start.svg",
+    "value": "START",
+    "label": "Startcoin (START)"
+  },
+  {
+    "symbol": "STEEM",
+    "name": "Steem",
+    "color": "#4ba2f2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/steem.svg",
+    "value": "STEEM",
+    "label": "Steem (STEEM)"
+  },
+  {
+    "symbol": "STORJ",
+    "name": "Storj",
+    "color": "#2683ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/storj.svg",
+    "value": "STORJ",
+    "label": "Storj (STORJ)"
+  },
+  {
+    "symbol": "STORM",
+    "name": "Storm",
+    "color": "#080d98",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/storm.svg",
+    "value": "STORM",
+    "label": "Storm (STORM)"
+  },
+  {
+    "symbol": "STQ",
+    "name": "Storiqa",
+    "color": "#2dc4e7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/stq.svg",
+    "value": "STQ",
+    "label": "Storiqa (STQ)"
+  },
+  {
+    "symbol": "STRAT",
+    "name": "Stratis",
+    "color": "#1387c9",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/strat.svg",
+    "value": "STRAT",
+    "label": "Stratis (STRAT)"
+  },
+  {
+    "symbol": "STX",
+    "name": "Stox",
+    "color": "#7324f0",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/stx.svg",
+    "value": "STX",
+    "label": "Stox (STX)"
+  },
+  {
+    "symbol": "SUB",
+    "name": "Substratum",
+    "color": "#e53431",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sub.svg",
+    "value": "SUB",
+    "label": "Substratum (SUB)"
+  },
+  {
+    "symbol": "SUMO",
+    "name": "Sumokoin",
+    "color": "#2d9cdb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sumo.svg",
+    "value": "SUMO",
+    "label": "Sumokoin (SUMO)"
+  },
+  {
+    "symbol": "SYS",
+    "name": "Syscoin",
+    "color": "#0082c6",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/sys.svg",
+    "value": "SYS",
+    "label": "Syscoin (SYS)"
+  },
+  {
+    "symbol": "TAAS",
+    "name": "TaaS",
+    "color": "#002342",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/taas.svg",
+    "value": "TAAS",
+    "label": "TaaS (TAAS)"
+  },
+  {
+    "symbol": "TAU",
+    "name": "Lamden",
+    "color": "#7b346e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tau.svg",
+    "value": "TAU",
+    "label": "Lamden (TAU)"
+  },
+  {
+    "symbol": "TBX",
+    "name": "Tokenbox",
+    "color": "#5244d4",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tbx.svg",
+    "value": "TBX",
+    "label": "Tokenbox (TBX)"
+  },
+  {
+    "symbol": "TEL",
+    "name": "Telcoin",
+    "color": "#14c8ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tel.svg",
+    "value": "TEL",
+    "label": "Telcoin (TEL)"
+  },
+  {
+    "symbol": "TEN",
+    "name": "Tokenomy",
+    "color": "#0899cd",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ten.svg",
+    "value": "TEN",
+    "label": "Tokenomy (TEN)"
+  },
+  {
+    "symbol": "TERN",
+    "name": "Ternio",
+    "color": "#f4c257",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tern.svg",
+    "value": "TERN",
+    "label": "Ternio (TERN)"
+  },
+  {
+    "symbol": "TGCH",
+    "name": "TrueGalaxyCash",
+    "color": "#434247",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tgch.svg",
+    "value": "TGCH",
+    "label": "TrueGalaxyCash (TGCH)"
+  },
+  {
+    "symbol": "THETA",
+    "name": "Theta Network",
+    "color": "#2ab8e6",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/theta.svg",
+    "value": "THETA",
+    "label": "Theta Network (THETA)"
+  },
+  {
+    "symbol": "TIX",
+    "name": "Blocktix",
+    "color": "#ef494d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tix.svg",
+    "value": "TIX",
+    "label": "Blocktix (TIX)"
+  },
+  {
+    "symbol": "TKN",
+    "name": "TokenCard",
+    "color": "#24dd7b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tkn.svg",
+    "value": "TKN",
+    "label": "TokenCard (TKN)"
+  },
+  {
+    "symbol": "TKS",
+    "name": "Tokes Platform",
+    "color": "#895af8",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tks.svg",
+    "value": "TKS",
+    "label": "Tokes Platform (TKS)"
+  },
+  {
+    "symbol": "TNB",
+    "name": "Time New Bank",
+    "color": "#ffc04e",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tnb.svg",
+    "value": "TNB",
+    "label": "Time New Bank (TNB)"
+  },
+  {
+    "symbol": "TNC",
+    "name": "Trinity Network Credit",
+    "color": "#ff439b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tnc.svg",
+    "value": "TNC",
+    "label": "Trinity Network Credit (TNC)"
+  },
+  {
+    "symbol": "TNT",
+    "name": "Tierion",
+    "color": "#ff4081",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tnt.svg",
+    "value": "TNT",
+    "label": "Tierion (TNT)"
+  },
+  {
+    "symbol": "TOMO",
+    "name": "TomoChain",
+    "color": "#1a1f36",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tomo.svg",
+    "value": "TOMO",
+    "label": "TomoChain (TOMO)"
+  },
+  {
+    "symbol": "TPAY",
+    "name": "TokenPay",
+    "color": "#3058a6",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tpay.svg",
+    "value": "TPAY",
+    "label": "TokenPay (TPAY)"
+  },
+  {
+    "symbol": "TRIG",
+    "name": "Triggers",
+    "color": "#30c0f2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/trig.svg",
+    "value": "TRIG",
+    "label": "Triggers (TRIG)"
+  },
+  {
+    "symbol": "TRTL",
+    "name": "TurtleCoin",
+    "color": "#00843d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/trtl.svg",
+    "value": "TRTL",
+    "label": "TurtleCoin (TRTL)"
+  },
+  {
+    "symbol": "TRX",
+    "name": "TRON",
+    "color": "#ef0027",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/trx.svg",
+    "value": "TRX",
+    "label": "TRON (TRX)"
+  },
+  {
+    "symbol": "TUSD",
+    "name": "TrueUSD",
+    "color": "#2b2e7f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tusd.svg",
+    "value": "TUSD",
+    "label": "TrueUSD (TUSD)"
+  },
+  {
+    "symbol": "TZC",
+    "name": "TrezarCoin",
+    "color": "#374851",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/tzc.svg",
+    "value": "TZC",
+    "label": "TrezarCoin (TZC)"
+  },
+  {
+    "symbol": "UBQ",
+    "name": "Ubiq",
+    "color": "#00ea90",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/ubq.svg",
+    "value": "UBQ",
+    "label": "Ubiq (UBQ)"
+  },
+  {
+    "symbol": "UMA",
+    "name": "UMA",
+    "color": "#ff4a4a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/uma.svg",
+    "value": "UMA",
+    "label": "UMA (UMA)"
+  },
+  {
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "color": "#ff007a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/uni.svg",
+    "value": "UNI",
+    "label": "Uniswap (UNI)"
+  },
+  {
+    "symbol": "UNITY",
+    "name": "SuperNET",
+    "color": "#f58634",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/unity.svg",
+    "value": "UNITY",
+    "label": "SuperNET (UNITY)"
+  },
+  {
+    "symbol": "USD",
+    "name": "USD",
+    "color": "#6cde07",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/usd.svg",
+    "value": "USD",
+    "label": "USD (USD)"
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "color": "#2775c9",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/usdc.svg",
+    "value": "USDC",
+    "label": "USD Coin (USDC)"
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether",
+    "color": "#26a17b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/usdt.svg",
+    "value": "USDT",
+    "label": "Tether (USDT)"
+  },
+  {
+    "symbol": "UTK",
+    "name": "UTRUST",
+    "color": "#30367a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/utk.svg",
+    "value": "UTK",
+    "label": "UTRUST (UTK)"
+  },
+  {
+    "symbol": "VERI",
+    "name": "Veritaseum",
+    "color": "#ff9933",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/veri.svg",
+    "value": "VERI",
+    "label": "Veritaseum (VERI)"
+  },
+  {
+    "symbol": "VET",
+    "name": "VeChain",
+    "color": "#15bdff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/vet.svg",
+    "value": "VET",
+    "label": "VeChain (VET)"
+  },
+  {
+    "symbol": "VIA",
+    "name": "Viacoin",
+    "color": "#565656",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/via.svg",
+    "value": "VIA",
+    "label": "Viacoin (VIA)"
+  },
+  {
+    "symbol": "VIB",
+    "name": "Viberate",
+    "color": "#ff1f43",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/vib.svg",
+    "value": "VIB",
+    "label": "Viberate (VIB)"
+  },
+  {
+    "symbol": "VIBE",
+    "name": "VIBE",
+    "color": "#338be5",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/vibe.svg",
+    "value": "VIBE",
+    "label": "VIBE (VIBE)"
+  },
+  {
+    "symbol": "VIVO",
+    "name": "VIVO",
+    "color": "#408af1",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/vivo.svg",
+    "value": "VIVO",
+    "label": "VIVO (VIVO)"
+  },
+  {
+    "symbol": "VRC",
+    "name": "VeriCoin",
+    "color": "#418bca",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/vrc.svg",
+    "value": "VRC",
+    "label": "VeriCoin (VRC)"
+  },
+  {
+    "symbol": "VRSC",
+    "name": "VerusCoin",
+    "color": "#ffb500",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/vrsc.svg",
+    "value": "VRSC",
+    "label": "VerusCoin (VRSC)"
+  },
+  {
+    "symbol": "VTC",
+    "name": "Vertcoin",
+    "color": "#048657",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/vtc.svg",
+    "value": "VTC",
+    "label": "Vertcoin (VTC)"
+  },
+  {
+    "symbol": "VTHO",
+    "name": "VeThor Token",
+    "color": "#2a5284",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/vtho.svg",
+    "value": "VTHO",
+    "label": "VeThor Token (VTHO)"
+  },
+  {
+    "symbol": "WABI",
+    "name": "Tael",
+    "color": "#399b32",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wabi.svg",
+    "value": "WABI",
+    "label": "Tael (WABI)"
+  },
+  {
+    "symbol": "WAN",
+    "name": "Wanchain",
+    "color": "#136aad",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wan.svg",
+    "value": "WAN",
+    "label": "Wanchain (WAN)"
+  },
+  {
+    "symbol": "WAVES",
+    "name": "Waves",
+    "color": "#0155ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/waves.svg",
+    "value": "WAVES",
+    "label": "Waves (WAVES)"
+  },
+  {
+    "symbol": "WAX",
+    "name": "WAX",
+    "color": "#f89022",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wax.svg",
+    "value": "WAX",
+    "label": "WAX (WAX)"
+  },
+  {
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "color": "#201a2d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wbtc.svg",
+    "value": "WBTC",
+    "label": "Wrapped Bitcoin (WBTC)"
+  },
+  {
+    "symbol": "WGR",
+    "name": "Wagerr",
+    "color": "#b80000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wgr.svg",
+    "value": "WGR",
+    "label": "Wagerr (WGR)"
+  },
+  {
+    "symbol": "WICC",
+    "name": "WaykiChain",
+    "color": "#5783cb",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wicc.svg",
+    "value": "WICC",
+    "label": "WaykiChain (WICC)"
+  },
+  {
+    "symbol": "WINGS",
+    "name": "Wings",
+    "color": "#0dc9f7",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wings.svg",
+    "value": "WINGS",
+    "label": "Wings (WINGS)"
+  },
+  {
+    "symbol": "WPR",
+    "name": "WePower",
+    "color": "#ffe600",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wpr.svg",
+    "value": "WPR",
+    "label": "WePower (WPR)"
+  },
+  {
+    "symbol": "WTC",
+    "name": "Waltonchain",
+    "color": "#8200ff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/wtc.svg",
+    "value": "WTC",
+    "label": "Waltonchain (WTC)"
+  },
+  {
+    "symbol": "X",
+    "name": "GLX Equity Token",
+    "color": "#3b5998",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/x.svg",
+    "value": "X",
+    "label": "GLX Equity Token (X)"
+  },
+  {
+    "symbol": "XAS",
+    "name": "Asch",
+    "color": "#faa00d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xas.svg",
+    "value": "XAS",
+    "label": "Asch (XAS)"
+  },
+  {
+    "symbol": "XBC",
+    "name": "Bitcoin Plus",
+    "color": "#f7931a",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xbc.svg",
+    "value": "XBC",
+    "label": "Bitcoin Plus (XBC)"
+  },
+  {
+    "symbol": "XBP",
+    "name": "BlitzPredict",
+    "color": "#21af67",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xbp.svg",
+    "value": "XBP",
+    "label": "BlitzPredict (XBP)"
+  },
+  {
+    "symbol": "XBY",
+    "name": "XtraBYtes",
+    "color": "#56f4f1",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xby.svg",
+    "value": "XBY",
+    "label": "XtraBYtes (XBY)"
+  },
+  {
+    "symbol": "XCP",
+    "name": "Counterparty",
+    "color": "#ed1650",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xcp.svg",
+    "value": "XCP",
+    "label": "Counterparty (XCP)"
+  },
+  {
+    "symbol": "XDN",
+    "name": "DigitalNote",
+    "color": "#4f7aa2",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xdn.svg",
+    "value": "XDN",
+    "label": "DigitalNote (XDN)"
+  },
+  {
+    "symbol": "XEM",
+    "name": "NEM",
+    "color": "#67b2e8",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xem.svg",
+    "value": "XEM",
+    "label": "NEM (XEM)"
+  },
+  {
+    "symbol": "XIN",
+    "name": "Infinity Economics",
+    "color": "#1eb5fa",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xin.svg",
+    "value": "XIN",
+    "label": "Infinity Economics (XIN)"
+  },
+  {
+    "symbol": "XLM",
+    "name": "Stellar",
+    "color": "#000000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xlm.svg",
+    "value": "XLM",
+    "label": "Stellar (XLM)"
+  },
+  {
+    "symbol": "XMCC",
+    "name": "Monoeci",
+    "color": "#dd0632",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xmcc.svg",
+    "value": "XMCC",
+    "label": "Monoeci (XMCC)"
+  },
+  {
+    "symbol": "XMG",
+    "name": "Magi",
+    "color": "#004a80",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xmg.svg",
+    "value": "XMG",
+    "label": "Magi (XMG)"
+  },
+  {
+    "symbol": "XMO",
+    "name": "Monero Original",
+    "color": "#ff6600",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xmo.svg",
+    "value": "XMO",
+    "label": "Monero Original (XMO)"
+  },
+  {
+    "symbol": "XMR",
+    "name": "Monero",
+    "color": "#ff6600",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xmr.svg",
+    "value": "XMR",
+    "label": "Monero (XMR)"
+  },
+  {
+    "symbol": "XMY",
+    "name": "Myriad",
+    "color": "#ec1076",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xmy.svg",
+    "value": "XMY",
+    "label": "Myriad (XMY)"
+  },
+  {
+    "symbol": "XP",
+    "name": "XP",
+    "color": "#008200",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xp.svg",
+    "value": "XP",
+    "label": "XP (XP)"
+  },
+  {
+    "symbol": "XPA",
+    "name": "XPA",
+    "color": "#4fa784",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xpa.svg",
+    "value": "XPA",
+    "label": "XPA (XPA)"
+  },
+  {
+    "symbol": "XPM",
+    "name": "Primecoin",
+    "color": "#ffd81b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xpm.svg",
+    "value": "XPM",
+    "label": "Primecoin (XPM)"
+  },
+  {
+    "symbol": "XRP",
+    "name": "XRP",
+    "color": "#23292f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xrp.svg",
+    "value": "XRP",
+    "label": "XRP (XRP)"
+  },
+  {
+    "symbol": "XRP",
+    "name": "XRP",
+    "color": "#23292f",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xrp.svg",
+    "value": "XRP",
+    "label": "XRP (XRP)"
+  },
+  {
+    "symbol": "XSG",
+    "name": "SnowGem",
+    "color": "#d21e2b",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xsg.svg",
+    "value": "XSG",
+    "label": "SnowGem (XSG)"
+  },
+  {
+    "symbol": "XTZ",
+    "name": "Tezos",
+    "color": "#a6e000",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xtz.svg",
+    "value": "XTZ",
+    "label": "Tezos (XTZ)"
+  },
+  {
+    "symbol": "XUC",
+    "name": "Exchange Union",
+    "color": "#25aae3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xuc.svg",
+    "value": "XUC",
+    "label": "Exchange Union (XUC)"
+  },
+  {
+    "symbol": "XVC",
+    "name": "Vcash",
+    "color": "#b50126",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xvc.svg",
+    "value": "XVC",
+    "label": "Vcash (XVC)"
+  },
+  {
+    "symbol": "XVG",
+    "name": "Verge",
+    "color": "#00cbff",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xvg.svg",
+    "value": "XVG",
+    "label": "Verge (XVG)"
+  },
+  {
+    "symbol": "XZC",
+    "name": "Zcoin",
+    "color": "#23b852",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/xzc.svg",
+    "value": "XZC",
+    "label": "Zcoin (XZC)"
+  },
+  {
+    "symbol": "YFI",
+    "name": "yearn.finance",
+    "color": "#006ae3",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/yfi.svg",
+    "value": "YFI",
+    "label": "yearn.finance (YFI)"
+  },
+  {
+    "symbol": "YOYOW",
+    "name": "YOYOW",
+    "color": "#21a5de",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/yoyow.svg",
+    "value": "YOYOW",
+    "label": "YOYOW (YOYOW)"
+  },
+  {
+    "symbol": "ZCL",
+    "name": "Zclassic",
+    "color": "#c87035",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zcl.svg",
+    "value": "ZCL",
+    "label": "Zclassic (ZCL)"
+  },
+  {
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "color": "#ecb244",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zec.svg",
+    "value": "ZEC",
+    "label": "Zcash (ZEC)"
+  },
+  {
+    "symbol": "ZEL",
+    "name": "ZelCash",
+    "color": "#183c87",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zel.svg",
+    "value": "ZEL",
+    "label": "ZelCash (ZEL)"
+  },
+  {
+    "symbol": "ZEN",
+    "name": "Horizen",
+    "color": "#00eaab",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zen.svg",
+    "value": "ZEN",
+    "label": "Horizen (ZEN)"
+  },
+  {
+    "symbol": "ZEST",
+    "name": "Zest",
+    "color": "#07bc9c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zest.svg",
+    "value": "ZEST",
+    "label": "Zest (ZEST)"
+  },
+  {
+    "symbol": "ZEST",
+    "name": "Zest",
+    "color": "#07bc9c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zest.svg",
+    "value": "ZEST",
+    "label": "Zest (ZEST)"
+  },
+  {
+    "symbol": "ZIL",
+    "name": "Zilliqa",
+    "color": "#49c1bf",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zil.svg",
+    "value": "ZIL",
+    "label": "Zilliqa (ZIL)"
+  },
+  {
+    "symbol": "ZILLA",
+    "name": "Chainzilla",
+    "color": "#00004d",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zilla.svg",
+    "value": "ZILLA",
+    "label": "Chainzilla (ZILLA)"
+  },
+  {
+    "symbol": "ZRX",
+    "name": "0x",
+    "color": "#302c2c",
+    "avatar": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@9ab8d6934b83a4aa8ae5e8711609a70ca0ab1b2b/svg/color/zrx.svg",
+    "value": "ZRX",
+    "label": "0x (ZRX)"
+  }
+]

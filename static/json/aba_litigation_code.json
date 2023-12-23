@@ -1,0 +1,133 @@
+{
+  "L100": {
+    "header": "L100 Case Assessment, Development and Administration"
+  },
+  "L110": {
+    "label": "L110 Fact Investigation/Development",
+    "value": "L110"
+  },
+  "L120": {
+    "label": "L120 Analysis/Strategy",
+    "value": "L120"
+  },
+  "L130": {
+    "label": "L130 Experts/Consultants",
+    "value": "L130"
+  },
+  "L140": {
+    "label": "L140 Document/File Management",
+    "value": "L140"
+  },
+  "L150": {
+    "label": "L150 Budgeting",
+    "value": "L150"
+  },
+  "L160": {
+    "label": "L160 Settlement/Non-Binding ADR",
+    "value": "L160"
+  },
+  "L190": {
+    "label": "L190 Other Case Assessment, Development and Administration",
+    "value": "L190"
+  },
+  "L200": {
+    "header": "L200 Pre-Trial Pleadings and Motions"
+  },
+  "L210": {
+    "label": "L210 Pleading",
+    "value": "L210"
+  },
+  "L220": {
+    "label": "L220 Preliminary Injunctions/Provisional Remedies",
+    "value": "L220"
+  },
+  "L230": {
+    "label": "L230 Court Mandated Conferences",
+    "value": "L230"
+  },
+  "L240": {
+    "label": "L240 Dispositive Motions",
+    "value": "L240"
+  },
+  "L250": {
+    "label": "L250 Other Written Motions and Submissions",
+    "value": "L250"
+  },
+  "L260": {
+    "label": "L260 Class Action Certification and Notice",
+    "value": "L260"
+  },
+  "L300": {
+    "header": "L300 Discover"
+  },
+  "L310": {
+    "label": "L310 Written Discovery",
+    "value": "L310"
+  },
+  "L320": {
+    "label": "L320 Document Production",
+    "value": "L320"
+  },
+  "L330": {
+    "label": "L330 Depositions",
+    "value": "L330"
+  },
+  "L340": {
+    "label": "L340 Expert Discovery",
+    "value": "L340"
+  },
+  "L350": {
+    "label": "L350 Discovery Motions",
+    "value": "L350"
+  },
+  "L390": {
+    "label": "L390 Other Discovery",
+    "value": "L390"
+  },
+  "L400": {
+    "header": "L400 Trial Preparation and Trial"
+  },
+  "L410": {
+    "label": "L410 Fact Witnesses",
+    "value": "L410"
+  },
+  "L420": {
+    "label": "L420 Expert Witnesses",
+    "value": "L420"
+  },
+  "L430": {
+    "label": "L430 Written Motions and Submissions",
+    "value": "L430"
+  },
+  "L440": {
+    "label": "L440 Other Trial Preparation and Support",
+    "value": "L440"
+  },
+  "L450": {
+    "label": "L450 Trial and Hearing Attendance",
+    "value": "L450"
+  },
+  "L460": {
+    "label": "L460 Post-Trial Motions and Submissions",
+    "value": "L460"
+  },
+  "L470": {
+    "label": "L470 Enforcement",
+    "value": "L470"
+  },
+  "L500": {
+    "header": "L500 Appeal"
+  },
+  "L510": {
+    "label": "L510 Appellate Motions and Submissions",
+    "value": "L510"
+  },
+  "L520": {
+    "label": "L520 Appellate Briefs",
+    "value": "L520"
+  },
+  "L530": {
+    "label": "L530 Oral Argument",
+    "value": "L530"
+  }
+}

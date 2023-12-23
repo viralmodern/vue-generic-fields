@@ -1,0 +1,73 @@
+.icon-symbol-trend-cell {
+  //height: 40px;
+  position: relative;
+  width: 20px;
+  height: 25px;
+  //border: solid 1px red;
+  transform: rotate(90deg);
+  transform-origin: center;
+  opacity: 0;
+  width: 0;
+  &:before {
+    content: '';
+    height: 0;
+    width: 0;
+    display: block;
+    border: 6px transparent solid;
+    border-top-width: 0;
+    border-bottom-color: rgba(51,51,51,0.6);
+    position: absolute;
+    top: 3px;
+    left: 3px;
+  }
+  &:after {
+    content: '';
+    height: 10px;
+    width: 4px;
+    display: block;
+    background: rgba(51,51,51,0.6);
+    position: absolute;
+    top: 9px;
+    left: 7px;
+  }
+  &.up, &.down {
+    width: 20px;
+    opacity: 1;
+  }
+  &.up {
+    transform: unset;
+    &:before {
+      border-bottom-color: green;
+    }
+    &:after {
+      background: green;
+    }
+  }
+  &.down {
+    transform: scale(-1);
+    &:before {
+      border-bottom-color: red
+    }
+    &:after {
+      background: red;
+    }
+  }
+
+}
+.label-symbol-trend-cell {
+  //width: 40px;
+  width: 0px;
+  opacity: 0;
+  white-space: nowrap;
+  &.up, &.down {
+    width: 40px;
+    opacity: 1;
+  }
+  &.up {
+    color: green;
+  }
+  &.down {
+    color: red;
+  }
+}
+

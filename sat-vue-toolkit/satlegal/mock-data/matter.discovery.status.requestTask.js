@@ -1,0 +1,50 @@
+export const requestTask = [
+  {
+    id: 1,
+    name: "Request task 1",
+    desc: "abc",
+    deadline: "2019-08-14",
+    litigation: "L100",
+    activities: "A103",
+    status: 1,
+    request_set: 6,
+    request: 1,
+    members: [6],
+    notes: [],
+    comments: [],
+    attachments: [],
+    order: 1
+  },
+  {
+    id: 2,
+    name: "Request task 2",
+    desc: "abc",
+    deadline: "2019-08-14",
+    litigation: "L100",
+    activities: "A103",
+    status: 1,
+    request_set: 6,
+    request: 2,
+    members: [6],
+    notes: [],
+    comments: [],
+    attachments: [],
+    order: 2
+  },
+  {
+    id: 5,
+    name: "Request task 3",
+    desc: "abc",
+    deadline: "2019-08-14",
+    litigation: "L100",
+    activities: "A103",
+    status: 1,
+    request_set: 6,
+    request: 3,
+    members: [6],
+    notes: [],
+    comments: [],
+    attachments: [],
+    order: 3
+  }
+]

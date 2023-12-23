@@ -1,0 +1,46 @@
+{
+  "A101": {
+    "label": "A101 Plan and prepare for",
+    "value": "A101"
+  },
+  "A102": {
+    "label": "A102 Research",
+    "value": "A102"
+  },
+  "A103": {
+    "label": "A103 Draft/revise",
+    "value": "A103"
+  },
+  "A104": {
+    "label": "A104 Review/analyze",
+    "value": "A104"
+  },
+  "A105": {
+    "label": "A105 Communicate (in firm)",
+    "value": "A105"
+  },
+  "A106": {
+    "label": "A106 Communicate (with client)",
+    "value": "A106"
+  },
+  "A107": {
+    "label": "A107 Communicate (other outside counsel)",
+    "value": "A107"
+  },
+  "A108": {
+    "label": "A108 Communicate (other external)",
+    "value": "A108"
+  },
+  "A109": {
+    "label": "A109 Appear for/attend",
+    "value": "A109"
+  },
+  "A110": {
+    "label": "A110 Manage data/files",
+    "value": "A110"
+  },
+  "A111": {
+    "label": "A111 Other",
+    "value": "A111"
+  }
+}

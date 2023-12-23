@@ -1,0 +1,1717 @@
+[
+  {
+    "country": "Afghanistan",
+    "abbreviation": "AF",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/af.svg",
+    "value": "AF",
+    "label": "Afghanistan"
+  },
+  {
+    "country": "Albania",
+    "abbreviation": "AL",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/al.svg",
+    "value": "AL",
+    "label": "Albania"
+  },
+  {
+    "country": "Algeria",
+    "abbreviation": "DZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/dz.svg",
+    "value": "DZ",
+    "label": "Algeria"
+  },
+  {
+    "country": "American Samoa",
+    "abbreviation": "AS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/as.svg",
+    "value": "AS",
+    "label": "American Samoa"
+  },
+  {
+    "country": "Andorra",
+    "abbreviation": "AD",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ad.svg",
+    "value": "AD",
+    "label": "Andorra"
+  },
+  {
+    "country": "Angola",
+    "abbreviation": "AO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ao.svg",
+    "value": "AO",
+    "label": "Angola"
+  },
+  {
+    "country": "Anguilla",
+    "abbreviation": "AI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ai.svg",
+    "value": "AI",
+    "label": "Anguilla"
+  },
+  {
+    "country": "Antarctica",
+    "abbreviation": "AQ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/aq.svg",
+    "value": "AQ",
+    "label": "Antarctica"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "abbreviation": "AG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ag.svg",
+    "value": "AG",
+    "label": "Antigua and Barbuda"
+  },
+  {
+    "country": "Argentina",
+    "abbreviation": "AR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ar.svg",
+    "value": "AR",
+    "label": "Argentina"
+  },
+  {
+    "country": "Armenia",
+    "abbreviation": "AM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/am.svg",
+    "value": "AM",
+    "label": "Armenia"
+  },
+  {
+    "country": "Aruba",
+    "abbreviation": "AW",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/aw.svg",
+    "value": "AW",
+    "label": "Aruba"
+  },
+  {
+    "country": "Australia",
+    "abbreviation": "AU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/au.svg",
+    "value": "AU",
+    "label": "Australia"
+  },
+  {
+    "country": "Austria",
+    "abbreviation": "AT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/at.svg",
+    "value": "AT",
+    "label": "Austria"
+  },
+  {
+    "country": "Azerbaijan",
+    "abbreviation": "AZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/az.svg",
+    "value": "AZ",
+    "label": "Azerbaijan"
+  },
+  {
+    "country": "Bahamas",
+    "abbreviation": "BS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bs.svg",
+    "value": "BS",
+    "label": "Bahamas"
+  },
+  {
+    "country": "Bahrain",
+    "abbreviation": "BH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bh.svg",
+    "value": "BH",
+    "label": "Bahrain"
+  },
+  {
+    "country": "Bangladesh",
+    "abbreviation": "BD",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bd.svg",
+    "value": "BD",
+    "label": "Bangladesh"
+  },
+  {
+    "country": "Barbados",
+    "abbreviation": "BB",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bb.svg",
+    "value": "BB",
+    "label": "Barbados"
+  },
+  {
+    "country": "Belarus",
+    "abbreviation": "BY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/by.svg",
+    "value": "BY",
+    "label": "Belarus"
+  },
+  {
+    "country": "Belgium",
+    "abbreviation": "BE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/be.svg",
+    "value": "BE",
+    "label": "Belgium"
+  },
+  {
+    "country": "Belize",
+    "abbreviation": "BZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bz.svg",
+    "value": "BZ",
+    "label": "Belize"
+  },
+  {
+    "country": "Benin",
+    "abbreviation": "BJ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bj.svg",
+    "value": "BJ",
+    "label": "Benin"
+  },
+  {
+    "country": "Bermuda",
+    "abbreviation": "BM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bm.svg",
+    "value": "BM",
+    "label": "Bermuda"
+  },
+  {
+    "country": "Bhutan",
+    "abbreviation": "BT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bt.svg",
+    "value": "BT",
+    "label": "Bhutan"
+  },
+  {
+    "country": "Bolivia",
+    "abbreviation": "BO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bo.svg",
+    "value": "BO",
+    "label": "Bolivia"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "abbreviation": "BA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ba.svg",
+    "value": "BA",
+    "label": "Bosnia and Herzegovina"
+  },
+  {
+    "country": "Botswana",
+    "abbreviation": "BW",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bw.svg",
+    "value": "BW",
+    "label": "Botswana"
+  },
+  {
+    "country": "Bouvet Island",
+    "abbreviation": "BV",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bv.svg",
+    "value": "BV",
+    "label": "Bouvet Island"
+  },
+  {
+    "country": "Brazil",
+    "abbreviation": "BR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/br.svg",
+    "value": "BR",
+    "label": "Brazil"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "abbreviation": "IO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/io.svg",
+    "value": "IO",
+    "label": "British Indian Ocean Territory"
+  },
+  {
+    "country": "Brunei",
+    "abbreviation": "BN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bn.svg",
+    "value": "BN",
+    "label": "Brunei"
+  },
+  {
+    "country": "Bulgaria",
+    "abbreviation": "BG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bg.svg",
+    "value": "BG",
+    "label": "Bulgaria"
+  },
+  {
+    "country": "Burkina Faso",
+    "abbreviation": "BF",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bf.svg",
+    "value": "BF",
+    "label": "Burkina Faso"
+  },
+  {
+    "country": "Burundi",
+    "abbreviation": "BI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/bi.svg",
+    "value": "BI",
+    "label": "Burundi"
+  },
+  {
+    "country": "Cambodia",
+    "abbreviation": "KH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/kh.svg",
+    "value": "KH",
+    "label": "Cambodia"
+  },
+  {
+    "country": "Cameroon",
+    "abbreviation": "CM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cm.svg",
+    "value": "CM",
+    "label": "Cameroon"
+  },
+  {
+    "country": "Canada",
+    "abbreviation": "CA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ca.svg",
+    "value": "CA",
+    "label": "Canada"
+  },
+  {
+    "country": "Cape Verde",
+    "abbreviation": "CV",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cv.svg",
+    "value": "CV",
+    "label": "Cape Verde"
+  },
+  {
+    "country": "Cayman Islands",
+    "abbreviation": "KY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ky.svg",
+    "value": "KY",
+    "label": "Cayman Islands"
+  },
+  {
+    "country": "Central African Republic",
+    "abbreviation": "CF",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cf.svg",
+    "value": "CF",
+    "label": "Central African Republic"
+  },
+  {
+    "country": "Chad",
+    "abbreviation": "TD",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/td.svg",
+    "value": "TD",
+    "label": "Chad"
+  },
+  {
+    "country": "Chile",
+    "abbreviation": "CL",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cl.svg",
+    "value": "CL",
+    "label": "Chile"
+  },
+  {
+    "country": "China",
+    "abbreviation": "CN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cn.svg",
+    "value": "CN",
+    "label": "China"
+  },
+  {
+    "country": "Christmas Island",
+    "abbreviation": "CX",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cx.svg",
+    "value": "CX",
+    "label": "Christmas Island"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "abbreviation": "CC",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cc.svg",
+    "value": "CC",
+    "label": "Cocos (Keeling) Islands"
+  },
+  {
+    "country": "Colombia",
+    "abbreviation": "CO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/co.svg",
+    "value": "CO",
+    "label": "Colombia"
+  },
+  {
+    "country": "Comoros",
+    "abbreviation": "KM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/km.svg",
+    "value": "KM",
+    "label": "Comoros"
+  },
+  {
+    "country": "Congo",
+    "abbreviation": "CG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cg.svg",
+    "value": "CG",
+    "label": "Congo"
+  },
+  {
+    "country": "Cook Islands",
+    "abbreviation": "CK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ck.svg",
+    "value": "CK",
+    "label": "Cook Islands"
+  },
+  {
+    "country": "Costa Rica",
+    "abbreviation": "CR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cr.svg",
+    "value": "CR",
+    "label": "Costa Rica"
+  },
+  {
+    "country": "Croatia",
+    "abbreviation": "HR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/hr.svg",
+    "value": "HR",
+    "label": "Croatia"
+  },
+  {
+    "country": "Cuba",
+    "abbreviation": "CU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cu.svg",
+    "value": "CU",
+    "label": "Cuba"
+  },
+  {
+    "country": "Cyprus",
+    "abbreviation": "CY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cy.svg",
+    "value": "CY",
+    "label": "Cyprus"
+  },
+  {
+    "country": "Czech Republic",
+    "abbreviation": "CZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cz.svg",
+    "value": "CZ",
+    "label": "Czech Republic"
+  },
+  {
+    "country": "Denmark",
+    "abbreviation": "DK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/dk.svg",
+    "value": "DK",
+    "label": "Denmark"
+  },
+  {
+    "country": "Djibouti",
+    "abbreviation": "DJ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/dj.svg",
+    "value": "DJ",
+    "label": "Djibouti"
+  },
+  {
+    "country": "Dominica",
+    "abbreviation": "DM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/dm.svg",
+    "value": "DM",
+    "label": "Dominica"
+  },
+  {
+    "country": "Dominican Republic",
+    "abbreviation": "DO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/do.svg",
+    "value": "DO",
+    "label": "Dominican Republic"
+  },
+  {
+    "country": "East Timor",
+    "abbreviation": "TP",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tp.svg",
+    "value": "TP",
+    "label": "East Timor"
+  },
+  {
+    "country": "Ecuador",
+    "abbreviation": "EC",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ec.svg",
+    "value": "EC",
+    "label": "Ecuador"
+  },
+  {
+    "country": "Egypt",
+    "abbreviation": "EG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/eg.svg",
+    "value": "EG",
+    "label": "Egypt"
+  },
+  {
+    "country": "El Salvador",
+    "abbreviation": "SV",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sv.svg",
+    "value": "SV",
+    "label": "El Salvador"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "abbreviation": "GQ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gq.svg",
+    "value": "GQ",
+    "label": "Equatorial Guinea"
+  },
+  {
+    "country": "Eritrea",
+    "abbreviation": "ER",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/er.svg",
+    "value": "ER",
+    "label": "Eritrea"
+  },
+  {
+    "country": "Estonia",
+    "abbreviation": "EE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ee.svg",
+    "value": "EE",
+    "label": "Estonia"
+  },
+  {
+    "country": "Ethiopia",
+    "abbreviation": "ET",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/et.svg",
+    "value": "ET",
+    "label": "Ethiopia"
+  },
+  {
+    "country": "Falkland Islands",
+    "abbreviation": "FK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/fk.svg",
+    "value": "FK",
+    "label": "Falkland Islands"
+  },
+  {
+    "country": "Faroe Islands",
+    "abbreviation": "FO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/fo.svg",
+    "value": "FO",
+    "label": "Faroe Islands"
+  },
+  {
+    "country": "Fiji Islands",
+    "abbreviation": "FJ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/fj.svg",
+    "value": "FJ",
+    "label": "Fiji Islands"
+  },
+  {
+    "country": "Finland",
+    "abbreviation": "FI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/fi.svg",
+    "value": "FI",
+    "label": "Finland"
+  },
+  {
+    "country": "France",
+    "abbreviation": "FR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/fr.svg",
+    "value": "FR",
+    "label": "France"
+  },
+  {
+    "country": "French Guiana",
+    "abbreviation": "GF",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gf.svg",
+    "value": "GF",
+    "label": "French Guiana"
+  },
+  {
+    "country": "French Polynesia",
+    "abbreviation": "PF",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pf.svg",
+    "value": "PF",
+    "label": "French Polynesia"
+  },
+  {
+    "country": "French Southern territories",
+    "abbreviation": "TF",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tf.svg",
+    "value": "TF",
+    "label": "French Southern territories"
+  },
+  {
+    "country": "Gabon",
+    "abbreviation": "GA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ga.svg",
+    "value": "GA",
+    "label": "Gabon"
+  },
+  {
+    "country": "Gambia",
+    "abbreviation": "GM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gm.svg",
+    "value": "GM",
+    "label": "Gambia"
+  },
+  {
+    "country": "Georgia",
+    "abbreviation": "GE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ge.svg",
+    "value": "GE",
+    "label": "Georgia"
+  },
+  {
+    "country": "Germany",
+    "abbreviation": "DE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/de.svg",
+    "value": "DE",
+    "label": "Germany"
+  },
+  {
+    "country": "Ghana",
+    "abbreviation": "GH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gh.svg",
+    "value": "GH",
+    "label": "Ghana"
+  },
+  {
+    "country": "Gibraltar",
+    "abbreviation": "GI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gi.svg",
+    "value": "GI",
+    "label": "Gibraltar"
+  },
+  {
+    "country": "Greece",
+    "abbreviation": "GR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gr.svg",
+    "value": "GR",
+    "label": "Greece"
+  },
+  {
+    "country": "Greenland",
+    "abbreviation": "GL",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gl.svg",
+    "value": "GL",
+    "label": "Greenland"
+  },
+  {
+    "country": "Grenada",
+    "abbreviation": "GD",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gd.svg",
+    "value": "GD",
+    "label": "Grenada"
+  },
+  {
+    "country": "Guadeloupe",
+    "abbreviation": "GP",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gp.svg",
+    "value": "GP",
+    "label": "Guadeloupe"
+  },
+  {
+    "country": "Guam",
+    "abbreviation": "GU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gu.svg",
+    "value": "GU",
+    "label": "Guam"
+  },
+  {
+    "country": "Guatemala",
+    "abbreviation": "GT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gt.svg",
+    "value": "GT",
+    "label": "Guatemala"
+  },
+  {
+    "country": "Guernsey",
+    "abbreviation": "GG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gg.svg",
+    "value": "GG",
+    "label": "Guernsey"
+  },
+  {
+    "country": "Guinea",
+    "abbreviation": "GN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gn.svg",
+    "value": "GN",
+    "label": "Guinea"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "abbreviation": "GW",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gw.svg",
+    "value": "GW",
+    "label": "Guinea-Bissau"
+  },
+  {
+    "country": "Guyana",
+    "abbreviation": "GY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gy.svg",
+    "value": "GY",
+    "label": "Guyana"
+  },
+  {
+    "country": "Haiti",
+    "abbreviation": "HT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ht.svg",
+    "value": "HT",
+    "label": "Haiti"
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "abbreviation": "HM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/hm.svg",
+    "value": "HM",
+    "label": "Heard Island and McDonald Islands"
+  },
+  {
+    "country": "Holy See (Vatican City State)",
+    "abbreviation": "VA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/va.svg",
+    "value": "VA",
+    "label": "Holy See (Vatican City State)"
+  },
+  {
+    "country": "Honduras",
+    "abbreviation": "HN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/hn.svg",
+    "value": "HN",
+    "label": "Honduras"
+  },
+  {
+    "country": "Hong Kong",
+    "abbreviation": "HK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/hk.svg",
+    "value": "HK",
+    "label": "Hong Kong"
+  },
+  {
+    "country": "Hungary",
+    "abbreviation": "HU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/hu.svg",
+    "value": "HU",
+    "label": "Hungary"
+  },
+  {
+    "country": "Iceland",
+    "abbreviation": "IS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/is.svg",
+    "value": "IS",
+    "label": "Iceland"
+  },
+  {
+    "country": "India",
+    "abbreviation": "IN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/in.svg",
+    "value": "IN",
+    "label": "India"
+  },
+  {
+    "country": "Indonesia",
+    "abbreviation": "ID",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/id.svg",
+    "value": "ID",
+    "label": "Indonesia"
+  },
+  {
+    "country": "Iran",
+    "abbreviation": "IR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ir.svg",
+    "value": "IR",
+    "label": "Iran"
+  },
+  {
+    "country": "Iraq",
+    "abbreviation": "IQ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/iq.svg",
+    "value": "IQ",
+    "label": "Iraq"
+  },
+  {
+    "country": "Ireland",
+    "abbreviation": "IE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ie.svg",
+    "value": "IE",
+    "label": "Ireland"
+  },
+  {
+    "country": "Isle of Man",
+    "abbreviation": "IM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/im.svg",
+    "value": "IM",
+    "label": "Isle of Man"
+  },
+  {
+    "country": "Israel",
+    "abbreviation": "IL",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/il.svg",
+    "value": "IL",
+    "label": "Israel"
+  },
+  {
+    "country": "Italy",
+    "abbreviation": "IT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/it.svg",
+    "value": "IT",
+    "label": "Italy"
+  },
+  {
+    "country": "Ivory Coast",
+    "abbreviation": "CI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ci.svg",
+    "value": "CI",
+    "label": "Ivory Coast"
+  },
+  {
+    "country": "Jamaica",
+    "abbreviation": "JM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/jm.svg",
+    "value": "JM",
+    "label": "Jamaica"
+  },
+  {
+    "country": "Japan",
+    "abbreviation": "JP",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/jp.svg",
+    "value": "JP",
+    "label": "Japan"
+  },
+  {
+    "country": "Jersey",
+    "abbreviation": "JE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/je.svg",
+    "value": "JE",
+    "label": "Jersey"
+  },
+  {
+    "country": "Jordan",
+    "abbreviation": "JO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/jo.svg",
+    "value": "JO",
+    "label": "Jordan"
+  },
+  {
+    "country": "Kazakhstan",
+    "abbreviation": "KZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/kz.svg",
+    "value": "KZ",
+    "label": "Kazakhstan"
+  },
+  {
+    "country": "Kenya",
+    "abbreviation": "KE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ke.svg",
+    "value": "KE",
+    "label": "Kenya"
+  },
+  {
+    "country": "Kiribati",
+    "abbreviation": "KI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ki.svg",
+    "value": "KI",
+    "label": "Kiribati"
+  },
+  {
+    "country": "Kuwait",
+    "abbreviation": "KW",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/kw.svg",
+    "value": "KW",
+    "label": "Kuwait"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "abbreviation": "KG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/kg.svg",
+    "value": "KG",
+    "label": "Kyrgyzstan"
+  },
+  {
+    "country": "Laos",
+    "abbreviation": "LA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/la.svg",
+    "value": "LA",
+    "label": "Laos"
+  },
+  {
+    "country": "Latvia",
+    "abbreviation": "LV",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/lv.svg",
+    "value": "LV",
+    "label": "Latvia"
+  },
+  {
+    "country": "Lebanon",
+    "abbreviation": "LB",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/lb.svg",
+    "value": "LB",
+    "label": "Lebanon"
+  },
+  {
+    "country": "Lesotho",
+    "abbreviation": "LS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ls.svg",
+    "value": "LS",
+    "label": "Lesotho"
+  },
+  {
+    "country": "Liberia",
+    "abbreviation": "LR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/lr.svg",
+    "value": "LR",
+    "label": "Liberia"
+  },
+  {
+    "country": "Libyan Arab Jamahiriya",
+    "abbreviation": "LY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ly.svg",
+    "value": "LY",
+    "label": "Libyan Arab Jamahiriya"
+  },
+  {
+    "country": "Liechtenstein",
+    "abbreviation": "LI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/li.svg",
+    "value": "LI",
+    "label": "Liechtenstein"
+  },
+  {
+    "country": "Lithuania",
+    "abbreviation": "LT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/lt.svg",
+    "value": "LT",
+    "label": "Lithuania"
+  },
+  {
+    "country": "Luxembourg",
+    "abbreviation": "LU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/lu.svg",
+    "value": "LU",
+    "label": "Luxembourg"
+  },
+  {
+    "country": "Macao",
+    "abbreviation": "MO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mo.svg",
+    "value": "MO",
+    "label": "Macao"
+  },
+  {
+    "country": "North Macedonia",
+    "abbreviation": "MK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mk.svg",
+    "value": "MK",
+    "label": "North Macedonia"
+  },
+  {
+    "country": "Madagascar",
+    "abbreviation": "MG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mg.svg",
+    "value": "MG",
+    "label": "Madagascar"
+  },
+  {
+    "country": "Malawi",
+    "abbreviation": "MW",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mw.svg",
+    "value": "MW",
+    "label": "Malawi"
+  },
+  {
+    "country": "Malaysia",
+    "abbreviation": "MY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/my.svg",
+    "value": "MY",
+    "label": "Malaysia"
+  },
+  {
+    "country": "Maldives",
+    "abbreviation": "MV",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mv.svg",
+    "value": "MV",
+    "label": "Maldives"
+  },
+  {
+    "country": "Mali",
+    "abbreviation": "ML",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ml.svg",
+    "value": "ML",
+    "label": "Mali"
+  },
+  {
+    "country": "Malta",
+    "abbreviation": "MT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mt.svg",
+    "value": "MT",
+    "label": "Malta"
+  },
+  {
+    "country": "Marshall Islands",
+    "abbreviation": "MH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mh.svg",
+    "value": "MH",
+    "label": "Marshall Islands"
+  },
+  {
+    "country": "Martinique",
+    "abbreviation": "MQ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mq.svg",
+    "value": "MQ",
+    "label": "Martinique"
+  },
+  {
+    "country": "Mauritania",
+    "abbreviation": "MR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mr.svg",
+    "value": "MR",
+    "label": "Mauritania"
+  },
+  {
+    "country": "Mauritius",
+    "abbreviation": "MU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mu.svg",
+    "value": "MU",
+    "label": "Mauritius"
+  },
+  {
+    "country": "Mayotte",
+    "abbreviation": "YT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/yt.svg",
+    "value": "YT",
+    "label": "Mayotte"
+  },
+  {
+    "country": "Mexico",
+    "abbreviation": "MX",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mx.svg",
+    "value": "MX",
+    "label": "Mexico"
+  },
+  {
+    "country": "Micronesia, Federated States of",
+    "abbreviation": "FM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/fm.svg",
+    "value": "FM",
+    "label": "Micronesia, Federated States of"
+  },
+  {
+    "country": "Moldova",
+    "abbreviation": "MD",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/md.svg",
+    "value": "MD",
+    "label": "Moldova"
+  },
+  {
+    "country": "Monaco",
+    "abbreviation": "MC",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mc.svg",
+    "value": "MC",
+    "label": "Monaco"
+  },
+  {
+    "country": "Mongolia",
+    "abbreviation": "MN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mn.svg",
+    "value": "MN",
+    "label": "Mongolia"
+  },
+  {
+    "country": "Montenegro",
+    "abbreviation": "ME",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/me.svg",
+    "value": "ME",
+    "label": "Montenegro"
+  },
+  {
+    "country": "Montserrat",
+    "abbreviation": "MS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ms.svg",
+    "value": "MS",
+    "label": "Montserrat"
+  },
+  {
+    "country": "Morocco",
+    "abbreviation": "MA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ma.svg",
+    "value": "MA",
+    "label": "Morocco"
+  },
+  {
+    "country": "Mozambique",
+    "abbreviation": "MZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mz.svg",
+    "value": "MZ",
+    "label": "Mozambique"
+  },
+  {
+    "country": "Myanmar",
+    "abbreviation": "MM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mm.svg",
+    "value": "MM",
+    "label": "Myanmar"
+  },
+  {
+    "country": "Namibia",
+    "abbreviation": "NA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/na.svg",
+    "value": "NA",
+    "label": "Namibia"
+  },
+  {
+    "country": "Nauru",
+    "abbreviation": "NR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/nr.svg",
+    "value": "NR",
+    "label": "Nauru"
+  },
+  {
+    "country": "Nepal",
+    "abbreviation": "NP",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/np.svg",
+    "value": "NP",
+    "label": "Nepal"
+  },
+  {
+    "country": "Netherlands",
+    "abbreviation": "NL",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/nl.svg",
+    "value": "NL",
+    "label": "Netherlands"
+  },
+  {
+    "country": "Netherlands Antilles",
+    "abbreviation": "AN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/an.svg",
+    "value": "AN",
+    "label": "Netherlands Antilles"
+  },
+  {
+    "country": "New Caledonia",
+    "abbreviation": "NC",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/nc.svg",
+    "value": "NC",
+    "label": "New Caledonia"
+  },
+  {
+    "country": "New Zealand",
+    "abbreviation": "NZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/nz.svg",
+    "value": "NZ",
+    "label": "New Zealand"
+  },
+  {
+    "country": "Nicaragua",
+    "abbreviation": "NI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ni.svg",
+    "value": "NI",
+    "label": "Nicaragua"
+  },
+  {
+    "country": "Niger",
+    "abbreviation": "NE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ne.svg",
+    "value": "NE",
+    "label": "Niger"
+  },
+  {
+    "country": "Nigeria",
+    "abbreviation": "NG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ng.svg",
+    "value": "NG",
+    "label": "Nigeria"
+  },
+  {
+    "country": "Niue",
+    "abbreviation": "NU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/nu.svg",
+    "value": "NU",
+    "label": "Niue"
+  },
+  {
+    "country": "Norfolk Island",
+    "abbreviation": "NF",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/nf.svg",
+    "value": "NF",
+    "label": "Norfolk Island"
+  },
+  {
+    "country": "North Korea",
+    "abbreviation": "KP",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/kp.svg",
+    "value": "KP",
+    "label": "North Korea"
+  },
+  {
+    "country": "Northern Ireland",
+    "abbreviation": "GB",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg",
+    "value": "GB",
+    "label": "Northern Ireland"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "abbreviation": "MP",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/mp.svg",
+    "value": "MP",
+    "label": "Northern Mariana Islands"
+  },
+  {
+    "country": "Norway",
+    "abbreviation": "NO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/no.svg",
+    "value": "NO",
+    "label": "Norway"
+  },
+  {
+    "country": "Oman",
+    "abbreviation": "OM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/om.svg",
+    "value": "OM",
+    "label": "Oman"
+  },
+  {
+    "country": "Pakistan",
+    "abbreviation": "PK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pk.svg",
+    "value": "PK",
+    "label": "Pakistan"
+  },
+  {
+    "country": "Palau",
+    "abbreviation": "PW",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pw.svg",
+    "value": "PW",
+    "label": "Palau"
+  },
+  {
+    "country": "Palestine",
+    "abbreviation": "PS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ps.svg",
+    "value": "PS",
+    "label": "Palestine"
+  },
+  {
+    "country": "Panama",
+    "abbreviation": "PA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pa.svg",
+    "value": "PA",
+    "label": "Panama"
+  },
+  {
+    "country": "Papua New Guinea",
+    "abbreviation": "PG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pg.svg",
+    "value": "PG",
+    "label": "Papua New Guinea"
+  },
+  {
+    "country": "Paraguay",
+    "abbreviation": "PY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/py.svg",
+    "value": "PY",
+    "label": "Paraguay"
+  },
+  {
+    "country": "Peru",
+    "abbreviation": "PE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pe.svg",
+    "value": "PE",
+    "label": "Peru"
+  },
+  {
+    "country": "Philippines",
+    "abbreviation": "PH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ph.svg",
+    "value": "PH",
+    "label": "Philippines"
+  },
+  {
+    "country": "Pitcairn",
+    "abbreviation": "PN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pn.svg",
+    "value": "PN",
+    "label": "Pitcairn"
+  },
+  {
+    "country": "Poland",
+    "abbreviation": "PL",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pl.svg",
+    "value": "PL",
+    "label": "Poland"
+  },
+  {
+    "country": "Portugal",
+    "abbreviation": "PT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pt.svg",
+    "value": "PT",
+    "label": "Portugal"
+  },
+  {
+    "country": "Puerto Rico",
+    "abbreviation": "PR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pr.svg",
+    "value": "PR",
+    "label": "Puerto Rico"
+  },
+  {
+    "country": "Qatar",
+    "abbreviation": "QA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/qa.svg",
+    "value": "QA",
+    "label": "Qatar"
+  },
+  {
+    "country": "Reunion",
+    "abbreviation": "RE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/re.svg",
+    "value": "RE",
+    "label": "Reunion"
+  },
+  {
+    "country": "Romania",
+    "abbreviation": "RO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ro.svg",
+    "value": "RO",
+    "label": "Romania"
+  },
+  {
+    "country": "Russian Federation",
+    "abbreviation": "RU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ru.svg",
+    "value": "RU",
+    "label": "Russian Federation"
+  },
+  {
+    "country": "Rwanda",
+    "abbreviation": "RW",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/rw.svg",
+    "value": "RW",
+    "label": "Rwanda"
+  },
+  {
+    "country": "Saint Helena",
+    "abbreviation": "SH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sh.svg",
+    "value": "SH",
+    "label": "Saint Helena"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "abbreviation": "KN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/kn.svg",
+    "value": "KN",
+    "label": "Saint Kitts and Nevis"
+  },
+  {
+    "country": "Saint Lucia",
+    "abbreviation": "LC",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/lc.svg",
+    "value": "LC",
+    "label": "Saint Lucia"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "abbreviation": "PM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/pm.svg",
+    "value": "PM",
+    "label": "Saint Pierre and Miquelon"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "abbreviation": "VC",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/vc.svg",
+    "value": "VC",
+    "label": "Saint Vincent and the Grenadines"
+  },
+  {
+    "country": "Samoa",
+    "abbreviation": "WS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ws.svg",
+    "value": "WS",
+    "label": "Samoa"
+  },
+  {
+    "country": "San Marino",
+    "abbreviation": "SM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sm.svg",
+    "value": "SM",
+    "label": "San Marino"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "abbreviation": "ST",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/st.svg",
+    "value": "ST",
+    "label": "Sao Tome and Principe"
+  },
+  {
+    "country": "Saudi Arabia",
+    "abbreviation": "SA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sa.svg",
+    "value": "SA",
+    "label": "Saudi Arabia"
+  },
+  {
+    "country": "Senegal",
+    "abbreviation": "SN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sn.svg",
+    "value": "SN",
+    "label": "Senegal"
+  },
+  {
+    "country": "Serbia",
+    "abbreviation": "RS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/rs.svg",
+    "value": "RS",
+    "label": "Serbia"
+  },
+  {
+    "country": "Seychelles",
+    "abbreviation": "SC",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sc.svg",
+    "value": "SC",
+    "label": "Seychelles"
+  },
+  {
+    "country": "Sierra Leone",
+    "abbreviation": "SL",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sl.svg",
+    "value": "SL",
+    "label": "Sierra Leone"
+  },
+  {
+    "country": "Singapore",
+    "abbreviation": "SG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sg.svg",
+    "value": "SG",
+    "label": "Singapore"
+  },
+  {
+    "country": "Slovakia",
+    "abbreviation": "SK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sk.svg",
+    "value": "SK",
+    "label": "Slovakia"
+  },
+  {
+    "country": "Slovenia",
+    "abbreviation": "SI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/si.svg",
+    "value": "SI",
+    "label": "Slovenia"
+  },
+  {
+    "country": "Solomon Islands",
+    "abbreviation": "SB",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sb.svg",
+    "value": "SB",
+    "label": "Solomon Islands"
+  },
+  {
+    "country": "Somalia",
+    "abbreviation": "SO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/so.svg",
+    "value": "SO",
+    "label": "Somalia"
+  },
+  {
+    "country": "South Africa",
+    "abbreviation": "ZA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/za.svg",
+    "value": "ZA",
+    "label": "South Africa"
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "abbreviation": "GS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gs.svg",
+    "value": "GS",
+    "label": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "country": "South Korea",
+    "abbreviation": "KR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/kr.svg",
+    "value": "KR",
+    "label": "South Korea"
+  },
+  {
+    "country": "South Sudan",
+    "abbreviation": "SS",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ss.svg",
+    "value": "SS",
+    "label": "South Sudan"
+  },
+  {
+    "country": "Spain",
+    "abbreviation": "ES",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/es.svg",
+    "value": "ES",
+    "label": "Spain"
+  },
+  {
+    "country": "Sri Lanka",
+    "abbreviation": "LK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/lk.svg",
+    "value": "LK",
+    "label": "Sri Lanka"
+  },
+  {
+    "country": "Sudan",
+    "abbreviation": "SD",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sd.svg",
+    "value": "SD",
+    "label": "Sudan"
+  },
+  {
+    "country": "Suriname",
+    "abbreviation": "SR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sr.svg",
+    "value": "SR",
+    "label": "Suriname"
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "abbreviation": "SJ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sj.svg",
+    "value": "SJ",
+    "label": "Svalbard and Jan Mayen"
+  },
+  {
+    "country": "Swaziland",
+    "abbreviation": "SZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sz.svg",
+    "value": "SZ",
+    "label": "Swaziland"
+  },
+  {
+    "country": "Sweden",
+    "abbreviation": "SE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/se.svg",
+    "value": "SE",
+    "label": "Sweden"
+  },
+  {
+    "country": "Switzerland",
+    "abbreviation": "CH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ch.svg",
+    "value": "CH",
+    "label": "Switzerland"
+  },
+  {
+    "country": "Syria",
+    "abbreviation": "SY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/sy.svg",
+    "value": "SY",
+    "label": "Syria"
+  },
+  {
+    "country": "Tajikistan",
+    "abbreviation": "TJ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tj.svg",
+    "value": "TJ",
+    "label": "Tajikistan"
+  },
+  {
+    "country": "Tanzania",
+    "abbreviation": "TZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tz.svg",
+    "value": "TZ",
+    "label": "Tanzania"
+  },
+  {
+    "country": "Thailand",
+    "abbreviation": "TH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/th.svg",
+    "value": "TH",
+    "label": "Thailand"
+  },
+  {
+    "country": "The Democratic Republic of Congo",
+    "abbreviation": "CD",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/cd.svg",
+    "value": "CD",
+    "label": "The Democratic Republic of Congo"
+  },
+  {
+    "country": "Timor-Leste",
+    "abbreviation": "TL",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tl.svg",
+    "value": "TL",
+    "label": "Timor-Leste"
+  },
+  {
+    "country": "Togo",
+    "abbreviation": "TG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tg.svg",
+    "value": "TG",
+    "label": "Togo"
+  },
+  {
+    "country": "Tokelau",
+    "abbreviation": "TK",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tk.svg",
+    "value": "TK",
+    "label": "Tokelau"
+  },
+  {
+    "country": "Tonga",
+    "abbreviation": "TO",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/to.svg",
+    "value": "TO",
+    "label": "Tonga"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "abbreviation": "TT",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tt.svg",
+    "value": "TT",
+    "label": "Trinidad and Tobago"
+  },
+  {
+    "country": "Tunisia",
+    "abbreviation": "TN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tn.svg",
+    "value": "TN",
+    "label": "Tunisia"
+  },
+  {
+    "country": "Turkey",
+    "abbreviation": "TR",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tr.svg",
+    "value": "TR",
+    "label": "Turkey"
+  },
+  {
+    "country": "Turkmenistan",
+    "abbreviation": "TM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tm.svg",
+    "value": "TM",
+    "label": "Turkmenistan"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "abbreviation": "TC",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tc.svg",
+    "value": "TC",
+    "label": "Turks and Caicos Islands"
+  },
+  {
+    "country": "Tuvalu",
+    "abbreviation": "TV",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/tv.svg",
+    "value": "TV",
+    "label": "Tuvalu"
+  },
+  {
+    "country": "Uganda",
+    "abbreviation": "UG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ug.svg",
+    "value": "UG",
+    "label": "Uganda"
+  },
+  {
+    "country": "Ukraine",
+    "abbreviation": "UA",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ua.svg",
+    "value": "UA",
+    "label": "Ukraine"
+  },
+  {
+    "country": "United Arab Emirates",
+    "abbreviation": "AE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ae.svg",
+    "value": "AE",
+    "label": "United Arab Emirates"
+  },
+  {
+    "country": "United Kingdom",
+    "abbreviation": "GB",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg",
+    "value": "GB",
+    "label": "United Kingdom"
+  },
+  {
+    "country": "United States",
+    "abbreviation": "US",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/us.svg",
+    "value": "US",
+    "label": "United States"
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "abbreviation": "UM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/um.svg",
+    "value": "UM",
+    "label": "United States Minor Outlying Islands"
+  },
+  {
+    "country": "Uruguay",
+    "abbreviation": "UY",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/uy.svg",
+    "value": "UY",
+    "label": "Uruguay"
+  },
+  {
+    "country": "Uzbekistan",
+    "abbreviation": "UZ",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/uz.svg",
+    "value": "UZ",
+    "label": "Uzbekistan"
+  },
+  {
+    "country": "Vanuatu",
+    "abbreviation": "VU",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/vu.svg",
+    "value": "VU",
+    "label": "Vanuatu"
+  },
+  {
+    "country": "Venezuela",
+    "abbreviation": "VE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ve.svg",
+    "value": "VE",
+    "label": "Venezuela"
+  },
+  {
+    "country": "Vietnam",
+    "abbreviation": "VN",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/vn.svg",
+    "value": "VN",
+    "label": "Vietnam"
+  },
+  {
+    "country": "Virgin Islands, British",
+    "abbreviation": "VG",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/vg.svg",
+    "value": "VG",
+    "label": "Virgin Islands, British"
+  },
+  {
+    "country": "Virgin Islands, U.S.",
+    "abbreviation": "VI",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/vi.svg",
+    "value": "VI",
+    "label": "Virgin Islands, U.S."
+  },
+  {
+    "country": "Wallis and Futuna",
+    "abbreviation": "WF",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/wf.svg",
+    "value": "WF",
+    "label": "Wallis and Futuna"
+  },
+  {
+    "country": "Western Sahara",
+    "abbreviation": "EH",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/eh.svg",
+    "value": "EH",
+    "label": "Western Sahara"
+  },
+  {
+    "country": "Yemen",
+    "abbreviation": "YE",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/ye.svg",
+    "value": "YE",
+    "label": "Yemen"
+  },
+  {
+    "country": "Zambia",
+    "abbreviation": "ZM",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/zm.svg",
+    "value": "ZM",
+    "label": "Zambia"
+  },
+  {
+    "country": "Zimbabwe",
+    "abbreviation": "ZW",
+    "avatar": "https://lipis.github.io/flag-icon-css/flags/4x3/zw.svg",
+    "value": "ZW",
+    "label": "Zimbabwe"
+  }
+]

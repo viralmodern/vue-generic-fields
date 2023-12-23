@@ -1,0 +1,427 @@
+{
+  "STATUS": {
+    "N/A": {
+      "COLOR": "",
+      "LABEL": "N/A",
+      "REG": [
+        "Z",
+        "z",
+        "5",
+        5
+      ]
+    },
+    "No group": {
+      "COLOR": "",
+      "LABEL": "No group",
+      "REG": [
+        "Z",
+        "z",
+        "5",
+        5
+      ]
+    },
+    "NA": {
+      "COLOR": "warning",
+      "LABEL": "NA",
+      "REG": [
+        "Z",
+        "z",
+        "5",
+        5
+      ]
+    },
+    "No": {
+      "COLOR": "warning",
+      "LABEL": "No",
+      "REG": [
+        "Z",
+        "z",
+        "5",
+        5
+      ]
+    },
+    "Yes": {
+      "COLOR": "primary",
+      "LABEL": "Yes",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Active": {
+      "COLOR": "green",
+      "LABEL": "Active",
+      "REG": [
+        "A",
+        "a"
+      ]
+    },
+    "Inactive": {
+      "COLOR": "warning",
+      "LABEL": "Inactive",
+      "REG": [
+        "I",
+        "i"
+      ]
+    },
+    "Unknown": {
+      "COLOR": "grey",
+      "LABEL": "Unknown",
+      "REG": [
+        "U",
+        "u"
+      ]
+    },
+    "New": {
+      "COLOR": "blue",
+      "LABEL": "New",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Preparation": {
+      "COLOR": "orange",
+      "LABEL": "Preparation",
+      "REG": [
+        2,
+        "2"
+      ]
+    },
+    "Pre Trial": {
+      "COLOR": "#cddc39",
+      "LABEL": "Pre Trial",
+      "REG": [
+        "3",
+        3
+      ]
+    },
+    "Discovery": {
+      "COLOR": "brown",
+      "LABEL": "Discovery",
+      "REG": [
+        "4",
+        4
+      ]
+    },
+    "Awaiting Decision": {
+      "COLOR": "amber",
+      "LABEL": "Awaiting Decision",
+      "REG": [
+        "5",
+        5
+      ]
+    },
+    "Trial": {
+      "COLOR": "cyan",
+      "LABEL": "Trial",
+      "REG": [
+        "6",
+        6
+      ]
+    },
+    "Appeal": {
+      "COLOR": "khaki",
+      "LABEL": "Appeal",
+      "REG": [
+        "7",
+        7
+      ]
+    },
+    "Done": {
+      "COLOR": "green",
+      "LABEL": "Done",
+      "REG": [
+        "8",
+        8
+      ]
+    },
+    "Very Low": {
+      "COLOR": "amber",
+      "LABEL": "Very Low",
+      "REG": [
+        "8",
+        8
+      ]
+    },
+    "Low": {
+      "COLOR": "orange",
+      "LABEL": "Low",
+      "REG": [
+        "8",
+        8
+      ]
+    },
+    "Normal": {
+      "COLOR": "cyan",
+      "LABEL": "Normal",
+      "REG": [
+        "8",
+        8,
+        "2",
+        2
+      ]
+    },
+    "High": {
+      "COLOR": "#FF3B36",
+      "LABEL": "High",
+      "REG": [
+        "8",
+        8
+      ]
+    },
+    "Very High": {
+      "COLOR": "red",
+      "LABEL": "Very High",
+      "REG": [
+        "8",
+        8
+      ]
+    },
+    "Billable": {
+      "COLOR": "red",
+      "LABEL": "Billable",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "On Billable": {
+      "COLOR": "green",
+      "LABEL": "On Billable",
+      "REG": [
+        "2",
+        2
+      ]
+    },
+    "Invoiced": {
+      "COLOR": "amber",
+      "LABEL": "Invoiced",
+      "REG": [
+        "3",
+        3
+      ]
+    },
+    "Not Invoiced": {
+      "COLOR": "orange",
+      "LABEL": "Not Invoiced",
+      "REG": [
+        "4",
+        4
+      ]
+    },
+    "Recurring": {
+      "COLOR": "primary",
+      "LABEL": "Recurring",
+      "REG": [
+        "5",
+        5
+      ]
+    },
+    "Paid": {
+      "COLOR": "green",
+      "LABEL": "Paid",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Unpaid": {
+      "COLOR": "black",
+      "LABEL": "Unpaid",
+      "REG": [
+        "2",
+        2
+      ]
+    },
+    "Disputed": {
+      "COLOR": "orange",
+      "LABEL": "Disputed",
+      "REG": [
+        "3",
+        3
+      ]
+    },
+    "YES": {
+      "COLOR": "primary",
+      "LABEL": "YES",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "NO": {
+      "COLOR": "black",
+      "LABEL": "NO",
+      "REG": [
+        "0",
+        0
+      ]
+    },
+    "Ultimate": {
+      "COLOR": "rgb(244, 67, 54)",
+      "LABEL": "Ultimate",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Evidentiary": {
+      "COLOR": "rgb(255, 87, 34)",
+      "LABEL": "Evidentiary",
+      "REG": [
+        "2",
+        2
+      ]
+    },
+    "Plaintiff": {
+      "COLOR": "primary",
+      "LABEL": "Plaintiff",
+      "REG": [
+        "2",
+        2
+      ]
+    },
+    "Defendant": {
+      "COLOR": "rgb(255, 87, 34)",
+      "LABEL": "Defendant",
+      "REG": [
+        "2",
+        2
+      ]
+    },
+    "Non Party": {
+      "COLOR": "rgb(0, 0, 0)",
+      "LABEL": "Non Party",
+      "REG": [
+        "2",
+        2
+      ]
+    },
+    "Court Order": {
+      "COLOR": "green",
+      "LABEL": "Court Order",
+      "REG": [
+        "2",
+        2
+      ]
+    },
+    "Motion": {
+      "COLOR": "rgb(255, 87, 34)",
+      "LABEL": "Motion",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Order": {
+      "COLOR": "orange",
+      "LABEL": "Order",
+      "REG": [
+        "2",
+        2
+      ]
+    },
+    "Notice": {
+      "COLOR": "#3c8577",
+      "LABEL": "Notice",
+      "REG": [
+        "3",
+        4
+      ]
+    },
+    "Certificate": {
+      "COLOR": "primary",
+      "LABEL": "Certificate",
+      "REG": [
+        "4",
+        4
+      ]
+    },
+    "Very Strong": {
+      "COLOR": "rgba(18, 99, 54, 0.95)",
+      "LABEL": "Very Strong",
+      "REG": [
+        "4",
+        4
+      ]
+    },
+    "Strong": {
+      "COLOR": "rgba(57, 119, 85, 0.95)",
+      "LABEL": "Strong",
+      "REG": [
+        "3",
+        3
+      ]
+    },
+    "Weak": {
+      "COLOR": "rgba(143, 226, 181, 0.95)",
+      "LABEL": "Weak",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Publish": {
+      "COLOR": "rgba(143, 226, 181, 0.95)",
+      "LABEL": "Publish",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Unpublish": {
+      "COLOR": "grey",
+      "LABEL": "Unpublish",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Future": {
+      "COLOR": "green",
+      "LABEL": "Future",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Scheduling Order": {
+      "COLOR": "green",
+      "LABEL": "Future",
+      "REG": [
+        "1",
+        1
+      ]
+    },
+    "Order Deadline": {
+      "COLOR": "orange",
+      "LABEL": "Order Deadline",
+      "REG": [
+        "1",
+        1
+      ]
+    }
+  },
+  "COLORS": [
+    "#FF5252",
+    "#EA80FC",
+    "#2196F3",
+    "#B39DDB",
+    "#009688",
+    "#00ACC1",
+    "#03A9F4",
+    "#81C784",
+    "#689F38",
+    "#AFB42B",
+    "#EEFF41",
+    "#FFF176",
+    "#FFC107",
+    "#FF9800",
+    "#795548",
+    "#607D8B",
+    "#9E9E9E",
+    "#212121",
+    "#2192E8"
+  ]
+}

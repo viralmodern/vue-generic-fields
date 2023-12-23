@@ -1,0 +1,27 @@
+<template>
+  <div>
+    <CalendarHeadMapChart :chart-options="chartOptions" :id-chart="idChart" />
+  </div>
+</template>
+
+<script>
+import CalendarHeadMapChart from '@/sat-vue-toolkit/components/charts/CalendarHeadMapChart.vue'
+import { $$resultsHeadMap } from '@/sat-vue-toolkit/components/slick-grid/helpers/chart'
+export default {
+  name: 'CalendarHeatMapEntityExplorer',
+  components: { CalendarHeadMapChart },
+  props: {
+    idChart: {
+      type: String,
+      required: true,
+    },
+  },
+  computed: {
+    chartOptions() {
+      return $$resultsHeadMap()
+    },
+  },
+}
+</script>
+
+<style scoped></style>

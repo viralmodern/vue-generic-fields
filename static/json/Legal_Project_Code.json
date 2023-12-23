@@ -1,0 +1,66 @@
+[
+  {
+    "Code": "P100 Project Administration.",
+    "Definition": "Focuses on administrative aspects of the assignment, including planning, budgeting, and maintenance of documents. Covers developing, negotiating, and revising the administrative plan and the budget for a matter. Also includes developing and communicating project status reports. Time coded here is to be distinguished from strategizing about the project, which is included in the P300 code."
+  },
+  {
+    "Code": "P200 Fact Gathering/Due Diligence.",
+    "Definition": "Includes all time spent investigating facts, obtaining documents and completing due diligence and the preparation of related reports and reviews with clients. Also includes coordination with third parties (including other counsel) in connection with fact investigation, interviews of client and non-client personnel, document review performed for purposes of identifying, understanding and analyzing facts and issues, and all related communications and correspondence."
+  },
+  {
+    "Code": "P210 Corporate Review.",
+    "Definition": "This task includes all fact investigation/due diligence from a corporate perspective, such as structural reviews, material contract reviews, SEC filing reviews, financing document reviews, and industry information reviews."
+  },
+  {
+    "Code": "P220 Tax.",
+    "Definition": "This task includes all steps involved in conducting fact investigation/due diligence from a tax perspective."
+  },
+  {
+    "Code": "P230 Environmental.",
+    "Definition": "This task includes all fact investigation/due diligence from an environmental perspective."
+  },
+  {
+    "Code": "P240 Real and Personal Property.",
+    "Definition": "This task includes all fact investigation/due diligence from a real and personal property perspective."
+  },
+  {
+    "Code": "P250 Employee/Labor.",
+    "Definition": "This task includes all fact investigation/due diligence from an employee benefits and labor perspective."
+  },
+  {
+    "Code": "P260 Intellectual Property.",
+    "Definition": "This task includes all fact investigation/due diligence from an intellectual property (patent, trademarks, copyrights) perspective."
+  },
+  {
+    "Code": "P270 Regulatory Reviews.",
+    "Definition": "This task includes fact investigation/due diligence from a regulatory perspective not covered elsewhere. Includes review of agency filings (e.g., FCC, FTC, and State analogues) by a party to or the subject of the transaction or project. Also includes consumer credit reviews."
+  },
+  {
+    "Code": "P280 Other.",
+    "Definition": "This task includes all fact investigation/due diligence not captured more specifically in the P200 codes set forth above."
+  },
+  {
+    "Code": "P300 Structure/Strategy/Analysis.",
+    "Definition": "Includes time spent in planning the approach to the deal or project. Tasks include all analysis performed for purposes of developing and reassessing the strategy for the project or transaction, and all steps taken to develop a written outline or description of the structure of a transaction or the strategy for a matter (e.g., term sheets) throughout the life of the matter."
+  },
+  {
+    "Code": "P400 Initial Document Preparation/Filing.",
+    "Definition": "This phase includes all tasks undertaken to prepare transaction documents and opinions prior to their being sent to non-client third parties. Also includes all tasks undertaken to file documents (including regulatory filings). All related communications with the client and review of client generated transaction documentation should be coded here."
+  },
+  {
+    "Code": "P500 Negotiation/Revision/Responses.",
+    "Definition": "This phase includes conducting negotiations, revising the initial (P400) transaction documentation as a result of such negotiations, attendance at meetings, and responses thereto (including communications with clients with respect thereto). The review of documents received from non-client third parties should also be coded here."
+  },
+  {
+    "Code": "P600 Completion/Closing.",
+    "Definition": "This phase includes all tasks related to transaction pre-closing and closing, project completion or filing acceptance, such as attendance at closing."
+  },
+  {
+    "Code": "P700 Post-Completion/Post-Closing.",
+    "Definition": "This phase includes all post-completion or post-closing tasks such as amendments to final documentation and resolution of post-closing issues. Also includes all implementation tasks (e.g., funds held in escrow) and preparation of closing binders (i.e., primarily clerical actions). Would not typically include total or significant restructuring which should be considered a new assignment."
+  },
+  {
+    "Code": "P800 Maintenance and Renewal.",
+    "Definition": "This phase includes all tasks related to subsequent maintenance and renewal requirements under the terms of the transaction or project such as monitoring of lease agreements, routine waivers and coordination of UCC requirements."
+  }
+]

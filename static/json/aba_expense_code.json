@@ -1,0 +1,102 @@
+{
+  "E100": {
+    "label": "E100 Expenses",
+    "value": "E100"
+  },
+  "E101": {
+    "label": "E101 Copying",
+    "value": "E101"
+  },
+  "E102": {
+    "label": "E102 Outside printing",
+    "value": "E102"
+  },
+  "E103": {
+    "label": "E103 Word processing",
+    "value": "E103"
+  },
+  "E104": {
+    "label": "E104 Facsimile",
+    "value": "E104"
+  },
+  "E105": {
+    "label": "E105 Telephone",
+    "value": "E105"
+  },
+  "E106": {
+    "label": "E106 Online research",
+    "value": "E106"
+  },
+  "E107": {
+    "label": "E107 Delivery services/messengers",
+    "value": "E107"
+  },
+  "E108": {
+    "label": "E108 Postage",
+    "value": "E108"
+  },
+  "E109": {
+    "label": "E109 Local travel",
+    "value": "E109"
+  },
+  "E110": {
+    "label": "E110 Out-of-town travel",
+    "value": "E110"
+  },
+  "E111": {
+    "label": "E111 Meals",
+    "value": "E111"
+  },
+  "E112": {
+    "label": "E112 Court fees",
+    "value": "E112"
+  },
+  "E113": {
+    "label": "E113 Subpoena fees",
+    "value": "E113"
+  },
+  "E114": {
+    "label": "E114 Witness fees",
+    "value": "E114"
+  },
+  "E115": {
+    "label": "E115 Deposition transcripts",
+    "value": "E115"
+  },
+  "E116": {
+    "label": "E116 Trial transcripts",
+    "value": "E116"
+  },
+  "E117": {
+    "label": "E117 Trial exhibits",
+    "value": "E117"
+  },
+  "E118": {
+    "label": "E118 Litigation support vendors",
+    "value": "E118"
+  },
+  "E119": {
+    "label": "E119 Experts",
+    "value": "E119"
+  },
+  "E120": {
+    "label": "E120 Private investigators",
+    "value": "E120"
+  },
+  "E121": {
+    "label": "E121 Arbitrators/mediators",
+    "value": "E121"
+  },
+  "E122": {
+    "label": "E122 Local counsel",
+    "value": "E122"
+  },
+  "E123": {
+    "label": "E123 Other professionals",
+    "value": "E123"
+  },
+  "E124": {
+    "label": "E124 Other",
+    "value": "E124"
+  }
+}
